@@ -1499,6 +1499,12 @@
       "title": "Anne of Green Gables. Ania z Zielonego Wzgórza do czytania po angielsku. Słownik + ćwiczenia + mp3 gratis - Komerski Grzegorz, Montgomery Lucy Maud, Jemielniak Dariusz, Fihel Marta",
       "url": "https://www.empik.com/anne-of-green-gables-ania-z-zielonego-wzgorza-do-czytania-po-angielsku-slownik-cwiczenia-mp3-g-montgomery-lucy-maud-fihel-marta-jemielniak-dariusz-komerski-grzegorz,p1752823268,ksiazka-p",
       "firstSeen": "2026-07-20T15:09:40.767Z"
+    },
+    "p1754457175": {
+      "id": "p1754457175",
+      "title": "Dziesięć dni Europy. Archeologia pamięci - Gebert Konstanty",
+      "url": "https://www.empik.com/dziesiec-dni-europy-archeologia-pamieci-gebert-konstanty,p1754457175,ksiazka-p",
+      "firstSeen": "2026-07-20T22:15:00.793Z"
     }
   },
   "log": [
@@ -1531,7 +1537,12 @@
       "at": "2026-07-20T19:05:06.639Z",
       "total": 250,
       "new": 0
+    },
+    {
+      "at": "2026-07-20T22:15:00.793Z",
+      "total": 250,
+      "new": 1
     }
   ],
-  "lastRun": "2026-07-20T19:05:06.639Z"
+  "lastRun": "2026-07-20T22:15:00.793Z"
 }
