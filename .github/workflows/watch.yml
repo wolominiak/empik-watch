@@ -1,0 +1,39 @@
+name: Empik zapowiedzi watch
+
+on:
+  schedule:
+    - cron: "17 5,11,17,23 * * *" # 4x dziennie (UTC)
+  workflow_dispatch: {} # ręczne odpalenie z zakładki Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: empik-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm install
+
+      - name: Run scraper
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: node scraper.js
+
+      - name: Commit state + report
+        run: |
+          git config user.name "empik-watch-bot"
+          git config user.email "actions@github.com"
+          git add state.json docs/index.html
+          git diff --cached --quiet || git commit -m "watch: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
