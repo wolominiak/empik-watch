@@ -1488,12 +1488,17 @@
       "url": "https://www.empik.com/zapach-szkockich-nocy-dominika-brych,p1753535351,ksiazka-p",
       "firstSeen": "2026-07-20T14:52:55.800Z"
     },
-
     "p1754742161": {
       "id": "p1754742161",
       "title": "Odporność psychiczna dziecka. 65 ćwiczeń wzmacniających siłę, spokój i wiarę w siebie - Grzela-Opalińska Agnieszka",
       "url": "https://www.empik.com/odpornosc-psychiczna-dziecka-65-cwiczen-wzmacniajacych-sile-spokoj-i-wiare-w-siebie-grzela-opalinska-agnieszka,p1754742161,ksiazka-p",
       "firstSeen": "2026-07-20T14:52:55.800Z"
+    },
+    "p1752823268": {
+      "id": "p1752823268",
+      "title": "Anne of Green Gables. Ania z Zielonego Wzgórza do czytania po angielsku. Słownik + ćwiczenia + mp3 gratis - Komerski Grzegorz, Montgomery Lucy Maud, Jemielniak Dariusz, Fihel Marta",
+      "url": "https://www.empik.com/anne-of-green-gables-ania-z-zielonego-wzgorza-do-czytania-po-angielsku-slownik-cwiczenia-mp3-g-montgomery-lucy-maud-fihel-marta-jemielniak-dariusz-komerski-grzegorz,p1752823268,ksiazka-p",
+      "firstSeen": "2026-07-20T15:09:40.767Z"
     }
   },
   "log": [
@@ -1501,7 +1506,12 @@
       "at": "2026-07-20T14:52:55.800Z",
       "total": 250,
       "new": 250
+    },
+    {
+      "at": "2026-07-20T15:09:40.767Z",
+      "total": 250,
+      "new": 1
     }
   ],
-  "lastRun": "2026-07-20T14:52:55.800Z"
+  "lastRun": "2026-07-20T15:09:40.767Z"
 }
