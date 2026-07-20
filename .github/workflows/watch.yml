@@ -16,11 +16,11 @@ jobs:
   watch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
 
       - run: npm install
 
@@ -30,10 +30,16 @@ jobs:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
         run: node scraper.js
 
+      - name: Run taniaksiazka
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: node taniaksiazka.js
+
       - name: Commit state + report
         run: |
           git config user.name "empik-watch-bot"
           git config user.email "actions@github.com"
-          git add state.json docs/index.html
+          git add state.json state-tk.json docs/
           git diff --cached --quiet || git commit -m "watch: $(date -u +'%Y-%m-%d %H:%M') UTC"
           git push
