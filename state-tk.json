@@ -3156,6 +3156,13 @@
       "url": "https://www.taniaksiazka.pl/dekontaminacja-wyrobow-medycznych-w-4-p-2497314.html",
       "category": "Nauki ścisłe, medycyna",
       "firstSeen": "2026-07-21T14:26:37.490Z"
+    },
+    "tk2502054": {
+      "id": "tk2502054",
+      "title": "Melancholia sprzeciwu",
+      "url": "https://www.taniaksiazka.pl/melancholia-sprzeciwu-p-2502054.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-07-21T17:24:14.881Z"
     }
   },
   "log": [
@@ -3200,7 +3207,13 @@
       "total": 402,
       "new": 1,
       "failed": 0
+    },
+    {
+      "at": "2026-07-21T17:24:14.881Z",
+      "total": 401,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-21T14:26:37.490Z"
+  "lastRun": "2026-07-21T17:24:14.881Z"
 }
