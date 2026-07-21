@@ -181,6 +181,43 @@ function renderReport(state, lastRun) {
   fs.writeFileSync(REPORT_FILE, html);
 }
 
+async function sendTelegramChunks(header, lines) {
+  const LIMIT = 3800; // margines pod limitem 4096 znaków Telegrama
+  const chunks = [];
+  let current = [];
+  let len = 0;
+  for (const line of lines) {
+    if (len + line.length + 1 > LIMIT && current.length > 0) {
+      chunks.push(current);
+      current = [];
+      len = 0;
+    }
+    current.push(line);
+    len += line.length + 1;
+  }
+  if (current.length > 0) chunks.push(current);
+
+  for (let i = 0; i < chunks.length; i++) {
+    const part = chunks.length > 1 ? ` (${i + 1}/${chunks.length})` : "";
+    const text = `${header}${part}\n\n${chunks[i].join("\n")}`;
+    const res = await fetch(
+      `https://api.telegram.org/bot${process.env.TG_BOT_TOKEN}/sendMessage`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          chat_id: process.env.TG_CHAT_ID,
+          text,
+          parse_mode: "HTML",
+          disable_web_page_preview: true,
+        }),
+      }
+    );
+    if (!res.ok) console.error(`Telegram: HTTP ${res.status}`);
+    await sleep(1100); // limit Telegrama: ~1 wiadomość/sek.
+  }
+}
+
 async function main() {
   const state = loadState();
   const isFirstRun = Object.keys(state.seen).length === 0;
@@ -229,21 +266,11 @@ async function main() {
   for (const p of newOnes.slice(0, 30)) console.log(`  + [${p.category}] ${p.title}`);
 
   if (!isFirstRun && newOnes.length > 0 && process.env.TG_BOT_TOKEN && process.env.TG_CHAT_ID) {
-    const lines = newOnes
-      .slice(0, 20)
-      .map((p) => `• <a href="${p.url}">${escapeHtml(p.title)}</a> <i>(${escapeHtml(p.category)})</i>`)
-      .join("\n");
-    const more = newOnes.length > 20 ? `\n…i ${newOnes.length - 20} więcej` : "";
-    await fetch(`https://api.telegram.org/bot${process.env.TG_BOT_TOKEN}/sendMessage`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        chat_id: process.env.TG_CHAT_ID,
-        text: `📗 <b>TaniaKsiazka: ${newOnes.length} nowych zapowiedzi</b>\n\n${lines}${more}`,
-        parse_mode: "HTML",
-        disable_web_page_preview: true,
-      }),
-    });
+    const lines = newOnes.map(
+      (p) => `• <a href="${p.url}">${escapeHtml(p.title)}</a> <i>(${escapeHtml(p.category)})</i>`
+    );
+    const header = `📗 <b>TaniaKsiazka: ${newOnes.length} nowych zapowiedzi</b>`;
+    await sendTelegramChunks(header, lines);
   }
 }
 
