@@ -103,6 +103,7 @@ function renderReport(state, currentIds, lastRun) {
         .map(
           (p) => `<li class="${currentIds.has(p.id) ? "" : "gone"}">
             <a href="${escapeHtml(p.url)}" target="_blank" rel="noopener">${escapeHtml(p.title || p.id)}</a>
+            ${p.category ? `<span class="cat">${escapeHtml(p.category)}</span>` : ""}
             ${currentIds.has(p.id) ? "" : '<span class="badge">zniknęło z listingu</span>'}
           </li>`
         )
@@ -138,6 +139,9 @@ function renderReport(state, currentIds, lastRun) {
   a:hover { color: var(--accent); }
   .gone a { color: var(--muted); text-decoration: line-through; }
   .badge { font-size: .7rem; color: var(--muted); margin-left: 6px; }
+  .cat { display: block; font-size: .72rem; color: var(--muted); margin-top: 1px; }
+  .nav { font-size: .875rem; margin-bottom: 24px; }
+  .nav a { color: var(--accent); }
   .empty { color: var(--muted); }
 </style>
 </head>
@@ -145,6 +149,7 @@ function renderReport(state, currentIds, lastRun) {
 <main>
   <h1>Empik — nowe zapowiedzi 📚</h1>
   <p class="sub">Kategoria: książki / przedsprzedaż · Ostatnie sprawdzenie: ${lastRun} · Śledzonych łącznie: ${Object.keys(state.seen).length}</p>
+  <p class="nav"><a href="taniaksiazka.html">→ raport TaniaKsiazka</a></p>
   ${sections || '<p class="empty">Brak nowości w ostatnich 30 dniach (albo pierwszy run — wszystko poniżej to stan początkowy).</p>'}
 </main>
 </body>
@@ -184,9 +189,21 @@ async function main() {
   const newOnes = [];
   for (const [id, p] of all) {
     if (!state.seen[id]) {
-      state.seen[id] = { ...p, firstSeen: now };
       newOnes.push(p);
     }
+  }
+
+  // Doczytaj kategorię ze stron produktowych (tylko dla nowych, max 60/run)
+  if (!isFirstRun && newOnes.length > 0 && newOnes.length <= 60) {
+    console.log(`\nPobieram kategorie dla ${newOnes.length} nowych pozycji...`);
+    for (const p of newOnes) {
+      p.category = await fetchProductCategory(p.url);
+      await sleep(1800 + Math.random() * 1200);
+    }
+  }
+
+  for (const p of newOnes) {
+    state.seen[p.id] = { ...p, firstSeen: now };
   }
 
   state.lastRun = now;
@@ -198,13 +215,69 @@ async function main() {
 
   console.log(`\nŁącznie na listingu: ${all.size}`);
   console.log(`Nowych: ${newOnes.length}${isFirstRun ? " (pierwszy run — stan początkowy)" : ""}`);
-  for (const p of newOnes.slice(0, 30)) console.log(`  + ${p.title}`);
+  for (const p of newOnes.slice(0, 30))
+    console.log(`  + ${p.category ? `[${p.category}] ` : ""}${p.title}`);
 
   // Opcjonalne powiadomienie Telegram (sekrety: TG_BOT_TOKEN, TG_CHAT_ID)
   if (!isFirstRun && newOnes.length > 0 && process.env.TG_BOT_TOKEN && process.env.TG_CHAT_ID) {
-    const lines = newOnes.map((p) => `• <a href="${p.url}">${escapeHtml(p.title)}</a>`);
+    const lines = newOnes.map(
+      (p) =>
+        `• <a href="${p.url}">${escapeHtml(p.title)}</a>${p.category ? ` <i>(${escapeHtml(p.category)})</i>` : ""}`
+    );
     const header = `📚 <b>Empik: ${newOnes.length} nowych zapowiedzi</b>`;
     await sendTelegramChunks(header, lines);
+  }
+}
+
+// Wyciąga kategorię (gatunek) ze strony produktu — z danych JSON-LD (BreadcrumbList)
+// albo z linków breadcrumb w HTML. Zwraca "" jak się nie uda.
+async function fetchProductCategory(url) {
+  const SKIP = new Set([
+    "empik", "empik.com", "strona główna", "książki", "ksiazki",
+    "zapowiedzi", "przedsprzedaż", "bestsellery", "nowości", "promocje",
+  ]);
+  try {
+    const res = await fetch(url, { headers: HEADERS });
+    if (!res.ok) return "";
+    const html = await res.text();
+    const $ = cheerio.load(html);
+
+    // 1) JSON-LD BreadcrumbList
+    let crumbs = [];
+    $("script[type='application/ld+json']").each((_, el) => {
+      try {
+        const data = JSON.parse($(el).contents().text());
+        const items = [].concat(data).flatMap((d) =>
+          d && d["@type"] === "BreadcrumbList" ? d.itemListElement || [] : []
+        );
+        if (items.length > 0) {
+          crumbs = items
+            .sort((a, b) => (a.position || 0) - (b.position || 0))
+            .map((i) => (i.name || i.item?.name || "").trim())
+            .filter(Boolean);
+        }
+      } catch {}
+    });
+
+    // 2) Fallback: breadcrumby w HTML
+    if (crumbs.length === 0) {
+      $("[class*='breadcrumb'] a, nav[aria-label*='readcrumb'] a").each((_, el) => {
+        const t = $(el).text().replace(/\s+/g, " ").trim();
+        if (t) crumbs.push(t);
+      });
+    }
+
+    const meaningful = crumbs.filter((c) => !SKIP.has(c.toLowerCase()));
+    if (meaningful.length === 0) return "";
+    // Ostatni okruszek to zwykle tytuł produktu — bierzemy przedostatni sensowny
+    const last = meaningful[meaningful.length - 1];
+    const category =
+      meaningful.length >= 2 && last.length > 40
+        ? meaningful[meaningful.length - 2]
+        : last;
+    return category.slice(0, 60);
+  } catch {
+    return "";
   }
 }
 
