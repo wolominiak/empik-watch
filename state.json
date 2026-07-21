@@ -1505,6 +1505,54 @@
       "title": "Dziesięć dni Europy. Archeologia pamięci - Gebert Konstanty",
       "url": "https://www.empik.com/dziesiec-dni-europy-archeologia-pamieci-gebert-konstanty,p1754457175,ksiazka-p",
       "firstSeen": "2026-07-20T22:15:00.793Z"
+    },
+    "p1741795686": {
+      "id": "p1741795686",
+      "title": "Jak przechytrzyć wroga - Kyra Parsi",
+      "url": "https://www.empik.com/jak-przechytrzyc-wroga-kyra-parsi,p1741795686,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1742570279": {
+      "id": "p1742570279",
+      "title": "Coma. Zaśnij znów. Tom 2. Część 1 - Lisette Mimi",
+      "url": "https://www.empik.com/coma-zasnij-znow-tom-2-czesc-1-lisette-mimi,p1742570279,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1755752402": {
+      "id": "p1755752402",
+      "title": "Śladami utraconego życia. Rupert Ogrodnik. Tom 3 - Wolwowicz Katarzyna",
+      "url": "https://www.empik.com/sladami-utraconego-zycia-rupert-ogrodnik-tom-3-wolwowicz-katarzyna,p1755752402,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1753181585": {
+      "id": "p1753181585",
+      "title": "Vademecum bezpiecznej rodziny. Poradnik postępowania w sytuacji zagrożenia - Goźliński Dariusz, Dąbek Szczepan",
+      "url": "https://www.empik.com/vademecum-bezpiecznej-rodziny-poradnik-postepowania-w-sytuacji-zagrozenia-dabek-szczepan-gozlinski-dariusz,p1753181585,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1758846438": {
+      "id": "p1758846438",
+      "title": "Turysta futurysta - Czarnecki Maciej",
+      "url": "https://www.empik.com/turysta-futurysta-czarnecki-maciej,p1758846438,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1753507659": {
+      "id": "p1753507659",
+      "title": "Wieczna huśtawka - Cygler Hanna",
+      "url": "https://www.empik.com/wieczna-hustawka-cygler-hanna,p1753507659,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1756349746": {
+      "id": "p1756349746",
+      "title": "Najlepsza książka do czytania sylabami. Wesołe historie. Książkożercy - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/najlepsza-ksiazka-do-czytania-sylabami-wesole-historie-ksiazkozercy-opracowanie-zbiorowe,p1756349746,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1741628922": {
+      "id": "p1741628922",
+      "title": "Odjazd! Szkoła magicznych zwierząt. Tom 4 - Auer Margit",
+      "url": "https://www.empik.com/odjazd-szkola-magicznych-zwierzat-tom-4-auer-margit,p1741628922,ksiazka-p",
+      "firstSeen": "2026-07-21T11:19:53.155Z"
     }
   },
   "log": [
@@ -1542,7 +1590,12 @@
       "at": "2026-07-20T22:15:00.793Z",
       "total": 250,
       "new": 1
+    },
+    {
+      "at": "2026-07-21T11:19:53.155Z",
+      "total": 250,
+      "new": 8
     }
   ],
-  "lastRun": "2026-07-20T22:15:00.793Z"
+  "lastRun": "2026-07-21T11:19:53.155Z"
 }
