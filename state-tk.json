@@ -3149,6 +3149,13 @@
       "url": "https://www.taniaksiazka.pl/sekrety-karkonoszy-sekrety-p-2507329.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-07-21T11:20:15.527Z"
+    },
+    "tk2497314": {
+      "id": "tk2497314",
+      "title": "Dekontaminacja wyrobów medycznych w.4",
+      "url": "https://www.taniaksiazka.pl/dekontaminacja-wyrobow-medycznych-w-4-p-2497314.html",
+      "category": "Nauki ścisłe, medycyna",
+      "firstSeen": "2026-07-21T14:26:37.490Z"
     }
   },
   "log": [
@@ -3187,7 +3194,13 @@
       "total": 406,
       "new": 43,
       "failed": 0
+    },
+    {
+      "at": "2026-07-21T14:26:37.490Z",
+      "total": 402,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-21T11:20:15.527Z"
+  "lastRun": "2026-07-21T14:26:37.490Z"
 }
