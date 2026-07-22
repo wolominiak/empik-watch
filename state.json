@@ -2191,6 +2191,69 @@
       "url": "https://www.empik.com/dziewczyna-z-lasu-bujak-karolina,p1739825665,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1749360237": {
+      "id": "p1749360237",
+      "title": "Nienasycone spojrzenie - Scarlett Peacock",
+      "url": "https://www.empik.com/nienasycone-spojrzenie-scarlett-peacock,p1749360237,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1750851498": {
+      "id": "p1750851498",
+      "title": "Kiedy kończy się lato - Błaszczuk Anna",
+      "url": "https://www.empik.com/kiedy-konczy-sie-lato-blaszczuk-anna,p1750851498,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1760108775": {
+      "id": "p1760108775",
+      "title": "Prawda. Świat Dysku. Tom 25 - Pratchett Terry",
+      "url": "https://www.empik.com/prawda-swiat-dysku-tom-25-pratchett-terry,p1760108775,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1750868610": {
+      "id": "p1750868610",
+      "title": "Sekret w kopercie - Dulak Katarzyna",
+      "url": "https://www.empik.com/sekret-w-kopercie-dulak-katarzyna,p1750868610,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1760475084": {
+      "id": "p1760475084",
+      "title": "Wilcze córki. Oksana tom 3 - Ryrych Katarzyna",
+      "url": "https://www.empik.com/wilcze-corki-oksana-tom-3-ryrych-katarzyna,p1760475084,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1750880320": {
+      "id": "p1750880320",
+      "title": "Oskarżona - McDermott Quentin",
+      "url": "https://www.empik.com/oskarzona-mcdermott-quentin,p1750880320,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1745703975": {
+      "id": "p1745703975",
+      "title": "Czarne złoto - Rzewuski Paweł",
+      "url": "https://www.empik.com/czarne-zloto-rzewuski-pawel,p1745703975,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1755572806": {
+      "id": "p1755572806",
+      "title": "4 skuteczne strategie zarządzania - Kannapin Oliver, Covey Stephen R.",
+      "url": "https://www.empik.com/4-skuteczne-strategie-zarzadzania-covey-stephen-r-kannapin-oliver,p1755572806,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1750880986": {
+      "id": "p1750880986",
+      "title": "Negocjator - Stelar Marek",
+      "url": "https://www.empik.com/negocjator-stelar-marek,p1750880986,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T22:17:45.157Z"
     }
   },
   "log": [
@@ -2293,7 +2356,12 @@
       "at": "2026-07-22T17:43:20.484Z",
       "total": 340,
       "new": 8
+    },
+    {
+      "at": "2026-07-22T22:17:45.157Z",
+      "total": 345,
+      "new": 9
     }
   ],
-  "lastRun": "2026-07-22T17:43:20.484Z"
+  "lastRun": "2026-07-22T22:17:45.157Z"
 }
