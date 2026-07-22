@@ -2135,6 +2135,62 @@
       "title": "Morderstwo na Gęsiej Szyi. Taatrzańskie zmory Bolesława Prusa - Wiercioch Wojciech, Szymska-Wiercioch Jolanta",
       "url": "https://www.empik.com/morderstwo-na-gesiej-szyi-taatrzanskie-zmory-boleslawa-prusa-wiercioch-wojciech-szymska-wiercioch-jolanta,p1759748902,ksiazka-p",
       "firstSeen": "2026-07-22T15:24:31.267Z"
+    },
+    "p1758842821": {
+      "id": "p1758842821",
+      "title": "Chory (k)raj. Jak naprawdę żyje się w Ameryce - Korab Alek",
+      "url": "https://www.empik.com/chory-k-raj-jak-naprawde-zyje-sie-w-ameryce-korab-alek,p1758842821,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1755496630": {
+      "id": "p1755496630",
+      "title": "Niepokonane - Faulkner William",
+      "url": "https://www.empik.com/niepokonane-faulkner-william,p1755496630,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1759763239": {
+      "id": "p1759763239",
+      "title": "Mroki Albionu. Brytyjskie legendy, potwory i zbrodnie - Marta Dziok-Kaczyńska",
+      "url": "https://www.empik.com/mroki-albionu-brytyjskie-legendy-potwory-i-zbrodnie-marta-dziok-kaczynska,p1759763239,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1760427634": {
+      "id": "p1760427634",
+      "title": "Czuwanie - Saunders George",
+      "url": "https://www.empik.com/czuwanie-saunders-george,p1760427634,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1759786203": {
+      "id": "p1759786203",
+      "title": "Muzyka. Wielka biografia - Michael Spitzer",
+      "url": "https://www.empik.com/muzyka-wielka-biografia-michael-spitzer,p1759786203,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1760434069": {
+      "id": "p1760434069",
+      "title": "Prus. Śledztwo biograficzne - Piątkowska Monika",
+      "url": "https://www.empik.com/prus-sledztwo-biograficzne-piatkowska-monika,p1760434069,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1760097266": {
+      "id": "p1760097266",
+      "title": "Iluzjon - Daniel Kehlmann",
+      "url": "https://www.empik.com/iluzjon-daniel-kehlmann,p1760097266,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
+    },
+    "p1739825665": {
+      "id": "p1739825665",
+      "title": "Dziewczyna z lasu - Bujak Karolina",
+      "url": "https://www.empik.com/dziewczyna-z-lasu-bujak-karolina,p1739825665,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T17:43:20.484Z"
     }
   },
   "log": [
@@ -2232,7 +2288,12 @@
       "at": "2026-07-22T15:24:31.267Z",
       "total": 337,
       "new": 83
+    },
+    {
+      "at": "2026-07-22T17:43:20.484Z",
+      "total": 340,
+      "new": 8
     }
   ],
-  "lastRun": "2026-07-22T15:24:31.267Z"
+  "lastRun": "2026-07-22T17:43:20.484Z"
 }
