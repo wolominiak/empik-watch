@@ -1623,6 +1623,20 @@
       "url": "https://www.empik.com/misja-kosmos-komiks-ksiazkozercy-sylabami-trojanowski-robert,p1756329539,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1754742259": {
+      "id": "p1754742259",
+      "title": "Gdynia. Nieprzewodnik dla turystów i mieszkańców - Pieczyński Bartosz, Hanna Dzielińska",
+      "url": "https://www.empik.com/gdynia-nieprzewodnik-dla-turystow-i-mieszkancow-pieczynski-bartosz-hanna-dzielinska,p1754742259,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T14:26:42.737Z"
+    },
+    "p1754456060": {
+      "id": "p1754456060",
+      "title": "Jak przestać mówić i zacząć rozmawiać. Sokrates w praktyce - Wiss Elke",
+      "url": "https://www.empik.com/jak-przestac-mowic-i-zaczac-rozmawiac-sokrates-w-praktyce-wiss-elke,p1754456060,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T14:26:42.737Z"
     }
   },
   "log": [
@@ -1710,7 +1724,12 @@
       "at": "2026-07-22T11:21:29.229Z",
       "total": 250,
       "new": 0
+    },
+    {
+      "at": "2026-07-22T14:26:42.737Z",
+      "total": 250,
+      "new": 2
     }
   ],
-  "lastRun": "2026-07-22T11:21:29.229Z"
+  "lastRun": "2026-07-22T14:26:42.737Z"
 }
