@@ -10,7 +10,7 @@ const LISTING_URL =
 
 const STATE_FILE = "state.json";
 const REPORT_FILE = "docs/index.html";
-const MAX_PAGES = 5; // ile stron listingu przeglądać (50 wyników/strona)
+const MAX_PAGES = 10; // ile stron listingu przeglądać (50 wyników/strona)
 const RESULTS_PER_PAGE = 50;
 
 const HEADERS = {
