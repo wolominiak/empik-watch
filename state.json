@@ -1553,6 +1553,76 @@
       "title": "Odjazd! Szkoła magicznych zwierząt. Tom 4 - Auer Margit",
       "url": "https://www.empik.com/odjazd-szkola-magicznych-zwierzat-tom-4-auer-margit,p1741628922,ksiazka-p",
       "firstSeen": "2026-07-21T11:19:53.155Z"
+    },
+    "p1741509955": {
+      "id": "p1741509955",
+      "title": "Dania z grzybów - Schneider Christine",
+      "url": "https://www.empik.com/dania-z-grzybow-schneider-christine,p1741509955,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1753206893": {
+      "id": "p1753206893",
+      "title": "Iskierka. Stadnina marzeń - Paszkiewicz Anna",
+      "url": "https://www.empik.com/iskierka-stadnina-marzen-paszkiewicz-anna,p1753206893,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1753208378": {
+      "id": "p1753208378",
+      "title": "Jagodowy jarmark. Budyniowa Brzoskwinka. Tom 2 - Wang Dora",
+      "url": "https://www.empik.com/jagodowy-jarmark-budyniowa-brzoskwinka-tom-2-wang-dora,p1753208378,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1737225791": {
+      "id": "p1737225791",
+      "title": "Ferajna ze szkolnej ławki. Tajemnica cytadeli - Joanna Jax",
+      "url": "https://www.empik.com/ferajna-ze-szkolnej-lawki-tajemnica-cytadeli-joanna-jax,p1737225791,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1760169554": {
+      "id": "p1760169554",
+      "title": "Introwertyczna - Korbiel Małgorzata",
+      "url": "https://www.empik.com/introwertyczna-korbiel-malgorzata,p1760169554,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1738269826": {
+      "id": "p1738269826",
+      "title": "Nowy Testament inaczej. Wybór apokryfów Nowego Testamentu - Starowieyski Marek",
+      "url": "https://www.empik.com/nowy-testament-inaczej-starowieyski-marek,p1738269826,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1756604759": {
+      "id": "p1756604759",
+      "title": "Starzenie bez starości - Hanley Kate, Dychtwald Maddy",
+      "url": "https://www.empik.com/starzenie-bez-starosci-dychtwald-maddy-hanley-kate,p1756604759,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1753243405": {
+      "id": "p1753243405",
+      "title": "Pielgrzymi - Sofía Segovia",
+      "url": "https://www.empik.com/pielgrzymi-sofia-segovia,p1753243405,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1755065953": {
+      "id": "p1755065953",
+      "title": "Zobacz mnie naprawdę. Pacific Shores. Tom 3 - Bailey Sarah A.",
+      "url": "https://www.empik.com/zobacz-mnie-naprawde-pacific-shores-tom-3-bailey-sarah-a,p1755065953,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
+    },
+    "p1756329539": {
+      "id": "p1756329539",
+      "title": "Misja kosmos. Komiks. Książkożercy sylabami - Trojanowski Robert",
+      "url": "https://www.empik.com/misja-kosmos-komiks-ksiazkozercy-sylabami-trojanowski-robert,p1756329539,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-22T10:25:04.267Z"
     }
   },
   "log": [
@@ -1630,7 +1700,12 @@
       "at": "2026-07-21T22:13:29.218Z",
       "total": 250,
       "new": 0
+    },
+    {
+      "at": "2026-07-22T10:25:04.267Z",
+      "total": 250,
+      "new": 10
     }
   ],
-  "lastRun": "2026-07-21T22:13:29.218Z"
+  "lastRun": "2026-07-22T10:25:04.267Z"
 }
