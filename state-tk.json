@@ -3639,6 +3639,76 @@
       "url": "https://www.taniaksiazka.pl/jedz-jak-sardynczyk-zyj-100-lat-p-2507628.html",
       "category": "Kuchnia i diety",
       "firstSeen": "2026-07-23T11:22:26.292Z"
+    },
+    "tk2306836": {
+      "id": "tk2306836",
+      "title": "Rysunek techniczny maszynowy",
+      "url": "https://www.taniaksiazka.pl/rysunek-techniczny-maszynowy-p-2306836.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk116171": {
+      "id": "tk116171",
+      "title": "Rysunek w arteterapii",
+      "url": "https://www.taniaksiazka.pl/rysunek-w-arteterapii-wieslaw-karolak-p-116171.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk1235399": {
+      "id": "tk1235399",
+      "title": "Terapia osób, które przetrwały traumy złożone",
+      "url": "https://www.taniaksiazka.pl/terapia-osob-ktore-przetrwaly-traumy-zlozone-janina-fisher-p-1235399.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk414957": {
+      "id": "tk414957",
+      "title": "Farmakognozja",
+      "url": "https://www.taniaksiazka.pl/farmakognozja-stanislaw-kohlmunzer-p-414957.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk940525": {
+      "id": "tk940525",
+      "title": "Neuronauka w psychoterapeutycznym procesie zmiany",
+      "url": "https://www.taniaksiazka.pl/neuronauka-w-psychoterapeutycznym-procesie-zmiany-john-arden-p-940525.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk1638261": {
+      "id": "tk1638261",
+      "title": "Wprowadzenie do nauki o państwie, polityce i prawie",
+      "url": "https://www.taniaksiazka.pl/wprowadzenie-do-nauki-o-panstwie-polit-i-prawie-bogumil-szmulik-p-1638261.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk1230627": {
+      "id": "tk1230627",
+      "title": "PDM-2. Podręcznik diagnozy psychodynamicznej. Tom 1",
+      "url": "https://www.taniaksiazka.pl/pdm-2-podrecznik-diagnozy-psychodynamicznej-tom-1-red-nancy-mcwilliams-p-1230627.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk1136555": {
+      "id": "tk1136555",
+      "title": "Mikrobiologia",
+      "url": "https://www.taniaksiazka.pl/mikrobiologia-k-s-rosenthal-p-1136555.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk1555829": {
+      "id": "tk1555829",
+      "title": "Epigenetyka",
+      "url": "https://www.taniaksiazka.pl/epigenetyka-john-c-lucchesi-p-1555829.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
+    },
+    "tk452795": {
+      "id": "tk452795",
+      "title": "Satysfakcja zawodowa pracowników",
+      "url": "https://www.taniaksiazka.pl/satysfakcja-zawodowa-pracownikow-marta-juchnowicz-p-452795.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-23T22:17:16.036Z"
     }
   },
   "log": [
@@ -3773,7 +3843,13 @@
       "total": 403,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-07-23T22:17:16.036Z",
+      "total": 400,
+      "new": 10,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-23T17:49:45.269Z"
+  "lastRun": "2026-07-23T22:17:16.036Z"
 }
