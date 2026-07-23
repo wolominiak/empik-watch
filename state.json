@@ -2254,6 +2254,62 @@
       "url": "https://www.empik.com/negocjator-stelar-marek,p1750880986,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-22T22:17:45.157Z"
+    },
+    "p1708389734": {
+      "id": "p1708389734",
+      "title": "Małżeństwo z miłości - Ali Monica",
+      "url": "https://www.empik.com/malzenstwo-z-milosci-ali-monica,p1708389734,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1759751191": {
+      "id": "p1759751191",
+      "title": "Dom nad rozlewiskiem - Kalicińska Małgorzata",
+      "url": "https://www.empik.com/dom-nad-rozlewiskiem-kalicinska-malgorzata,p1759751191,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1752314104": {
+      "id": "p1752314104",
+      "title": "Zdrowie bez wymówek. Workbook - Oleszczuk Tadeusz",
+      "url": "https://www.empik.com/zdrowie-bez-wymowek-workbook-oleszczuk-tadeusz,p1752314104,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1747984103": {
+      "id": "p1747984103",
+      "title": "Sekretna historia Audrey James - Heather Marshall",
+      "url": "https://www.empik.com/sekretna-historia-audrey-james-heather-marshall,p1747984103,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1739951085": {
+      "id": "p1739951085",
+      "title": "Podróż przez marzenia - Wochlik Jagoda",
+      "url": "https://www.empik.com/podroz-przez-marzenia-wochlik-jagoda,p1739951085,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1746141400": {
+      "id": "p1746141400",
+      "title": "Oczy są najsmaczniejsze - Monika Kim",
+      "url": "https://www.empik.com/oczy-sa-najsmaczniejsze-monika-kim,p1746141400,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1747984918": {
+      "id": "p1747984918",
+      "title": "Życie w trzech wymiarach - Shigehiro Oishi",
+      "url": "https://www.empik.com/zycie-w-trzech-wymiarach-shigehiro-oishi,p1747984918,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
+    },
+    "p1746141853": {
+      "id": "p1746141853",
+      "title": "Listy do młodego poszukiwacza. Refleksje na drogę od starszego kolegi po fachu - Em Claire, Walsch Neale Donald",
+      "url": "https://www.empik.com/listy-do-mlodego-poszukiwacza-mysli-na-droge-od-starszego-wedrowca-walsch-neale-donald,p1746141853,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-23T11:21:31.758Z"
     }
   },
   "log": [
@@ -2361,7 +2417,12 @@
       "at": "2026-07-22T22:17:45.157Z",
       "total": 345,
       "new": 9
+    },
+    {
+      "at": "2026-07-23T11:21:31.758Z",
+      "total": 346,
+      "new": 8
     }
   ],
-  "lastRun": "2026-07-22T22:17:45.157Z"
+  "lastRun": "2026-07-23T11:21:31.758Z"
 }
