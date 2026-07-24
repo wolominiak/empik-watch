@@ -2695,6 +2695,13 @@
       "url": "https://www.empik.com/wyloguj-swoj-mozg-jak-zadbac-o-swoj-mozg-w-dobie-nowych-technologii-2026-hansen-anders,p1760438700,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-24T14:15:26.586Z"
+    },
+    "p1759604291": {
+      "id": "p1759604291",
+      "title": "5 fundamentów skutecznej komunikacji. Asertywność, relacje i sztuka dialogu - Dale Carnegie Training",
+      "url": "https://www.empik.com/5-fundamentow-skutecznej-komunikacji-asertywnosc-relacje-i-sztuka-dialogu-dale-carnegie-training,p1759604291,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-24T17:54:30.567Z"
     }
   },
   "log": [
@@ -2832,7 +2839,12 @@
       "at": "2026-07-24T14:15:26.586Z",
       "total": 377,
       "new": 2
+    },
+    {
+      "at": "2026-07-24T17:54:30.567Z",
+      "total": 372,
+      "new": 1
     }
   ],
-  "lastRun": "2026-07-24T14:15:26.586Z"
+  "lastRun": "2026-07-24T17:54:30.567Z"
 }
