@@ -2681,6 +2681,20 @@
       "url": "https://www.empik.com/glow-up-nina-slowik,p1753208369,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-24T11:14:00.798Z"
+    },
+    "p1753511634": {
+      "id": "p1753511634",
+      "title": "Tataman i koszmarny braciszek - Arttu Unkari",
+      "url": "https://www.empik.com/tataman-i-koszmarny-braciszek-arttu-unkari,p1753511634,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-24T14:15:26.586Z"
+    },
+    "p1760438700": {
+      "id": "p1760438700",
+      "title": "Wyloguj swój mózg. Jak zadbać o swój mózg w dobie nowych technologii (2026) - Hansen Anders",
+      "url": "https://www.empik.com/wyloguj-swoj-mozg-jak-zadbac-o-swoj-mozg-w-dobie-nowych-technologii-2026-hansen-anders,p1760438700,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-24T14:15:26.586Z"
     }
   },
   "log": [
@@ -2813,7 +2827,12 @@
       "at": "2026-07-24T11:14:00.798Z",
       "total": 381,
       "new": 53
+    },
+    {
+      "at": "2026-07-24T14:15:26.586Z",
+      "total": 377,
+      "new": 2
     }
   ],
-  "lastRun": "2026-07-24T11:14:00.798Z"
+  "lastRun": "2026-07-24T14:15:26.586Z"
 }
