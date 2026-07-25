@@ -2,7 +2,7 @@ name: Empik zapowiedzi watch
 
 on:
   schedule:
-    - cron: "17 12,16,20 * * *" # 4x dziennie (UTC)
+    - cron: "17 12,16,20 * * *" # 3x dziennie (UTC)
   workflow_dispatch: {} # ręczne odpalenie z zakładki Actions
 
 permissions:
