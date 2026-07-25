@@ -2702,6 +2702,34 @@
       "url": "https://www.empik.com/5-fundamentow-skutecznej-komunikacji-asertywnosc-relacje-i-sztuka-dialogu-dale-carnegie-training,p1759604291,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-24T17:54:30.567Z"
+    },
+    "p1764915100": {
+      "id": "p1764915100",
+      "title": "W cieniu Gniewu - Adrianna Filimonowicz",
+      "url": "https://www.empik.com/w-cieniu-gniewu-adrianna-filimonowicz,p1764915100,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-25T10:46:34.381Z"
+    },
+    "p1764730785": {
+      "id": "p1764730785",
+      "title": "Jadzia Pętelka ma sprzeczkę - Supeł Barbara",
+      "url": "https://www.empik.com/jadzia-petelka-ma-sprzeczke-supel-barbara,p1764730785,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-25T10:46:34.381Z"
+    },
+    "p1764975281": {
+      "id": "p1764975281",
+      "title": "Amor fati. T. 3. Nieszczęścia chodzą parami - Tomaszewska Karolina",
+      "url": "https://www.empik.com/amor-fati-t-3-nieszczescia-chodza-parami-tomaszewska-karolina,p1764975281,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-25T10:46:34.381Z"
+    },
+    "p1764975847": {
+      "id": "p1764975847",
+      "title": "Stres. 102 sprawdzone sposoby na stres - Pawlikowska Beata",
+      "url": "https://www.empik.com/stres-102-sprawdzone-sposoby-na-stres-pawlikowska-beata,p1764975847,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-25T10:46:34.381Z"
     }
   },
   "log": [
@@ -2849,7 +2877,12 @@
       "at": "2026-07-24T22:29:42.474Z",
       "total": 372,
       "new": 0
+    },
+    {
+      "at": "2026-07-25T10:46:34.381Z",
+      "total": 372,
+      "new": 4
     }
   ],
-  "lastRun": "2026-07-24T22:29:42.474Z"
+  "lastRun": "2026-07-25T10:46:34.381Z"
 }
