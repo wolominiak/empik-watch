@@ -4136,6 +4136,20 @@
       "url": "https://www.taniaksiazka.pl/jestem-dyrektorem-zarzadzam-placowka-oswiatowa-p-2508566.html",
       "category": "Biznes",
       "firstSeen": "2026-07-25T10:47:23.574Z"
+    },
+    "tk2508574": {
+      "id": "tk2508574",
+      "title": "Teza niewiedzy",
+      "url": "https://www.taniaksiazka.pl/teza-niewiedzy-p-2508574.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-07-25T14:05:09.620Z"
+    },
+    "tk2508573": {
+      "id": "tk2508573",
+      "title": "Ziemia 2.0",
+      "url": "https://www.taniaksiazka.pl/ziemia-2-0-p-2508573.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-07-25T14:05:09.620Z"
     }
   },
   "log": [
@@ -4306,7 +4320,13 @@
       "total": 409,
       "new": 28,
       "failed": 0
+    },
+    {
+      "at": "2026-07-25T14:05:09.620Z",
+      "total": 409,
+      "new": 2,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-25T10:47:23.574Z"
+  "lastRun": "2026-07-25T14:05:09.620Z"
 }
