@@ -4297,6 +4297,34 @@
       "url": "https://www.taniaksiazka.pl/bylem-wiezniem-dowody-na-zycie-po-zyciu-p-2508655.html",
       "category": "Ezoteryka i parapsychologia",
       "firstSeen": "2026-07-26T13:56:36.222Z"
+    },
+    "tk165810": {
+      "id": "tk165810",
+      "title": "Podstawy techniki laboratoryjnej",
+      "url": "https://www.taniaksiazka.pl/podstawy-techniki-laboratoryjnej-zenon-sarbak-p-165810.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-27T15:15:43.096Z"
+    },
+    "tk806146": {
+      "id": "tk806146",
+      "title": "Analiza strategiczna przedsiębiorstwa",
+      "url": "https://www.taniaksiazka.pl/analiza-strategiczna-przedsiebiorstwa-grazyna-gierszewska-p-806146.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-27T15:15:43.096Z"
+    },
+    "tk315298": {
+      "id": "tk315298",
+      "title": "Podstawy muzykoterapii",
+      "url": "https://www.taniaksiazka.pl/podstawy-muzykoterapii-krzysztof-stachyra-p-315298.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-27T15:15:43.096Z"
+    },
+    "tk359013": {
+      "id": "tk359013",
+      "title": "Diagnostyka konstrukcji żelbetowych. Tom 1",
+      "url": "https://www.taniaksiazka.pl/diagnostyka-konstrukcji-zelbetowych-tom-1-lukasz-drobiec-p-359013.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-07-27T15:15:43.096Z"
     }
   },
   "log": [
@@ -4503,7 +4531,13 @@
       "total": 410,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-07-27T15:15:43.096Z",
+      "total": 403,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-26T21:12:10.653Z"
+  "lastRun": "2026-07-27T15:15:43.096Z"
 }
