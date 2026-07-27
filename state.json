@@ -3010,6 +3010,13 @@
       "url": "https://www.empik.com/dom-na-koncu-drogi-zaneta-pawlik,p1752071096,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-27T15:13:24.107Z"
+    },
+    "p1764998282": {
+      "id": "p1764998282",
+      "title": "Potwory Kościoła. Prawdziwe historie przemocy - Nowak Artur, Waleszczyński Michał",
+      "url": "https://www.empik.com/potwory-kosciola-prawdziwe-historie-przemocy-nowak-artur-waleszczynski-michal,p1764998282,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-27T17:55:03.591Z"
     }
   },
   "log": [
@@ -3197,7 +3204,12 @@
       "at": "2026-07-27T15:13:24.107Z",
       "total": 398,
       "new": 40
+    },
+    {
+      "at": "2026-07-27T17:55:03.591Z",
+      "total": 399,
+      "new": 1
     }
   ],
-  "lastRun": "2026-07-27T15:13:24.107Z"
+  "lastRun": "2026-07-27T17:55:03.591Z"
 }
