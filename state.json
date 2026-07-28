@@ -3569,6 +3569,20 @@
       "url": "https://www.empik.com/rysowanie-w-10-krokach-ludzie-justine-lecouffe,p1741644629,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1754144369": {
+      "id": "p1754144369",
+      "title": "Draka w Harlemie - Himes Chester",
+      "url": "https://www.empik.com/draka-w-harlemie-himes-chester,p1754144369,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T21:31:17.746Z"
+    },
+    "p1743963528": {
+      "id": "p1743963528",
+      "title": "Rwetes - Peszek Agnieszka",
+      "url": "https://www.empik.com/rwetes-peszek-agnieszka,p1743963528,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T21:31:17.746Z"
     }
   },
   "log": [
@@ -3776,7 +3790,12 @@
       "at": "2026-07-28T17:45:00.967Z",
       "total": 476,
       "new": 6
+    },
+    {
+      "at": "2026-07-28T21:31:17.746Z",
+      "total": 478,
+      "new": 2
     }
   ],
-  "lastRun": "2026-07-28T17:45:00.967Z"
+  "lastRun": "2026-07-28T21:31:17.746Z"
 }
