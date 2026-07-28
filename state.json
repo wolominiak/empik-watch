@@ -3527,6 +3527,48 @@
       "title": "Drumindor. Kroniki Riyrii. Tom 5 - Sullivan Michael J.",
       "url": "https://www.empik.com/drumindor-kroniki-riyrii-tom-5-sullivan-michael-j,p1765037320,ksiazka-p",
       "firstSeen": "2026-07-28T14:36:46.144Z"
+    },
+    "p1764483203": {
+      "id": "p1764483203",
+      "title": "Jedz jak Sardyńczyk. Żyj 100 lat - Mattana Francesco",
+      "url": "https://www.empik.com/jedz-jak-sardynczyk-zyj-100-lat-mattana-francesco,p1764483203,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1764950176": {
+      "id": "p1764950176",
+      "title": "Klub książki CIA. Najpilniej strzeżona tajemnica zimnej wojny - English Charlie",
+      "url": "https://www.empik.com/klub-ksiazki-cia-najpilniej-strzezona-tajemnica-zimnej-wojny-english-charlie,p1764950176,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1741644708": {
+      "id": "p1741644708",
+      "title": "Tyran Rzymu. Orły imperium. Tom 24 - Scarrow Simon",
+      "url": "https://www.empik.com/tyran-rzymu-orly-imperium-tom-24-scarrow-simon,p1741644708,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1765073535": {
+      "id": "p1765073535",
+      "title": "Pierwszy lot. Przebudzenie - Nikola Czerwińska",
+      "url": "https://www.empik.com/pierwszy-lot-przebudzenie-nikola-czerwinska,p1765073535,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1741644647": {
+      "id": "p1741644647",
+      "title": "Sztuka rysowania. Ciało człowieka. 15-minutowe ćwiczenia - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/sztuka-rysowania-cialo-czlowieka-15-minutowe-cwiczenia-opracowanie-zbiorowe,p1741644647,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
+    },
+    "p1741644629": {
+      "id": "p1741644629",
+      "title": "Rysowanie w 10 krokach. Ludzie - Justine Lecouffe",
+      "url": "https://www.empik.com/rysowanie-w-10-krokach-ludzie-justine-lecouffe,p1741644629,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-28T17:45:00.967Z"
     }
   },
   "log": [
@@ -3729,7 +3771,12 @@
       "at": "2026-07-28T14:36:46.144Z",
       "total": 471,
       "new": 85
+    },
+    {
+      "at": "2026-07-28T17:45:00.967Z",
+      "total": 476,
+      "new": 6
     }
   ],
-  "lastRun": "2026-07-28T14:36:46.144Z"
+  "lastRun": "2026-07-28T17:45:00.967Z"
 }
