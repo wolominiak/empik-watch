@@ -3583,6 +3583,69 @@
       "url": "https://www.empik.com/rwetes-peszek-agnieszka,p1743963528,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-28T21:31:17.746Z"
+    },
+    "p1741644823": {
+      "id": "p1741644823",
+      "title": "Control Freak. Moja epicka przygoda z tworzeniem gier wideo - Cliff Bleszinski",
+      "url": "https://www.empik.com/control-freak-my-epic-adventure-making-video-games-cliff-bleszinski,p1741644823,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1766388027": {
+      "id": "p1766388027",
+      "title": "The STEM (Smart-Tempting-Entirely-Mine) - Szponar Magdalena, Skrzydlewska Ludka",
+      "url": "https://www.empik.com/the-stem-smart-tempting-entirely-mine-skrzydlewska-ludka-szponar-magdalena,p1766388027,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1766402114": {
+      "id": "p1766402114",
+      "title": "Kurczę pieczone w miłosnej marynacie. Doprawieni pocałunkami. Tom 1 - Wasilewska Aleksandra",
+      "url": "https://www.empik.com/kurcze-pieczone-w-milosnej-marynacie-doprawieni-pocalunkami-tom-1-wasilewska-aleksandra,p1766402114,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1724190671": {
+      "id": "p1724190671",
+      "title": "Z ulicy na scenę. Moje życie i Wu-Tang Clan - Bozza Anthony, Raekwon",
+      "url": "https://www.empik.com/from-staircase-to-stage-the-story-of-raekwon-and-the-wu-tang-clan-raekwon-bozza-anthony,p1724190671,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1741644665": {
+      "id": "p1741644665",
+      "title": "Cozy Capy. Przytulaśne kapibary. Kolorowanka - Wu Helen H.",
+      "url": "https://www.empik.com/cozy-capy-love-kolorowanka-wu-helen-h,p1741644665,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1752788664": {
+      "id": "p1752788664",
+      "title": "Genetyka. Przewodnik dla lubiących rozkminiać bez bólu - Beth Skwarecki",
+      "url": "https://www.empik.com/genetyka-przewodnik-dla-lubiacych-rozkminiac-bez-bolu-beth-skwarecki,p1752788664,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1752075311": {
+      "id": "p1752075311",
+      "title": "Harrow z Dziewiątego - Tamsyn Muir",
+      "url": "https://www.empik.com/harrow-z-dziewiatego-tamsyn-muir,p1752075311,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1766081276": {
+      "id": "p1766081276",
+      "title": "Dwór cierni i róż. Tom 7 - Mass Sarah J.",
+      "url": "https://www.empik.com/dwor-cierni-i-roz-tom-7-mass-sarah-j,p1766081276,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
+    },
+    "p1766078078": {
+      "id": "p1766078078",
+      "title": "Dwór cierni i róż. Tom 6 - Mass Sarah J.",
+      "url": "https://www.empik.com/dwor-cierni-i-roz-tom-6-mass-sarah-j,p1766078078,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T14:31:05.662Z"
     }
   },
   "log": [
@@ -3795,7 +3858,12 @@
       "at": "2026-07-28T21:31:17.746Z",
       "total": 478,
       "new": 2
+    },
+    {
+      "at": "2026-07-29T14:31:05.662Z",
+      "total": 481,
+      "new": 9
     }
   ],
-  "lastRun": "2026-07-28T21:31:17.746Z"
+  "lastRun": "2026-07-29T14:31:05.662Z"
 }
