@@ -3674,6 +3674,27 @@
       "url": "https://www.empik.com/projekt-nie-odpowiedni-facet-jaworska-iwona,p1760161400,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-29T17:38:09.838Z"
+    },
+    "p1760093446": {
+      "id": "p1760093446",
+      "title": "W pogoni za utraconym czasem - Kubicka Małgorzata",
+      "url": "https://www.empik.com/w-pogoni-za-utraconym-czasem-kubicka-malgorzata,p1760093446,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T21:12:05.201Z"
+    },
+    "p1741644674": {
+      "id": "p1741644674",
+      "title": "Cienie nad Londynem - Christie Agatha",
+      "url": "https://www.empik.com/cienie-nad-londynem-christie-agatha,p1741644674,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T21:12:05.201Z"
+    },
+    "p1752803273": {
+      "id": "p1752803273",
+      "title": "Wokulski - Wójcik Bogumił",
+      "url": "https://www.empik.com/wokulski-wojcik-bogumil,p1752803273,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-29T21:12:05.201Z"
     }
   },
   "log": [
@@ -3896,7 +3917,12 @@
       "at": "2026-07-29T17:38:09.838Z",
       "total": 485,
       "new": 4
+    },
+    {
+      "at": "2026-07-29T21:12:05.201Z",
+      "total": 488,
+      "new": 3
     }
   ],
-  "lastRun": "2026-07-29T17:38:09.838Z"
+  "lastRun": "2026-07-29T21:12:05.201Z"
 }
