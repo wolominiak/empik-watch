@@ -3814,6 +3814,34 @@
       "url": "https://www.empik.com/ajurweda-na-co-dzien-diagnoza-i-sztuka-swiadomego-zycia-izabela-raczkowska,p1766936833,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-30T14:31:19.147Z"
+    },
+    "p1764463430": {
+      "id": "p1764463430",
+      "title": "Cień wątpliwości - Fjell Jan-Erik, Horst Jorn Lier",
+      "url": "https://www.empik.com/cien-watpliwosci-fjell-jan-erik-horst-jorn-lier,p1764463430,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-30T17:47:42.478Z"
+    },
+    "p1742866370": {
+      "id": "p1742866370",
+      "title": "Proces - Wierzbicka Katarzyna",
+      "url": "https://www.empik.com/proces-wierzbicka-katarzyna,p1742866370,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-30T17:47:42.478Z"
+    },
+    "p1754717730": {
+      "id": "p1754717730",
+      "title": "Hush 2. Batman - Loeb Jeph, Lee Jim",
+      "url": "https://www.empik.com/h2sh-batman-loeb-jeph-lee-jim,p1754717730,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-30T17:47:42.478Z"
+    },
+    "p1759768438": {
+      "id": "p1759768438",
+      "title": "Demon i Światło. Podniebny świat. Tom 2 - Oh Axie",
+      "url": "https://www.empik.com/demon-i-swiatlo-podniebny-swiat-tom-2-oh-axie,p1759768438,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-30T17:47:42.478Z"
     }
   },
   "log": [
@@ -4046,7 +4074,12 @@
       "at": "2026-07-30T14:31:19.147Z",
       "total": 500,
       "new": 17
+    },
+    {
+      "at": "2026-07-30T17:47:42.478Z",
+      "total": 500,
+      "new": 4
     }
   ],
-  "lastRun": "2026-07-30T14:31:19.147Z"
+  "lastRun": "2026-07-30T17:47:42.478Z"
 }

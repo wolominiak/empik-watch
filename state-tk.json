@@ -5053,6 +5053,13 @@
       "url": "https://www.taniaksiazka.pl/szlak-akademii-superbohaterow-popularnonaukowy-przewodnik-po-polsce-p-2509635.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-07-30T14:32:46.980Z"
+    },
+    "tk2509742": {
+      "id": "tk2509742",
+      "title": "Świata jest za dużo",
+      "url": "https://www.taniaksiazka.pl/swiata-jest-za-duzo-olga-tokarczuk-p-2509742.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-07-30T17:48:35.372Z"
     }
   },
   "log": [
@@ -5319,7 +5326,13 @@
       "total": 418,
       "new": 29,
       "failed": 0
+    },
+    {
+      "at": "2026-07-30T17:48:35.372Z",
+      "total": 418,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-07-30T14:32:46.980Z"
+  "lastRun": "2026-07-30T17:48:35.372Z"
 }
