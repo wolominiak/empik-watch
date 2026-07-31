@@ -3842,6 +3842,48 @@
       "url": "https://www.empik.com/demon-i-swiatlo-podniebny-swiat-tom-2-oh-axie,p1759768438,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-30T17:47:42.478Z"
+    },
+    "p1752769094": {
+      "id": "p1752769094",
+      "title": "Finanse pokolenia Z. Jak zarabiać, odkładać i inwestować w świecie aplikacji i social mediów - Lillian Zhang",
+      "url": "https://www.empik.com/finanse-pokolenia-z-jak-zarabiac-odkladac-i-inwestowac-w-swiecie-aplikacji-i-social-mediow-lillian-zhang,p1752769094,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1755202411": {
+      "id": "p1755202411",
+      "title": "Niezwykła Molly i okropny bobas - Sabine Lemire",
+      "url": "https://www.empik.com/niezwykla-molly-i-okropny-bobas-sabine-lemire,p1755202411,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1759775304": {
+      "id": "p1759775304",
+      "title": "Devilish Enemy - Dolińska Vanessa",
+      "url": "https://www.empik.com/devilish-enemy-dolinska-vanessa,p1759775304,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1764997511": {
+      "id": "p1764997511",
+      "title": "Idący na śmierć. Gladiatorzy w starożytnym Rzymie - Sidebottom Harry",
+      "url": "https://www.empik.com/idacy-na-smierc-gladiatorzy-w-starozytnym-rzymie-sidebottom-harry,p1764997511,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1764998592": {
+      "id": "p1764998592",
+      "title": "Walka o przyprawy - Crowley Roger",
+      "url": "https://www.empik.com/walka-o-przyprawy-crowley-roger,p1764998592,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1764975838": {
+      "id": "p1764975838",
+      "title": "W pułapce - Stachula Magda",
+      "url": "https://www.empik.com/w-pulapce-stachula-magda,p1764975838,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T14:34:16.371Z"
     }
   },
   "log": [
@@ -4084,7 +4126,12 @@
       "at": "2026-07-30T21:30:57.855Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-07-31T14:34:16.371Z",
+      "total": 500,
+      "new": 6
     }
   ],
-  "lastRun": "2026-07-30T21:30:57.855Z"
+  "lastRun": "2026-07-31T14:34:16.371Z"
 }
