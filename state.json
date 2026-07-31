@@ -3884,6 +3884,13 @@
       "url": "https://www.empik.com/w-pulapce-stachula-magda,p1764975838,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-31T14:34:16.371Z"
+    },
+    "p1756390740": {
+      "id": "p1756390740",
+      "title": "Troszki, czyli kroplówka z nadziei - Filip Cembala",
+      "url": "https://www.empik.com/troszki-czyli-kroplowki-z-nadziei-filip-cembala,p1756390740,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-07-31T21:21:38.439Z"
     }
   },
   "log": [
@@ -4136,7 +4143,12 @@
       "at": "2026-07-31T17:51:45.070Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-07-31T21:21:38.439Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-07-31T17:51:45.070Z"
+  "lastRun": "2026-07-31T21:21:38.439Z"
 }
