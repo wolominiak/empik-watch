@@ -3891,6 +3891,76 @@
       "url": "https://www.empik.com/troszki-czyli-kroplowki-z-nadziei-filip-cembala,p1756390740,ksiazka-p",
       "category": "",
       "firstSeen": "2026-07-31T21:21:38.439Z"
+    },
+    "p1756075948": {
+      "id": "p1756075948",
+      "title": "Harry Potter i Zakon Feniksa. Edycja z polską okładką i z barwionymi brzegami - Rowling J. K.",
+      "url": "https://www.empik.com/harry-potter-i-zakon-feniksa-edycja-z-polska-okladka-i-z-barwionymi-brzegami-rowling-j-k,p1756075948,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1752803149": {
+      "id": "p1752803149",
+      "title": "Zając - César Aira",
+      "url": "https://www.empik.com/zajac-cesar-aira,p1752803149,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1752266524": {
+      "id": "p1752266524",
+      "title": "Porządek światowy - Kissinger Henry",
+      "url": "https://www.empik.com/porzadek-swiatowy-kissinger-henry,p1752266524,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1759781129": {
+      "id": "p1759781129",
+      "title": "Złączeni miłością (II wydanie) - Reilly Cora",
+      "url": "https://www.empik.com/zlaczeni-miloscia-ii-wydanie-reilly-cora,p1759781129,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1759785462": {
+      "id": "p1759785462",
+      "title": "Złączeni przeszłością (II wydanie) - Reilly Cora",
+      "url": "https://www.empik.com/zlaczeni-przeszloscia-ii-wydanie-reilly-cora,p1759785462,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1744316037": {
+      "id": "p1744316037",
+      "title": "Lyonesse. Zielona perła. Tom 2 - Vance Jack",
+      "url": "https://www.empik.com/lyonesse-zielona-perla-tom-2-vance-jack,p1744316037,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1767394672": {
+      "id": "p1767394672",
+      "title": "20 minut. Dobry fast food - Oliver Jamie",
+      "url": "https://www.empik.com/20-minut-dobry-fast-food-oliver-jamie,p1767394672,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1764362210": {
+      "id": "p1764362210",
+      "title": "Doggerland - Agnes Ravatn",
+      "url": "https://www.empik.com/doggerland-agnes-ravatn,p1764362210,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1764946137": {
+      "id": "p1764946137",
+      "title": "Z czułością o menopauzie - Czerska Monika",
+      "url": "https://www.empik.com/z-czuloscia-o-menopauzie-czerska-monika,p1764946137,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1755194617": {
+      "id": "p1755194617",
+      "title": "Pszczoły i płomienie. Animarium. Tom 2 - Prześluga Malina",
+      "url": "https://www.empik.com/pszczoly-i-plomienie-animarium-tom-2-przesluga-malina,p1755194617,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-01T13:54:40.842Z"
     }
   },
   "log": [
@@ -4148,7 +4218,12 @@
       "at": "2026-07-31T21:21:38.439Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-08-01T13:54:40.842Z",
+      "total": 500,
+      "new": 10
     }
   ],
-  "lastRun": "2026-07-31T21:21:38.439Z"
+  "lastRun": "2026-08-01T13:54:40.842Z"
 }
