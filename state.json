@@ -3961,6 +3961,97 @@
       "url": "https://www.empik.com/pszczoly-i-plomienie-animarium-tom-2-przesluga-malina,p1755194617,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-01T13:54:40.842Z"
+    },
+    "p1767881105": {
+      "id": "p1767881105",
+      "title": "Przewaga - Curto Chelsea",
+      "url": "https://www.empik.com/przewaga-curto-chelsea,p1767881105,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1745704035": {
+      "id": "p1745704035",
+      "title": "What the Hell. Kraina Koszmarów. Tom 2 - Sandra Ewertowska",
+      "url": "https://www.empik.com/what-the-hell-tom-2-sandra-ewertowska,p1745704035,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1752078770": {
+      "id": "p1752078770",
+      "title": "Menopauza od kuchni - Joanna Zielewska",
+      "url": "https://www.empik.com/menopauza-od-kuchni-joanna-zielewska,p1752078770,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1752801752": {
+      "id": "p1752801752",
+      "title": "Trylogia - Jon Fosse",
+      "url": "https://www.empik.com/trylogia-jon-fosse,p1752801752,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1768118103": {
+      "id": "p1768118103",
+      "title": "Blind Love - Fox Anna M.",
+      "url": "https://www.empik.com/blind-love-fox-anna-m,p1768118103,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1766110657": {
+      "id": "p1766110657",
+      "title": "Milionerka - Gretkowska Manuela",
+      "url": "https://www.empik.com/milionerka-gretkowska-manuela,p1766110657,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1683124641": {
+      "id": "p1683124641",
+      "title": "Polscy terroryści i zamachowcy - Koper Sławomir",
+      "url": "https://www.empik.com/polscy-terrorysci-i-zamachowcy-koper-slawomir,p1683124641,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1766110453": {
+      "id": "p1766110453",
+      "title": "Tajemnice Mezopotamii. Biblioteka pierwszych cywilizacji - Wisnom Selena",
+      "url": "https://www.empik.com/tajemnice-mezopotamii-biblioteka-pierwszych-cywilizacji-selena-wisnom,p1766110453,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1752783137": {
+      "id": "p1752783137",
+      "title": "Brudne płótno. O Kłopotach w mojej rodzinnej okolicy - Doyle Martin",
+      "url": "https://www.empik.com/brudne-plotno-o-klopotach-w-mojej-rodzinnej-okolicy-doyle-martin,p1752783137,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1767882681": {
+      "id": "p1767882681",
+      "title": "Ale mam szczęście - Christian Watson",
+      "url": "https://www.empik.com/ale-mam-szczescie-christian-watson,p1767882681,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1756399626": {
+      "id": "p1756399626",
+      "title": "Mistrz spokoju. Stoickie zasady skutecznego przywództwa - Sellars John, Stead Justin",
+      "url": "https://www.empik.com/mistrz-spokoju-stoickie-zasady-skutecznego-przywodztwa-sellars-john-stead-justin,p1756399626,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1758938687": {
+      "id": "p1758938687",
+      "title": "Myślenie pytaniami. Wydanie uaktualnione i poszerzone - Adams Marilee",
+      "url": "https://www.empik.com/myslenie-pytaniami-wydanie-uaktualnione-i-poszerzone-adams-marilee,p1758938687,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1754522813": {
+      "id": "p1754522813",
+      "title": "Księga wyjścia. Jak Polacy odchodzą z Kościoła? - Szelągowska-Mironiuk Angelika",
+      "url": "https://www.empik.com/ksiega-wyjscia-jak-polacy-wychodza-z-kosciola-szelagowska-mironiuk-angelika,p1754522813,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-02T13:53:44.628Z"
     }
   },
   "log": [
@@ -4233,7 +4324,12 @@
       "at": "2026-08-01T21:09:03.384Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-08-02T13:53:44.628Z",
+      "total": 500,
+      "new": 13
     }
   ],
-  "lastRun": "2026-08-01T21:09:03.384Z"
+  "lastRun": "2026-08-02T13:53:44.628Z"
 }
