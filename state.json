@@ -4059,6 +4059,20 @@
       "url": "https://www.empik.com/wybieram-siebie-odwaga-by-zyc-w-zgodzie-ze-soba-jones-valerie,p1766110675,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-03T15:15:37.890Z"
+    },
+    "p1766318806": {
+      "id": "p1766318806",
+      "title": "Znaczenie. Sekret życia pełnego bliskości i sensu - Wallace Jennifer Breheny",
+      "url": "https://www.empik.com/znaczenie-sekret-zycia-pelnego-bliskosci-i-sensu-wallace-jennifer-breheny,p1766318806,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-03T18:04:32.478Z"
+    },
+    "p1752798041": {
+      "id": "p1752798041",
+      "title": "Gwiazda 111 - Seiler Lutz",
+      "url": "https://www.empik.com/gwiazda-111-seiler-lutz,p1752798041,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-03T18:04:32.478Z"
     }
   },
   "log": [
@@ -4351,7 +4365,12 @@
       "at": "2026-08-03T15:15:37.890Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-08-03T18:04:32.478Z",
+      "total": 500,
+      "new": 2
     }
   ],
-  "lastRun": "2026-08-03T15:15:37.890Z"
+  "lastRun": "2026-08-03T18:04:32.478Z"
 }
