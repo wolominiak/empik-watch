@@ -4052,6 +4052,13 @@
       "url": "https://www.empik.com/ksiega-wyjscia-jak-polacy-wychodza-z-kosciola-szelagowska-mironiuk-angelika,p1754522813,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-02T13:53:44.628Z"
+    },
+    "p1766110675": {
+      "id": "p1766110675",
+      "title": "Wybieram siebie. Odwaga, by żyć w zgodzie ze sobą - Jones Valerie",
+      "url": "https://www.empik.com/wybieram-siebie-odwaga-by-zyc-w-zgodzie-ze-soba-jones-valerie,p1766110675,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-03T15:15:37.890Z"
     }
   },
   "log": [
@@ -4339,7 +4346,12 @@
       "at": "2026-08-02T21:10:03.887Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-08-03T15:15:37.890Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-02T21:10:03.887Z"
+  "lastRun": "2026-08-03T15:15:37.890Z"
 }
