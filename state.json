@@ -4073,6 +4073,48 @@
       "url": "https://www.empik.com/gwiazda-111-seiler-lutz,p1752798041,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-03T18:04:32.478Z"
+    },
+    "p1760055561": {
+      "id": "p1760055561",
+      "title": "Copycat - Gorzka Mieczysław",
+      "url": "https://www.empik.com/copycat-gorzka-mieczyslaw,p1760055561,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
+    },
+    "p1741644841": {
+      "id": "p1741644841",
+      "title": "Steve Jobs na wygnaniu. Nieznana historia NeXT i przemiana niepokornego wizjonera - Cain Geoffrey",
+      "url": "https://www.empik.com/steve-jobs-in-exile-the-untold-story-of-next-and-the-remaking-of-an-american-visionary-cain-geoffrey,p1741644841,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
+    },
+    "p1767925445": {
+      "id": "p1767925445",
+      "title": "EDUseria. Karty pracy. Dyktanda. Kapitan Nauka - Piłat Sabina",
+      "url": "https://www.empik.com/eduseria-karty-pracy-dyktanda-kapitan-nauka-pilat-sabina,p1767925445,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
+    },
+    "p1764945448": {
+      "id": "p1764945448",
+      "title": "Nie będzie Niemiec... - Chwalba Andrzej, Harpula Wojciech",
+      "url": "https://www.empik.com/nie-bedzie-niemiec-chwalba-andrzej-harpula-wojciech,p1764945448,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
+    },
+    "p1766109563": {
+      "id": "p1766109563",
+      "title": "A gdyby tak…? - Czoik Sandra",
+      "url": "https://www.empik.com/a-gdyby-tak-czoik-sandra,p1766109563,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
+    },
+    "p1766108962": {
+      "id": "p1766108962",
+      "title": "Smakowite drzewa. Rozszerzone wydanie - Kalemba-Drożdż Małgorzata",
+      "url": "https://www.empik.com/smakowite-drzewa-rozszerzone-wydanie-kalemba-drozdz-malgorzata,p1766108962,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-04T14:38:40.973Z"
     }
   },
   "log": [
@@ -4375,7 +4417,12 @@
       "at": "2026-08-03T21:29:46.605Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-08-04T14:38:40.973Z",
+      "total": 500,
+      "new": 6
     }
   ],
-  "lastRun": "2026-08-03T21:29:46.605Z"
+  "lastRun": "2026-08-04T14:38:40.973Z"
 }
