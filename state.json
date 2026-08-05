@@ -4311,6 +4311,13 @@
       "url": "https://www.empik.com/macocha-podejrzenia-aleksandra-kalbarczyk,p1743959622,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1756328901": {
+      "id": "p1756328901",
+      "title": "Nie moja wina. Jak umysł podejmuje decyzje za nas - Łukasz Płoszajski",
+      "url": "https://www.empik.com/nie-moja-wina-jak-umysl-podejmuje-decyzje-za-nas-lukasz-ploszajski,p1756328901,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T21:32:08.517Z"
     }
   },
   "log": [
@@ -4638,7 +4645,12 @@
       "at": "2026-08-05T17:53:22.332Z",
       "total": 500,
       "new": 10
+    },
+    {
+      "at": "2026-08-05T21:32:08.517Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-05T17:53:22.332Z"
+  "lastRun": "2026-08-05T21:32:08.517Z"
 }
