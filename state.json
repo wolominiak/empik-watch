@@ -4241,6 +4241,76 @@
       "url": "https://www.empik.com/zobaczyc-niewidzialne-beatriz-cazurro,p1705935046,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-05T14:32:42.939Z"
+    },
+    "p1764372916": {
+      "id": "p1764372916",
+      "title": "Bali. Opowieść Polki o życiu w balijskiej wiosce, gdzie codzienność staje się rytuałem - Arenika Łysko",
+      "url": "https://www.empik.com/bali-opowiesc-polki-o-zyciu-w-balijskiej-wiosce-gdzie-codziennosc-staje-sie-rytualem-arenika-lysko,p1764372916,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1756075346": {
+      "id": "p1756075346",
+      "title": "Jestem tuż za tobą - McVeigh Georgia",
+      "url": "https://www.empik.com/sorry-for-your-loss-mcveigh-georgia,p1756075346,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769835429": {
+      "id": "p1769835429",
+      "title": "Ostatni kontrakt Isako - Lee Fonda",
+      "url": "https://www.empik.com/ostatni-kontrakt-isako-lee-fonda,p1769835429,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1752253210": {
+      "id": "p1752253210",
+      "title": "Ciemna strona miłości - Oleksa Monika A.",
+      "url": "https://www.empik.com/ciemna-strona-milosci-oleksa-monika-a,p1752253210,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769839036": {
+      "id": "p1769839036",
+      "title": "Platforma - Levy Roger",
+      "url": "https://www.empik.com/platforma-levy-roger,p1769839036,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769910818": {
+      "id": "p1769910818",
+      "title": "Całe szczęście to kryzys - Kowalczyk Robert, Waszyńska Katarzyna, Podsiadły-Natorska Ewa",
+      "url": "https://www.empik.com/cale-szczescie-to-kryzys-kowalczyk-robert-waszynska-katarzyna-podsiadly-natorska-ewa,p1769910818,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769827226": {
+      "id": "p1769827226",
+      "title": "Umysł mojego umysłu - Butler Octavia E.",
+      "url": "https://www.empik.com/umysl-mojego-umyslu-butler-octavia-e,p1769827226,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769774058": {
+      "id": "p1769774058",
+      "title": "Hermann Göring. Drugi człowiek Trzeciej Rzeszy - Molitor Andreas",
+      "url": "https://www.empik.com/hermann-goring-drugi-czlowiek-trzeciej-rzeszy-molitor-andreas,p1769774058,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1769832626": {
+      "id": "p1769832626",
+      "title": "Agnes Aubert. Mistyczne schronisko dla kotów - Fawcett Heather",
+      "url": "https://www.empik.com/agnes-aubert-mistyczne-schronisko-dla-kotow-fawcett-heather,p1769832626,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
+    },
+    "p1743959622": {
+      "id": "p1743959622",
+      "title": "Macocha. Podejrzenia - Aleksandra Kalbarczyk",
+      "url": "https://www.empik.com/macocha-podejrzenia-aleksandra-kalbarczyk,p1743959622,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-05T17:53:22.332Z"
     }
   },
   "log": [
@@ -4563,7 +4633,12 @@
       "at": "2026-08-05T14:32:42.939Z",
       "total": 500,
       "new": 18
+    },
+    {
+      "at": "2026-08-05T17:53:22.332Z",
+      "total": 500,
+      "new": 10
     }
   ],
-  "lastRun": "2026-08-05T14:32:42.939Z"
+  "lastRun": "2026-08-05T17:53:22.332Z"
 }
