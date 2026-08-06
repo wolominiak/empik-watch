@@ -4402,6 +4402,41 @@
       "url": "https://www.empik.com/f-u-n-book-lamiglowki-moondrive-x-oficyna-wypoczynek-iwanczuk-julia,p1734722284,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1748010919": {
+      "id": "p1748010919",
+      "title": "Poczekam z tobą - Jakub Bączykowski",
+      "url": "https://www.empik.com/poczekam-z-toba-jakub-baczykowski,p1748010919,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T19:21:53.742Z"
+    },
+    "p1769783515": {
+      "id": "p1769783515",
+      "title": "Drzewo Elfów. Wielka magiczna wyszukiwanka - Minor Marcin",
+      "url": "https://www.empik.com/drzewo-elfow-wielka-magiczna-wyszukiwanka-minor-marcin,p1769783515,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T19:21:53.742Z"
+    },
+    "p1770193125": {
+      "id": "p1770193125",
+      "title": "Słodko i czule. Historia konfektów, deserów i innych słodkości - Kasprzyk-Chevriaux Magdalena",
+      "url": "https://www.empik.com/slodko-i-czule-historia-konfektow-deserow-i-innych-slodkosci-kasprzyk-chevriaux-magdalena,p1770193125,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T19:21:53.742Z"
+    },
+    "p1768178956": {
+      "id": "p1768178956",
+      "title": "Rafał Majka. Zawsze z przodu. Rozmawia Tomasz Kalemba - Majka Rafał, Kalemba Tomasz",
+      "url": "https://www.empik.com/rafal-majka-zawsze-z-przodu-rozmawia-tomasz-kalemba-majka-rafal-kalemba-tomasz,p1768178956,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T19:21:53.742Z"
+    },
+    "p1747557185": {
+      "id": "p1747557185",
+      "title": "Związane losem - Tahereh Mafi",
+      "url": "https://www.empik.com/zlaczone-losem-tahereh-mafi,p1747557185,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T19:21:53.742Z"
     }
   },
   "log": [
@@ -4739,7 +4774,12 @@
       "at": "2026-08-06T14:34:39.156Z",
       "total": 486,
       "new": 12
+    },
+    {
+      "at": "2026-08-06T19:21:53.742Z",
+      "total": 489,
+      "new": 5
     }
   ],
-  "lastRun": "2026-08-06T14:34:39.156Z"
+  "lastRun": "2026-08-06T19:21:53.742Z"
 }
