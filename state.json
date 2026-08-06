@@ -4318,6 +4318,90 @@
       "url": "https://www.empik.com/nie-moja-wina-jak-umysl-podejmuje-decyzje-za-nas-lukasz-ploszajski,p1756328901,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-05T21:32:08.517Z"
+    },
+    "p1741644762": {
+      "id": "p1741644762",
+      "title": "Emblemat zdrajcy - Juan Gomez-Jurado",
+      "url": "https://www.empik.com/emblemat-zdrajcy-juan-gomez-jurado,p1741644762,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1743959242": {
+      "id": "p1743959242",
+      "title": "Tylko dla twoich oczu - Fleming Ian",
+      "url": "https://www.empik.com/tylko-dla-twoich-oczu-fleming-ian,p1743959242,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1753138875": {
+      "id": "p1753138875",
+      "title": "Jej sekret - Trope Nicole",
+      "url": "https://www.empik.com/jej-sekret-trope-nicole,p1753138875,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1752090161": {
+      "id": "p1752090161",
+      "title": "Święta kradzież - Szymańczak Klaudiusz",
+      "url": "https://www.empik.com/swiety-krzyz-szymanczak-klaudiusz,p1752090161,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1767859364": {
+      "id": "p1767859364",
+      "title": "Pierwsza pomoc psychologiczna - Sójka Agnieszka",
+      "url": "https://www.empik.com/pierwsza-pomoc-psychologiczna-sojka-agnieszka,p1767859364,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1766414331": {
+      "id": "p1766414331",
+      "title": "Skarga - Jan B. Bełkowski",
+      "url": "https://www.empik.com/skarga-jan-b-belkowski,p1766414331,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1759574990": {
+      "id": "p1759574990",
+      "title": "Ilustrownik. Przewodnik po gatunkach i tematach malarskich - Bastek Grażyna, Bogusz Marcin",
+      "url": "https://www.empik.com/ilustrownik-przewodnik-po-gatunkach-i-tematach-malarskich-bastek-grazyna-bogusz-marcin,p1759574990,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1767529782": {
+      "id": "p1767529782",
+      "title": "Miłość i inne obsesje - Sztyler-Turovsky Agnieszka",
+      "url": "https://www.empik.com/milosc-i-inne-obsesje-sztyler-turovsky-agnieszka,p1767529782,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1757270911": {
+      "id": "p1757270911",
+      "title": "Defekt - Tomasz Witkowski",
+      "url": "https://www.empik.com/defekt-tomasz-witkowski,p1757270911,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1765011119": {
+      "id": "p1765011119",
+      "title": "Nietoperze Tajemnice jedynych latających ssaków - Yossi Yovel",
+      "url": "https://www.empik.com/nietoperze-tajemnice-jedynych-latajacych-ssakow-yossi-yovel,p1765011119,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1765006047": {
+      "id": "p1765006047",
+      "title": "Błysk pierwszych fleszy Niezwykła historia początków fotografii i jej wynalazców - Burgess Anika",
+      "url": "https://www.empik.com/blysk-pierwszych-fleszy-niezwykla-historia-poczatkow-fotografii-i-jej-wynalazcow-burgess-anika,p1765006047,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
+    },
+    "p1734722284": {
+      "id": "p1734722284",
+      "title": "F.U.N. book. Łamigłówki Moondrive x Oficyna Wypoczynek - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/f-u-n-book-lamiglowki-moondrive-x-oficyna-wypoczynek-iwanczuk-julia,p1734722284,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-06T14:34:39.156Z"
     }
   },
   "log": [
@@ -4650,7 +4734,12 @@
       "at": "2026-08-05T21:32:08.517Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-08-06T14:34:39.156Z",
+      "total": 486,
+      "new": 12
     }
   ],
-  "lastRun": "2026-08-05T21:32:08.517Z"
+  "lastRun": "2026-08-06T14:34:39.156Z"
 }
