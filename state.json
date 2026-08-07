@@ -4437,6 +4437,27 @@
       "url": "https://www.empik.com/zlaczone-losem-tahereh-mafi,p1747557185,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-06T19:21:53.742Z"
+    },
+    "p1754155851": {
+      "id": "p1754155851",
+      "title": "Polskość. Prawdziwa historia tego, kim jesteśmy - Janicki Kamil",
+      "url": "https://www.empik.com/polskosc-prawdziwa-historia-tego-kim-jestesmy-janicki-kamil,p1754155851,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T00:55:20.455Z"
+    },
+    "p1769739675": {
+      "id": "p1769739675",
+      "title": "Amazonki. Wojowniczki starożytnego świata - Mayor Adrienne",
+      "url": "https://www.empik.com/amazonki-wojowniczki-starozytnego-swiata-mayor-adrienne,p1769739675,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T00:55:20.455Z"
+    },
+    "p1766164463": {
+      "id": "p1766164463",
+      "title": "Whispers of Victory II - Kosecka Maria",
+      "url": "https://www.empik.com/whispers-of-victory-ii-kosecka-maria,p1766164463,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T00:55:20.455Z"
     }
   },
   "log": [
@@ -4779,7 +4800,12 @@
       "at": "2026-08-06T19:21:53.742Z",
       "total": 489,
       "new": 5
+    },
+    {
+      "at": "2026-08-07T00:55:20.455Z",
+      "total": 490,
+      "new": 3
     }
   ],
-  "lastRun": "2026-08-06T19:21:53.742Z"
+  "lastRun": "2026-08-07T00:55:20.455Z"
 }
