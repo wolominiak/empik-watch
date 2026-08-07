@@ -4619,6 +4619,13 @@
       "url": "https://www.empik.com/narzeczona-nazisty-wysoczanska-barbara,p1752245433,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-07T17:06:45.439Z"
+    },
+    "p1764465517": {
+      "id": "p1764465517",
+      "title": "Hilma af Klint. Wprawić ludzkość w zdumienie - Voss Julia",
+      "url": "https://www.empik.com/hilma-af-klint-wprawic-ludzkosc-w-zdumienie-voss-julia,p1764465517,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T20:58:15.822Z"
     }
   },
   "log": [
@@ -4976,7 +4983,12 @@
       "at": "2026-08-07T17:06:45.439Z",
       "total": 484,
       "new": 3
+    },
+    {
+      "at": "2026-08-07T20:58:15.822Z",
+      "total": 481,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-07T17:06:45.439Z"
+  "lastRun": "2026-08-07T20:58:15.822Z"
 }
