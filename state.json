@@ -4598,6 +4598,27 @@
       "url": "https://www.empik.com/lew-ktory-sie-odwazyl-aubrey-hartman,p1759752987,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-07T13:38:08.706Z"
+    },
+    "p1768124928": {
+      "id": "p1768124928",
+      "title": "Ciche szepty. Tom 2 - Kuczyńska Ola",
+      "url": "https://www.empik.com/ciche-szepty-2-kuczynska-ola,p1768124928,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T17:06:45.439Z"
+    },
+    "p1769746781": {
+      "id": "p1769746781",
+      "title": "Okupowany Kraków. Przewodnik po stolicy Generalnego Gubernatorstwa - Grabowski Jan Jakub",
+      "url": "https://www.empik.com/okupowany-krakow-przewodnik-po-stolicy-generalnego-gubernatorstwa-grabowski-jan-jakub,p1769746781,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T17:06:45.439Z"
+    },
+    "p1752245433": {
+      "id": "p1752245433",
+      "title": "Narzeczona nazisty - Wysoczańska Barbara",
+      "url": "https://www.empik.com/narzeczona-nazisty-wysoczanska-barbara,p1752245433,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-07T17:06:45.439Z"
     }
   },
   "log": [
@@ -4950,7 +4971,12 @@
       "at": "2026-08-07T13:38:08.706Z",
       "total": 498,
       "new": 20
+    },
+    {
+      "at": "2026-08-07T17:06:45.439Z",
+      "total": 484,
+      "new": 3
     }
   ],
-  "lastRun": "2026-08-07T13:38:08.706Z"
+  "lastRun": "2026-08-07T17:06:45.439Z"
 }
