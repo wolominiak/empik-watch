@@ -4626,6 +4626,62 @@
       "url": "https://www.empik.com/hilma-af-klint-wprawic-ludzkosc-w-zdumienie-voss-julia,p1764465517,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-07T20:58:15.822Z"
+    },
+    "p1767529560": {
+      "id": "p1767529560",
+      "title": "Podejrzany na bank - Getner Jacek",
+      "url": "https://www.empik.com/podejrzany-na-bank-getner-jacek,p1767529560,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1765039887": {
+      "id": "p1765039887",
+      "title": "Odzia. Więcej niż medal - Nowacka Oktawia",
+      "url": "https://www.empik.com/odzia-wiecej-niz-medal-nowacka-oktawia,p1765039887,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1771226332": {
+      "id": "p1771226332",
+      "title": "Apetyt na miłość - Marcelina Bobeł",
+      "url": "https://www.empik.com/apetyt-na-milosc-marcelina-bobel,p1771226332,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1770806742": {
+      "id": "p1770806742",
+      "title": "Boży szaleniec na krańcu świata - Cercas Javier",
+      "url": "https://www.empik.com/bozy-szaleniec-na-krancu-swiata-cercas-javier,p1770806742,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1770812619": {
+      "id": "p1770812619",
+      "title": "Demon niepokoju - Larson Erik",
+      "url": "https://www.empik.com/demon-niepokoju-larson-erik,p1770812619,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1771235145": {
+      "id": "p1771235145",
+      "title": "Potop. Tom I - Sienkiewicz Henryk",
+      "url": "https://www.empik.com/potop-tom-i-sienkiewicz-henryk,p1771235145,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1771235835": {
+      "id": "p1771235835",
+      "title": "Potop. Tom III - Sienkiewicz Henryk",
+      "url": "https://www.empik.com/potop-tom-iii-sienkiewicz-henryk,p1771235835,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
+    },
+    "p1771235783": {
+      "id": "p1771235783",
+      "title": "Potop. Tom II - Sienkiewicz Henryk",
+      "url": "https://www.empik.com/potop-tom-ii-sienkiewicz-henryk,p1771235783,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-08T13:11:28.674Z"
     }
   },
   "log": [
@@ -4988,7 +5044,12 @@
       "at": "2026-08-07T20:58:15.822Z",
       "total": 481,
       "new": 1
+    },
+    {
+      "at": "2026-08-08T13:11:28.674Z",
+      "total": 490,
+      "new": 8
     }
   ],
-  "lastRun": "2026-08-07T20:58:15.822Z"
+  "lastRun": "2026-08-08T13:11:28.674Z"
 }
