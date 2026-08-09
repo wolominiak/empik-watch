@@ -6880,6 +6880,97 @@
       "url": "https://www.taniaksiazka.pl/instakrakow-subiektywny-przewodnik-po-miescie-o-ktorym-wszyscy-juz-wszystko-wiedza-albo-tak-im-sie-wydaje-p-2512252.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-08-08T13:12:35.587Z"
+    },
+    "tk2512289": {
+      "id": "tk2512289",
+      "title": "Jestem tuż za tobą",
+      "url": "https://www.taniaksiazka.pl/jestem-tuz-za-toba-p-2512289.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512284": {
+      "id": "tk2512284",
+      "title": "Gdzie diabeł nie może…",
+      "url": "https://www.taniaksiazka.pl/gdzie-diabel-nie-moze-hellip-p-2512284.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512281": {
+      "id": "tk2512281",
+      "title": "Wendeta",
+      "url": "https://www.taniaksiazka.pl/wendeta-p-2512281.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512273": {
+      "id": "tk2512273",
+      "title": "Skarga",
+      "url": "https://www.taniaksiazka.pl/skarga-p-2512273.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512272": {
+      "id": "tk2512272",
+      "title": "Rachunek win. Tajemnicza śmierć szesnastolatki w sali katechetycznej",
+      "url": "https://www.taniaksiazka.pl/rachunek-win-tajemnicza-smierc-szesnastolatki-w-sali-katechetycznej-p-2512272.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512274": {
+      "id": "tk2512274",
+      "title": "Wojownik Eoden",
+      "url": "https://www.taniaksiazka.pl/kroniki-atlantydy-tom-1-wojownik-eoden-p-2512274.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512259": {
+      "id": "tk2512259",
+      "title": "Encyklopedia psychologii analitycznej Junga",
+      "url": "https://www.taniaksiazka.pl/encyklopedia-psychologii-analitycznej-junga-p-2512259.html",
+      "category": "Nauki humanistyczne",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512276": {
+      "id": "tk2512276",
+      "title": "Symbole w sztuce",
+      "url": "https://www.taniaksiazka.pl/symbole-w-sztuce-p-2512276.html",
+      "category": "Kultura i sztuka",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk445748": {
+      "id": "tk445748",
+      "title": "Regulacja emocji w psychoterapii. Podręcznik praktyka",
+      "url": "https://www.taniaksiazka.pl/regulacja-emocji-w-psychoterapii-podrecznik-praktyka-dennis-tirch-p-445748.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2083790": {
+      "id": "tk2083790",
+      "title": "Wykłady z topologii. Zbiory spójne i kontinua",
+      "url": "https://www.taniaksiazka.pl/wyklady-z-topologii-zbiory-spojne-i-kontinua-jerzy-mioduszewski-p-2083790.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk1728288": {
+      "id": "tk1728288",
+      "title": "Prawo rzymskie przed egzaminem",
+      "url": "https://www.taniaksiazka.pl/prawo-rzymskie-przed-egzaminem-grzegorz-blicharz-p-1728288.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512287": {
+      "id": "tk2512287",
+      "title": "Teraz albo nigdy. To czas, aby zawalczyć o siebie",
+      "url": "https://www.taniaksiazka.pl/teraz-albo-nigdy-to-czas-aby-zawalczyc-o-siebie-p-2512287.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk2512286": {
+      "id": "tk2512286",
+      "title": "Poczuj Swoją Wartość. Buduj pewność siebie i żyj pełnią życia",
+      "url": "https://www.taniaksiazka.pl/poczuj-swoja-wartosc-buduj-pewnosc-siebie-i-zyj-pelnia-zycia-p-2512286.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-08-09T13:16:09.780Z"
     }
   },
   "log": [
@@ -7320,7 +7411,13 @@
       "total": 429,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-09T13:16:09.780Z",
+      "total": 432,
+      "new": 13,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-08T20:48:15.916Z"
+  "lastRun": "2026-08-09T13:16:09.780Z"
 }
