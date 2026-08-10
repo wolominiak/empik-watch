@@ -6971,6 +6971,34 @@
       "url": "https://www.taniaksiazka.pl/poczuj-swoja-wartosc-buduj-pewnosc-siebie-i-zyj-pelnia-zycia-p-2512286.html",
       "category": "Poradniki",
       "firstSeen": "2026-08-09T13:16:09.780Z"
+    },
+    "tk222748": {
+      "id": "tk222748",
+      "title": "Terapia dzieci i młodzieży. Procedury poznawczo-behawioralne",
+      "url": "https://www.taniaksiazka.pl/terapia-dzieci-i-mlodziezy-procedury-poznawczo-behawioralne-kendall-c-philip-p-222748.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-10T13:45:02.151Z"
+    },
+    "tk1140350": {
+      "id": "tk1140350",
+      "title": "Zarządzanie podmiotem leczniczym",
+      "url": "https://www.taniaksiazka.pl/zarzadzanie-podmiotem-leczniczym-p-1140350.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-10T13:45:02.151Z"
+    },
+    "tk589046": {
+      "id": "tk589046",
+      "title": "Podstawy badania psychiatrycznego dla studentów, lekarzy, psychologów i psychoterapeutów",
+      "url": "https://www.taniaksiazka.pl/podstawy-badania-psychiatrycznego-dla-studentow-lekarzy-psychologow-i-psychoterapeutow-bartosz-grabski-p-589046.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-10T13:45:02.151Z"
+    },
+    "tk455839": {
+      "id": "tk455839",
+      "title": "Pielęgniarstwo internistyczne",
+      "url": "https://www.taniaksiazka.pl/pielegniarstwo-internistyczne-grazyna-jurkowska-p-455839.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-10T13:45:02.151Z"
     }
   },
   "log": [
@@ -7429,7 +7457,13 @@
       "total": 432,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-10T13:45:02.151Z",
+      "total": 426,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-09T20:52:05.378Z"
+  "lastRun": "2026-08-10T13:45:02.151Z"
 }
