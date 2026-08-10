@@ -4836,6 +4836,20 @@
       "url": "https://www.empik.com/dzien-kobiet-2026-gargas-gabriela,p1743027303,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-10T17:08:11.314Z"
+    },
+    "p1755154114": {
+      "id": "p1755154114",
+      "title": "Atomowe nawyki. Kalendarz - Clear James",
+      "url": "https://www.empik.com/atomowe-nawyki-kalendarz-clear-james,p1755154114,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-10T21:01:29.274Z"
+    },
+    "p1753728508": {
+      "id": "p1753728508",
+      "title": "Kara. Kozak i Wolf. Tom 3 - Wojciech Wolnicki",
+      "url": "https://www.empik.com/kara-kozak-i-wolf-tom-3-wojciech-wolnicki,p1753728508,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-10T21:01:29.274Z"
     }
   },
   "log": [
@@ -5238,7 +5252,12 @@
       "at": "2026-08-10T17:08:11.314Z",
       "total": 457,
       "new": 1
+    },
+    {
+      "at": "2026-08-10T21:01:29.274Z",
+      "total": 458,
+      "new": 2
     }
   ],
-  "lastRun": "2026-08-10T17:08:11.314Z"
+  "lastRun": "2026-08-10T21:01:29.274Z"
 }
