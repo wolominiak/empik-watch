@@ -6999,6 +6999,13 @@
       "url": "https://www.taniaksiazka.pl/pielegniarstwo-internistyczne-grazyna-jurkowska-p-455839.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-08-10T13:45:02.151Z"
+    },
+    "tk2513017": {
+      "id": "tk2513017",
+      "title": "Drumindor. Cykl Kroniki Riyrii. Tom 5",
+      "url": "https://www.taniaksiazka.pl/drumindor-cykl-kroniki-riyrii-tom-5-p-2513017.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-08-10T17:08:59.326Z"
     }
   },
   "log": [
@@ -7463,7 +7470,13 @@
       "total": 426,
       "new": 4,
       "failed": 0
+    },
+    {
+      "at": "2026-08-10T17:08:59.326Z",
+      "total": 426,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-10T13:45:02.151Z"
+  "lastRun": "2026-08-10T17:08:59.326Z"
 }

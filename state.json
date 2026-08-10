@@ -4829,6 +4829,13 @@
       "url": "https://www.empik.com/lalka-prus-boleslaw,p1717209643,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-10T13:43:26.856Z"
+    },
+    "p1743027303": {
+      "id": "p1743027303",
+      "title": "Dzień kobiet (2026) - Gargaś Gabriela",
+      "url": "https://www.empik.com/dzien-kobiet-2026-gargas-gabriela,p1743027303,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-10T17:08:11.314Z"
     }
   },
   "log": [
@@ -5226,7 +5233,12 @@
       "at": "2026-08-10T13:43:26.856Z",
       "total": 462,
       "new": 21
+    },
+    {
+      "at": "2026-08-10T17:08:11.314Z",
+      "total": 457,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-10T13:43:26.856Z"
+  "lastRun": "2026-08-10T17:08:11.314Z"
 }
