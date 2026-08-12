@@ -5102,6 +5102,34 @@
       "url": "https://www.empik.com/janek-plywa-jak-ryba-czytam-sobie-poziom-2-witek-rafal,p1767874813,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-12T13:45:43.379Z"
+    },
+    "p1771792279": {
+      "id": "p1771792279",
+      "title": "Niecodzienny sklepik z listami w Seulu - Seungyeon Baek",
+      "url": "https://www.empik.com/niecodzienny-sklepik-z-listami-w-seulu-seungyeon-baek,p1771792279,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T17:11:37.205Z"
+    },
+    "p1769210082": {
+      "id": "p1769210082",
+      "title": "Valland. Prze klęta krew - Muniowska Natalia",
+      "url": "https://www.empik.com/valland-prze-kleta-krew-muniowska-natalia,p1769210082,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T17:11:37.205Z"
+    },
+    "p1733640770": {
+      "id": "p1733640770",
+      "title": "Na światło i mrok. O więzach i rozłamach. Tom 2 - Ryan Cahill, Ryan Cahill",
+      "url": "https://www.empik.com/na-swiatlo-i-mrok-o-wiezach-i-rozlamach-tom-2-ryan-cahill-ryan-cahill,p1733640770,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T17:11:37.205Z"
+    },
+    "p1734302248": {
+      "id": "p1734302248",
+      "title": "Ozzy i ja - Rea Stephen",
+      "url": "https://www.empik.com/ozzy-i-ja-rea-stephen,p1734302248,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T17:11:37.205Z"
     }
   },
   "log": [
@@ -5529,7 +5557,12 @@
       "at": "2026-08-12T13:45:43.379Z",
       "total": 455,
       "new": 30
+    },
+    {
+      "at": "2026-08-12T17:11:37.205Z",
+      "total": 458,
+      "new": 4
     }
   ],
-  "lastRun": "2026-08-12T13:45:43.379Z"
+  "lastRun": "2026-08-12T17:11:37.205Z"
 }
