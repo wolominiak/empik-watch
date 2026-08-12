@@ -5130,6 +5130,20 @@
       "url": "https://www.empik.com/ozzy-i-ja-rea-stephen,p1734302248,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-12T17:11:37.205Z"
+    },
+    "p1753940456": {
+      "id": "p1753940456",
+      "title": "Mandolina kapitana Corellego - Louis de Bernieres",
+      "url": "https://www.empik.com/mandolina-kapitana-corellego-louis-de-bernieres,p1753940456,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T21:02:51.491Z"
+    },
+    "p1753721338": {
+      "id": "p1753721338",
+      "title": "Pleśń - Żarski Przemysław",
+      "url": "https://www.empik.com/plesn-zarski-przemyslaw,p1753721338,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-12T21:02:51.491Z"
     }
   },
   "log": [
@@ -5562,7 +5576,12 @@
       "at": "2026-08-12T17:11:37.205Z",
       "total": 458,
       "new": 4
+    },
+    {
+      "at": "2026-08-12T21:02:51.491Z",
+      "total": 459,
+      "new": 2
     }
   ],
-  "lastRun": "2026-08-12T17:11:37.205Z"
+  "lastRun": "2026-08-12T21:02:51.491Z"
 }
