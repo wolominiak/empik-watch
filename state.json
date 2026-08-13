@@ -5144,6 +5144,83 @@
       "url": "https://www.empik.com/plesn-zarski-przemyslaw,p1753721338,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-12T21:02:51.491Z"
+    },
+    "p1772701982": {
+      "id": "p1772701982",
+      "title": "Antyk - Johansson Hanna",
+      "url": "https://www.empik.com/antyk-johansson-hanna,p1772701982,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1753922441": {
+      "id": "p1753922441",
+      "title": "Psy Europy - Bacharewicz Alhierd",
+      "url": "https://www.empik.com/psy-europy-bacharewicz-alhierd,p1753922441,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1753516639": {
+      "id": "p1753516639",
+      "title": "Patyki, badyle (wydanie rozszerzone) - Zajączkowska Urszula",
+      "url": "https://www.empik.com/patyki-badyle-wydanie-rozszerzone-zajaczkowska-urszula,p1753516639,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1593538819": {
+      "id": "p1593538819",
+      "title": "Orno - Myśliński Michał, Paulina Mazurek",
+      "url": "https://www.empik.com/orno-myslinski-michal-paulina-mazurek,p1593538819,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1767884281": {
+      "id": "p1767884281",
+      "title": "Muminki. Psoty Małej Mi. Czytam sobie. Poziom 2 - Stanecka Zofia",
+      "url": "https://www.empik.com/muminki-psoty-malej-mi-czytam-sobie-poziom-2-stanecka-zofia,p1767884281,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1770149887": {
+      "id": "p1770149887",
+      "title": "Pasażerowie linii Hankyū - Arikawa Hiro",
+      "url": "https://www.empik.com/pasazerowie-linii-hankyu-arikawa-hiro,p1770149887,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1766109147": {
+      "id": "p1766109147",
+      "title": "Bluey. Papugowanie. Moja czytanka - Opracowanie zbiorowe, LUDO",
+      "url": "https://www.empik.com/bluey-papugowanie-moja-czytanka-opracowanie-zbiorowe-ludo,p1766109147,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1760581482": {
+      "id": "p1760581482",
+      "title": "Codzienność w depresji. Rzecz o tym, jak z depresji powrócić do życia - Poremba Joanna",
+      "url": "https://www.empik.com/codziennosc-w-depresji-rzecz-o-tym-jak-z-depresji-powrocic-do-zycia-poremba-joanna,p1760581482,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1753943408": {
+      "id": "p1753943408",
+      "title": "Czerwony krzyż - Filipenko Sasza",
+      "url": "https://www.empik.com/czerwony-krzyz-filipenko-sasza,p1753943408,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1772769357": {
+      "id": "p1772769357",
+      "title": "Budda na co dzień - Fernando Tony",
+      "url": "https://www.empik.com/budda-na-co-dzien-fernando-tony,p1772769357,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1752847152": {
+      "id": "p1752847152",
+      "title": "Sierociniec pełen nadziei - Kubik Sylwia",
+      "url": "https://www.empik.com/sierociniec-pelen-nadziei-kubik-sylwia,p1752847152,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T13:46:42.178Z"
     }
   },
   "log": [
@@ -5581,7 +5658,12 @@
       "at": "2026-08-12T21:02:51.491Z",
       "total": 459,
       "new": 2
+    },
+    {
+      "at": "2026-08-13T13:46:42.178Z",
+      "total": 467,
+      "new": 11
     }
   ],
-  "lastRun": "2026-08-12T21:02:51.491Z"
+  "lastRun": "2026-08-13T13:46:42.178Z"
 }
