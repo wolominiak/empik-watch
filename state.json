@@ -5221,6 +5221,48 @@
       "url": "https://www.empik.com/sierociniec-pelen-nadziei-kubik-sylwia,p1752847152,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-13T13:46:42.178Z"
+    },
+    "p1771872681": {
+      "id": "p1771872681",
+      "title": "Ogniem i mieczem. Tom 1 - Sienkiewicz Henryk",
+      "url": "https://www.empik.com/ogniem-i-mieczem-tom-sienkiewicz-henryk,p1771872681,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1753940474": {
+      "id": "p1753940474",
+      "title": "Nr 0. Temat na pierwszą stronę - Eco Umberto",
+      "url": "https://www.empik.com/nr-0-temat-na-pierwsza-strone-eco-umberto,p1753940474,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1753187516": {
+      "id": "p1753187516",
+      "title": "Kamień w wodę - Cedlerska Paulina",
+      "url": "https://www.empik.com/kamien-w-wode-cedlerska-paulina,p1753187516,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1756075665": {
+      "id": "p1756075665",
+      "title": "Pępek świata - Rogoziński Alek",
+      "url": "https://www.empik.com/pepek-swiata-rogozinski-alek,p1756075665,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1773016614": {
+      "id": "p1773016614",
+      "title": "Małe ludzkie potrzeby - Desamours Channelle",
+      "url": "https://www.empik.com/male-ludzkie-potrzeby-desamours-channelle,p1773016614,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1770186684": {
+      "id": "p1770186684",
+      "title": "Drzewo dymu - Johnson Denis",
+      "url": "https://www.empik.com/drzewo-dymu-johnson-denis,p1770186684,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T17:11:20.095Z"
     }
   },
   "log": [
@@ -5663,7 +5705,12 @@
       "at": "2026-08-13T13:46:42.178Z",
       "total": 467,
       "new": 11
+    },
+    {
+      "at": "2026-08-13T17:11:20.095Z",
+      "total": 462,
+      "new": 6
     }
   ],
-  "lastRun": "2026-08-13T13:46:42.178Z"
+  "lastRun": "2026-08-13T17:11:20.095Z"
 }
