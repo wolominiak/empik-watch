@@ -5263,6 +5263,34 @@
       "url": "https://www.empik.com/drzewo-dymu-johnson-denis,p1770186684,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-13T17:11:20.095Z"
+    },
+    "p1764916543": {
+      "id": "p1764916543",
+      "title": "Odpuść. 50 lekcji minimalizmu japońskiego, dzięki którym zaznasz prawdziwej wolności - Yosumi Daisuke",
+      "url": "https://www.empik.com/odpusc-50-lekcji-minimalizmu-japonskiego-dzieki-ktorym-zaznasz-prawdziwej-wolnosci-yosumi-daisuke,p1764916543,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T21:02:18.193Z"
+    },
+    "p1771238957": {
+      "id": "p1771238957",
+      "title": "Rachunek win. Tajemnicza śmierć szesnastolatki w sali katechetycznej - Podlewski Adam",
+      "url": "https://www.empik.com/rachunek-win-tajemnicza-smierc-szesnastolatki-w-sali-katechetycznej-podlewski-adam,p1771238957,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T21:02:18.193Z"
+    },
+    "p1766191254": {
+      "id": "p1766191254",
+      "title": "Imperium Zła - Jurga Karolina",
+      "url": "https://www.empik.com/imperium-zla-jurga-karolina,p1766191254,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T21:02:18.193Z"
+    },
+    "p1766194668": {
+      "id": "p1766194668",
+      "title": "Sweet Sin - Agata Moore",
+      "url": "https://www.empik.com/sweet-sin-agata-moore,p1766194668,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-13T21:02:18.193Z"
     }
   },
   "log": [
@@ -5710,7 +5738,12 @@
       "at": "2026-08-13T17:11:20.095Z",
       "total": 462,
       "new": 6
+    },
+    {
+      "at": "2026-08-13T21:02:18.193Z",
+      "total": 465,
+      "new": 4
     }
   ],
-  "lastRun": "2026-08-13T17:11:20.095Z"
+  "lastRun": "2026-08-13T21:02:18.193Z"
 }
