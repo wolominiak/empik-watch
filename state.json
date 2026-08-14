@@ -5291,6 +5291,97 @@
       "url": "https://www.empik.com/sweet-sin-agata-moore,p1766194668,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-13T21:02:18.193Z"
+    },
+    "p1770189812": {
+      "id": "p1770189812",
+      "title": "Niedaleko pada granat od jabłoni - Dauksza Agnieszka",
+      "url": "https://www.empik.com/niedaleko-pada-granat-od-jabloni-dauksza-agnieszka,p1770189812,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1772713349": {
+      "id": "p1772713349",
+      "title": "Księga moich żyć. Wspomnienia. Tak jakby - Atwood Margaret",
+      "url": "https://www.empik.com/ksiega-moich-zyc-wspomnienia-tak-jakby-atwood-margaret,p1772713349,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1766993944": {
+      "id": "p1766993944",
+      "title": "Kolorowy potwór. Książka do kolorowania - Llenas Anna",
+      "url": "https://www.empik.com/kolorowy-potwor-ksiazka-do-kolorowania-llenas-anna,p1766993944,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1770153172": {
+      "id": "p1770153172",
+      "title": "Supergwiazdy ataku. Niewiarygodny futbol - Matt Oldfield",
+      "url": "https://www.empik.com/supergwiazdy-ataku-niewiarygodny-futbol-matt-oldfield,p1770153172,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1767013519": {
+      "id": "p1767013519",
+      "title": "Kolorowy potwór. Mandale. Sposób na trudne emocje i codzienny stres - Llenas Anna",
+      "url": "https://www.empik.com/kolorowy-potwor-mandale-sposob-na-trudne-emocje-i-codzienny-stres-llenas-anna,p1767013519,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1773331133": {
+      "id": "p1773331133",
+      "title": "RAIN. Wróć, nim zgasnę - Wycisk Katarzyna",
+      "url": "https://www.empik.com/rain-wroc-nim-zgasne-wycisk-katarzyna,p1773331133,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1756339864": {
+      "id": "p1756339864",
+      "title": "Wielka transformacja - Milanovic Branko",
+      "url": "https://www.empik.com/wielka-transformacja-milanovic-branko,p1756339864,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1772817308": {
+      "id": "p1772817308",
+      "title": "Malta. Między festą a sjestą - Miler Karolina, Andruszko Piotr",
+      "url": "https://www.empik.com/malta-miedzy-festa-a-sjesta-miler-karolina-andruszko-piotr,p1772817308,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1773404280": {
+      "id": "p1773404280",
+      "title": "Gdybym nie pomyliła psów - Angerborn Ingelin, Forsman Lena",
+      "url": "https://www.empik.com/gdybym-nie-pomylila-psow-angerborn-ingelin-forsman-lena,p1773404280,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1773429641": {
+      "id": "p1773429641",
+      "title": "Gdybym nie powiedziała prawdy - Angerborn Ingelin, Forsman Lena",
+      "url": "https://www.empik.com/gdybym-nie-powiedziala-prawdy-angerborn-ingelin-forsman-lena,p1773429641,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1755562207": {
+      "id": "p1755562207",
+      "title": "Miasto - Świst Paulina, Piotr C.",
+      "url": "https://www.empik.com/miasto-swist-paulina-piotr-c,p1755562207,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1754157488": {
+      "id": "p1754157488",
+      "title": "Świat jest teatrem - Mróz Remigiusz",
+      "url": "https://www.empik.com/nowa-ksiazka-remigiusza-mroza-mroz-remigiusz,p1754157488,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1766187084": {
+      "id": "p1766187084",
+      "title": "A z mgły rodzi się świt - Julie C. Dao",
+      "url": "https://www.empik.com/a-z-mgly-rodzi-sie-swit-julie-c-dao,p1766187084,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-14T13:42:25.754Z"
     }
   },
   "log": [
@@ -5743,7 +5834,12 @@
       "at": "2026-08-13T21:02:18.193Z",
       "total": 465,
       "new": 4
+    },
+    {
+      "at": "2026-08-14T13:42:25.754Z",
+      "total": 467,
+      "new": 13
     }
   ],
-  "lastRun": "2026-08-13T21:02:18.193Z"
+  "lastRun": "2026-08-14T13:42:25.754Z"
 }
