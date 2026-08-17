@@ -5382,6 +5382,55 @@
       "url": "https://www.empik.com/a-z-mgly-rodzi-sie-swit-julie-c-dao,p1766187084,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-14T13:42:25.754Z"
+    },
+    "p1752803103": {
+      "id": "p1752803103",
+      "title": "Kowboje - Mnich Patrycja",
+      "url": "https://www.empik.com/kowboje-mnich-patrycja,p1752803103,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1715708733": {
+      "id": "p1715708733",
+      "title": "Raju nie będzie - Jastrun Tomasz",
+      "url": "https://www.empik.com/raju-nie-bedzie-jastrun-tomasz,p1715708733,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1741644744": {
+      "id": "p1741644744",
+      "title": "Makowe dzieci - Sosnowska Agata",
+      "url": "https://www.empik.com/mroki-podlasia-2-sosnowska-agata,p1741644744,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1756398779": {
+      "id": "p1756398779",
+      "title": "Dziedzictwo mroku - Foxfield Kathryn",
+      "url": "https://www.empik.com/our-wicked-gifts-foxfield-kathryn,p1756398779,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1741706354": {
+      "id": "p1741706354",
+      "title": "Pakty z zaświatami. Welesówna. Tom 3 - Modrzyńska Mika",
+      "url": "https://www.empik.com/welesowna-tom-3-modrzynska-mika,p1741706354,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1770234398": {
+      "id": "p1770234398",
+      "title": "Siódemka - Spindler Erica",
+      "url": "https://www.empik.com/siodemka-spindler-erica,p1770234398,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1756349737": {
+      "id": "p1756349737",
+      "title": "Niedom - Bajor Magdalena",
+      "url": "https://www.empik.com/niedom-bajor-magdalena,p1756349737,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T13:04:54.824Z"
     }
   },
   "log": [
@@ -5879,7 +5928,12 @@
       "at": "2026-08-16T20:36:48.048Z",
       "total": 456,
       "new": 0
+    },
+    {
+      "at": "2026-08-17T13:04:54.824Z",
+      "total": 457,
+      "new": 7
     }
   ],
-  "lastRun": "2026-08-16T20:36:48.048Z"
+  "lastRun": "2026-08-17T13:04:54.824Z"
 }

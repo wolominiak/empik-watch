@@ -8770,6 +8770,41 @@
       "url": "https://www.taniaksiazka.pl/nauka-o-panstwie-i-polityce-grzegorz-lawnikowicz-p-1729805.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-08-16T13:00:37.140Z"
+    },
+    "tk526590": {
+      "id": "tk526590",
+      "title": "Poradnictwo psychologiczne",
+      "url": "https://www.taniaksiazka.pl/poradnictwo-psychologiczne-sylwia-kluczynska-p-526590.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-17T13:06:01.205Z"
+    },
+    "tk81181": {
+      "id": "tk81181",
+      "title": "Zarys pedagogiki wieku dojrzewania",
+      "url": "https://www.taniaksiazka.pl/zarys-pedagogiki-wieku-dojrzewania-erhard-fucke-p-81181.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-17T13:06:01.205Z"
+    },
+    "tk414981": {
+      "id": "tk414981",
+      "title": "Fizjologia człowieka w zarysie",
+      "url": "https://www.taniaksiazka.pl/fizjologia-czlowieka-w-zarysie-wladyslaw-z-traczyk-p-414981.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-17T13:06:01.205Z"
+    },
+    "tk616334": {
+      "id": "tk616334",
+      "title": "Wstępny wywiad diagnostyczny",
+      "url": "https://www.taniaksiazka.pl/wstepny-wywiad-diagnostyczny-james-morrison-p-616334.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-17T13:06:01.205Z"
+    },
+    "tk1336364": {
+      "id": "tk1336364",
+      "title": "Zarządzanie procesem produkcji",
+      "url": "https://www.taniaksiazka.pl/zarzadzanie-procesem-produkcji-ewa-kulinska-adam-buslawski-p-1336364.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-17T13:06:01.205Z"
     }
   },
   "log": [
@@ -9354,7 +9389,13 @@
       "total": 475,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-17T13:06:01.205Z",
+      "total": 473,
+      "new": 5,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-16T20:37:29.841Z"
+  "lastRun": "2026-08-17T13:06:01.205Z"
 }
