@@ -5431,6 +5431,13 @@
       "url": "https://www.empik.com/niedom-bajor-magdalena,p1756349737,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-17T13:04:54.824Z"
+    },
+    "p1773471990": {
+      "id": "p1773471990",
+      "title": "Dzieci Mallaroy. Tom 1 - A.M. Juna",
+      "url": "https://www.empik.com/dzieci-mallaroy-tom-1-a-m-juna,p1773471990,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-17T16:45:03.925Z"
     }
   },
   "log": [
@@ -5933,7 +5940,12 @@
       "at": "2026-08-17T13:04:54.824Z",
       "total": 457,
       "new": 7
+    },
+    {
+      "at": "2026-08-17T16:45:03.925Z",
+      "total": 459,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-17T13:04:54.824Z"
+  "lastRun": "2026-08-17T16:45:03.925Z"
 }
