@@ -5830,6 +5830,27 @@
       "url": "https://www.empik.com/nie-daj-sie-pinku-ksiazka-o-hejcie-i-o-tym-jak-dbac-o-siebie-gdy-ktos-nas-rani-dla-dzieci-i-dla-mlodnicka-urszula-waligora-agnieszka,p1765073854,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-19T13:07:56.177Z"
+    },
+    "p1753534769": {
+      "id": "p1753534769",
+      "title": "Szkoła szpiegów na dziko - Gibbs Stuart",
+      "url": "https://www.empik.com/szkola-szpiegow-na-dziko-gibbs-stuart,p1753534769,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-19T16:46:08.243Z"
+    },
+    "p1753726403": {
+      "id": "p1753726403",
+      "title": "Klan - Mola Carmen",
+      "url": "https://www.empik.com/klan-mola-carmen,p1753726403,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-19T16:46:08.243Z"
+    },
+    "p1774295856": {
+      "id": "p1774295856",
+      "title": "Out of step - Weronika Ancerowicz",
+      "url": "https://www.empik.com/out-of-step-weronika-ancerowicz,p1774295856,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-19T16:46:08.243Z"
     }
   },
   "log": [
@@ -6362,7 +6383,12 @@
       "at": "2026-08-19T13:07:56.177Z",
       "total": 500,
       "new": 20
+    },
+    {
+      "at": "2026-08-19T16:46:08.243Z",
+      "total": 494,
+      "new": 3
     }
   ],
-  "lastRun": "2026-08-19T13:07:56.177Z"
+  "lastRun": "2026-08-19T16:46:08.243Z"
 }
