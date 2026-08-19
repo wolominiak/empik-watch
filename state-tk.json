@@ -9470,6 +9470,69 @@
       "url": "https://www.taniaksiazka.pl/madrosc-dusz-historie-zycia-miedzy-wcieleniami-z-archiwum-instytutu-michaela-newtona-p-2515929.html",
       "category": "Ezoteryka i parapsychologia",
       "firstSeen": "2026-08-19T13:09:33.008Z"
+    },
+    "tk2515603": {
+      "id": "tk2515603",
+      "title": "Maczuga",
+      "url": "https://www.taniaksiazka.pl/maczuga-p-2515603.html",
+      "category": "Historia",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2497056": {
+      "id": "tk2497056",
+      "title": "Panoramy gór Polski",
+      "url": "https://www.taniaksiazka.pl/panoramy-gor-polski-nowe-spojrzenie-na-gory-p-2497056.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2458141": {
+      "id": "tk2458141",
+      "title": "Sycylia. Przewodnik 3w1",
+      "url": "https://www.taniaksiazka.pl/sycylia-3w1-przewodnik-atlas-mapa-p-2458141.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2458137": {
+      "id": "tk2458137",
+      "title": "Włochy północne. Przewodnik z atlasem 2w1",
+      "url": "https://www.taniaksiazka.pl/wlochy-polnocne-2w1-przewodnik-atlas-w-2026-p-2458137.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2453121": {
+      "id": "tk2453121",
+      "title": "Beskid Śląski. Laminowana mapa turystyczna w skali 1:50 000",
+      "url": "https://www.taniaksiazka.pl/comfort-map-beskid-slaski-1-50-000-p-2453121.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2453114": {
+      "id": "tk2453114",
+      "title": "Andaluzja. Przewodnik light + mapa",
+      "url": "https://www.taniaksiazka.pl/andaluzja-light-przewodnik-mapa-p-2453114.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2453113": {
+      "id": "tk2453113",
+      "title": "Poland. 1000 years in the heart of Europe",
+      "url": "https://www.taniaksiazka.pl/polska-1000-lat-w-sercu-europy-p-2453113.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2453112": {
+      "id": "tk2453112",
+      "title": "Podróże niezwykłe. Poza utartym szlakiem",
+      "url": "https://www.taniaksiazka.pl/podroze-niezwykle-poza-utartym-szlakiem-p-2453112.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
+    },
+    "tk2453115": {
+      "id": "tk2453115",
+      "title": "Budapeszt i Balaton. Przewodnik light + mapa",
+      "url": "https://www.taniaksiazka.pl/budapeszt-i-balaton-light-przewodnik-mapa-p-2453115.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-19T20:45:37.844Z"
     }
   },
   "log": [
@@ -10102,7 +10165,13 @@
       "total": 486,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-19T20:45:37.844Z",
+      "total": 494,
+      "new": 9,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-19T16:46:58.248Z"
+  "lastRun": "2026-08-19T20:45:37.844Z"
 }

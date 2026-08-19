@@ -5851,6 +5851,13 @@
       "url": "https://www.empik.com/out-of-step-weronika-ancerowicz,p1774295856,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-19T16:46:08.243Z"
+    },
+    "p1771457279": {
+      "id": "p1771457279",
+      "title": "Polybius - Armstrong Collin",
+      "url": "https://www.empik.com/polybius-armstrong-collin,p1771457279,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-19T20:44:52.827Z"
     }
   },
   "log": [
@@ -6388,7 +6395,12 @@
       "at": "2026-08-19T16:46:08.243Z",
       "total": 494,
       "new": 3
+    },
+    {
+      "at": "2026-08-19T20:44:52.827Z",
+      "total": 485,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-19T16:46:08.243Z"
+  "lastRun": "2026-08-19T20:44:52.827Z"
 }
