@@ -9799,6 +9799,48 @@
       "url": "https://www.taniaksiazka.pl/malopolska-przewodnik-po-polsce-z-filozofia-w-tle-tom-4-p-2516010.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-08-20T13:12:39.804Z"
+    },
+    "tk2514756": {
+      "id": "tk2514756",
+      "title": "Zarządzanie projektami AI dla początkujących. Jak optymalizować procesy biznesowe za pomocą modeli j",
+      "url": "https://www.taniaksiazka.pl/zarzadzanie-projektami-ai-dla-poczatkujacych-p-2514756.html",
+      "category": "Biznes",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
+    },
+    "tk2497064": {
+      "id": "tk2497064",
+      "title": "Norwegia. Przewodnik z atlasem 2w1",
+      "url": "https://www.taniaksiazka.pl/norwegia-przewodnik-z-atlasem-p-2497064.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
+    },
+    "tk2497062": {
+      "id": "tk2497062",
+      "title": "Szwajcaria. Przewodnik light + mapa",
+      "url": "https://www.taniaksiazka.pl/szwajcaria-light-przewodnik-mapa-p-2497062.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
+    },
+    "tk2497061": {
+      "id": "tk2497061",
+      "title": "Sudeckie szlaki z dziećmi. Przewodnik + mapa 2w1",
+      "url": "https://www.taniaksiazka.pl/sudeckie-szlaki-z-dziecmi-przewodnik-mapa-p-2497061.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
+    },
+    "tk2497060": {
+      "id": "tk2497060",
+      "title": "Majorka, Minorka, Ibiza i Formentera. Przewodnik light + mapa",
+      "url": "https://www.taniaksiazka.pl/majorka-minorka-ibiza-i-formentera-light-p-2497060.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
+    },
+    "tk2458138": {
+      "id": "tk2458138",
+      "title": "Włochy północne. Przewodnik 3w1",
+      "url": "https://www.taniaksiazka.pl/explore-guide-wlochy-polnocne-3w1-p-2458138.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-20T20:46:54.568Z"
     }
   },
   "log": [
@@ -10449,7 +10491,13 @@
       "total": 480,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-20T20:46:54.568Z",
+      "total": 483,
+      "new": 6,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-20T16:51:02.242Z"
+  "lastRun": "2026-08-20T20:46:54.568Z"
 }

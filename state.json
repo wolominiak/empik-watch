@@ -6187,6 +6187,69 @@
       "url": "https://www.empik.com/99-sposobow-na-smierc-i-jeszcze-wiecej-na-to-jak-jej-uniknac-alker-ashely,p1753649399,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1766124881": {
+      "id": "p1766124881",
+      "title": "Between Ice and Love - Wiśniewska Kamila",
+      "url": "https://www.empik.com/between-ice-and-love-wisniewska-kamila,p1766124881,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1760437738": {
+      "id": "p1760437738",
+      "title": "Aeternum. Przeklęte królestwo Vinculi #2 - Jamie Applegate Hunter",
+      "url": "https://www.empik.com/aeternum-przeklete-krolestwo-vinculi-2-jamie-applegate-hunter,p1760437738,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1760476108": {
+      "id": "p1760476108",
+      "title": "Przeklęty kontrakt: nowe warunki. Kontrakt #1.5 - Moreland Melanie",
+      "url": "https://www.empik.com/przeklety-kontrakt-nowe-warunki-kontrakt-1-5-moreland-melanie,p1760476108,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1754138058": {
+      "id": "p1754138058",
+      "title": "Maluch ma gluta - Mikrut Izabela",
+      "url": "https://www.empik.com/maluch-ma-gluta-mikrut-izabela,p1754138058,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1756075601": {
+      "id": "p1756075601",
+      "title": "Cena życia - Magdalena Wojtkiewicz",
+      "url": "https://www.empik.com/cena-zycia-magdalena-wojtkiewicz,p1756075601,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1753534459": {
+      "id": "p1753534459",
+      "title": "Myko. Grzyby. Kompletny raport z naszego świata - Jiří Dvořák",
+      "url": "https://www.empik.com/myko-grzyby-kompletny-raport-z-naszego-swiata,p1753534459,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1756768996": {
+      "id": "p1756768996",
+      "title": "Operacja Zombie - Horst Jorn Lier",
+      "url": "https://www.empik.com/operacja-zombie-horst-jorn-lier,p1756768996,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1774845192": {
+      "id": "p1774845192",
+      "title": "Kłótnia. Porozmawiaj ze mną - Jankowska Anna",
+      "url": "https://www.empik.com/klotnia-porozmawiaj-ze-mna-jankowska-anna,p1774845192,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
+    },
+    "p1774853173": {
+      "id": "p1774853173",
+      "title": "Słodkie łamigłówki z pieskiem - Zuzanna Osuchowska",
+      "url": "https://www.empik.com/slodkie-lamiglowki-z-pieskiem-zuzanna-osuchowska,p1774853173,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T20:45:48.952Z"
     }
   },
   "log": [
@@ -6739,7 +6802,12 @@
       "at": "2026-08-20T16:49:57.617Z",
       "total": 500,
       "new": 8
+    },
+    {
+      "at": "2026-08-20T20:45:48.952Z",
+      "total": 500,
+      "new": 9
     }
   ],
-  "lastRun": "2026-08-20T16:49:57.617Z"
+  "lastRun": "2026-08-20T20:45:48.952Z"
 }
