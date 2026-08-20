@@ -6131,6 +6131,62 @@
       "url": "https://www.empik.com/sekretny-jezyk-ptakow-lynne-kelly,p1770804203,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-20T13:10:20.077Z"
+    },
+    "p1771920438": {
+      "id": "p1771920438",
+      "title": "Sportowa batalia. Ninja Księżniczki - Komosa-Styczeń Agata",
+      "url": "https://www.empik.com/sportowa-batalia-ninja-ksiezniczki-komosa-styczen-agata,p1771920438,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1752075649": {
+      "id": "p1752075649",
+      "title": "Henio i Hania jadą pociągiem - Hangartner Diana",
+      "url": "https://www.empik.com/henio-i-hania-jada-pociagiem-hangartner-diana,p1752075649,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1770142963": {
+      "id": "p1770142963",
+      "title": "Psia Chatka. Siwy pyszczek szuka domu - Małysa Irena",
+      "url": "https://www.empik.com/psia-chatka-siwy-pyszczek-szuka-domu-malysa-irena,p1770142963,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1771456340": {
+      "id": "p1771456340",
+      "title": "Jesteś moim okruszkiem. - Zielińska Katarzyna",
+      "url": "https://www.empik.com/jestes-moim-okruszkiem-zielinska-katarzyna,p1771456340,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1752071272": {
+      "id": "p1752071272",
+      "title": "Henio i Hania robią naleśniki - Hangartner Diana",
+      "url": "https://www.empik.com/henio-i-hania-robia-nalesniki-hangartner-diana,p1752071272,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1756765290": {
+      "id": "p1756765290",
+      "title": "Tata Oli urządza wyprzedaż. Tata Oli. Tom 17 - Brunstrom Thomas, Christoffersen Thorbjorn",
+      "url": "https://www.empik.com/tata-oli-urzadza-wyprzedaz-tata-oli-tom-17-brunstrom-thomas-christoffersen-thorbjorn,p1756765290,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1754549528": {
+      "id": "p1754549528",
+      "title": "The Love Hypothesis (okładka filmowa) - Ali Hazelwood",
+      "url": "https://www.empik.com/the-love-hypothesis-okladka-filmowa-ali-hazelwood,p1754549528,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
+    },
+    "p1753649399": {
+      "id": "p1753649399",
+      "title": "99 sposobów na śmierć. I jeszcze więcej na to, jak jej uniknąć - Alker Ashely",
+      "url": "https://www.empik.com/99-sposobow-na-smierc-i-jeszcze-wiecej-na-to-jak-jej-uniknac-alker-ashely,p1753649399,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-20T16:49:57.617Z"
     }
   },
   "log": [
@@ -6678,7 +6734,12 @@
       "at": "2026-08-20T13:10:20.077Z",
       "total": 500,
       "new": 39
+    },
+    {
+      "at": "2026-08-20T16:49:57.617Z",
+      "total": 500,
+      "new": 8
     }
   ],
-  "lastRun": "2026-08-20T13:10:20.077Z"
+  "lastRun": "2026-08-20T16:49:57.617Z"
 }
