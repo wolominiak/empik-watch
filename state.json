@@ -6439,6 +6439,41 @@
       "url": "https://www.empik.com/verity-coraz-wiekszy-mrok-hoover-colleen,p1774327261,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-21T16:50:22.818Z"
+    },
+    "p1767090758": {
+      "id": "p1767090758",
+      "title": "Pępek świata. Duża Czcionka - Alek Rogoziński",
+      "url": "https://www.empik.com/pepek-swiata-duza-czcionka-alek-rogozinski,p1767090758,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T20:40:31.017Z"
+    },
+    "p1774819319": {
+      "id": "p1774819319",
+      "title": "Pterodaktyl - Anouk Herman",
+      "url": "https://www.empik.com/pterodaktyl-anouk-herman,p1774819319,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T20:40:31.017Z"
+    },
+    "p1751777458": {
+      "id": "p1751777458",
+      "title": "Alina Janowska i Wojciech Zabłocki. Biografia dwóch żywiołów - Faryna-Paszkiewicz Hanna",
+      "url": "https://www.empik.com/alina-janowska-i-wojciech-zablocki-niezwykli-razem-niezwykli-osobno-faryna-paszkiewicz-hanna,p1751777458,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T20:40:31.017Z"
+    },
+    "p1752057847": {
+      "id": "p1752057847",
+      "title": "Kosma i królik - Okońska Bianca",
+      "url": "https://www.empik.com/kosma-i-krolik-okonska-bianca,p1752057847,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T20:40:31.017Z"
+    },
+    "p1742864798": {
+      "id": "p1742864798",
+      "title": "Dość. Twoje zdrowie, twoja waga i droga do wolności dzięki postępowi w medycynie - Winfrey Oprah, Jastreboff Ania M.",
+      "url": "https://www.empik.com/dosc-winfrey-oprah,p1742864798,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T20:40:31.017Z"
     }
   },
   "log": [
@@ -7006,7 +7041,12 @@
       "at": "2026-08-21T16:50:22.818Z",
       "total": 497,
       "new": 3
+    },
+    {
+      "at": "2026-08-21T20:40:31.017Z",
+      "total": 500,
+      "new": 5
     }
   ],
-  "lastRun": "2026-08-21T16:50:22.818Z"
+  "lastRun": "2026-08-21T20:40:31.017Z"
 }
