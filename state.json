@@ -6418,6 +6418,27 @@
       "url": "https://www.empik.com/inne-swiaty-niz-te-jack-sawyer-tom-3-king-stephen-straub-peter,p1775545916,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-21T13:10:22.489Z"
+    },
+    "p1770678990": {
+      "id": "p1770678990",
+      "title": "Ostatnia córka - Soraya Lane",
+      "url": "https://www.empik.com/ostatnia-corka-soraya-lane,p1770678990,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T16:50:22.818Z"
+    },
+    "p1754160376": {
+      "id": "p1754160376",
+      "title": "To mogła być ona - Lisa Jewell",
+      "url": "https://www.empik.com/to-mogla-byc-ona-lisa-jewell,p1754160376,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T16:50:22.818Z"
+    },
+    "p1774327261": {
+      "id": "p1774327261",
+      "title": "Verity. Coraz większy mrok (okładka filmowa) - Hoover Colleen",
+      "url": "https://www.empik.com/verity-coraz-wiekszy-mrok-hoover-colleen,p1774327261,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-21T16:50:22.818Z"
     }
   },
   "log": [
@@ -6980,7 +7001,12 @@
       "at": "2026-08-21T13:10:22.489Z",
       "total": 498,
       "new": 24
+    },
+    {
+      "at": "2026-08-21T16:50:22.818Z",
+      "total": 497,
+      "new": 3
     }
   ],
-  "lastRun": "2026-08-21T13:10:22.489Z"
+  "lastRun": "2026-08-21T16:50:22.818Z"
 }
