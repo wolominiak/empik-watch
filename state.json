@@ -6537,6 +6537,48 @@
       "url": "https://www.empik.com/londynskie-zasady-herron-mick,p1771740568,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-22T16:39:53.792Z"
+    },
+    "p1771721606": {
+      "id": "p1771721606",
+      "title": "Ulica szpiegów. Kulawe konie. Tom 4 - Herron Mick",
+      "url": "https://www.empik.com/ulica-szpiegow-herron-mick,p1771721606,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
+    },
+    "p1771522102": {
+      "id": "p1771522102",
+      "title": "Martwe lwy. Kulawe konie. Tom 2 - Herron Mick",
+      "url": "https://www.empik.com/martwe-lwy-herron-mick,p1771522102,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
+    },
+    "p1771507440": {
+      "id": "p1771507440",
+      "title": "Slough House. Kulawe konie. Tom 7 - Herron Mick",
+      "url": "https://www.empik.com/slough-house-herron-mick,p1771507440,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
+    },
+    "p1771831976": {
+      "id": "p1771831976",
+      "title": "Joe Country. Kulawe konie. Tom 6 - Herron Mick",
+      "url": "https://www.empik.com/joe-country-herron-mick,p1771831976,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
+    },
+    "p1767375668": {
+      "id": "p1767375668",
+      "title": "Japońska sztuka kąpieli leśnych. Shinrin-yoku - Qing Li",
+      "url": "https://www.empik.com/japonska-sztuka-kapieli-lesnych-shinrin-yoku-qing-li,p1767375668,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
+    },
+    "p1756349685": {
+      "id": "p1756349685",
+      "title": "Recepta na energię - Ejlertsson Lina",
+      "url": "https://www.empik.com/recepta-na-energie-ejlertsson-lina,p1756349685,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T20:39:05.680Z"
     }
   },
   "log": [
@@ -7119,7 +7161,12 @@
       "at": "2026-08-22T16:39:53.792Z",
       "total": 500,
       "new": 4
+    },
+    {
+      "at": "2026-08-22T20:39:05.680Z",
+      "total": 500,
+      "new": 6
     }
   ],
-  "lastRun": "2026-08-22T16:39:53.792Z"
+  "lastRun": "2026-08-22T20:39:05.680Z"
 }
