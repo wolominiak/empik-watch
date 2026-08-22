@@ -6509,6 +6509,34 @@
       "url": "https://www.empik.com/tobiasz-i-wielki-lisc-iwasiow-inga,p1775553119,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-22T12:59:45.164Z"
+    },
+    "p1770494015": {
+      "id": "p1770494015",
+      "title": "Czułe struny - Ivy Fairbanks",
+      "url": "https://www.empik.com/czule-slowka-ivy-fairbanks,p1770494015,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T16:39:53.792Z"
+    },
+    "p1771533755": {
+      "id": "p1771533755",
+      "title": "Prawdziwe tygrysy. Kulawe konie. Tom 3 - Herron Mick",
+      "url": "https://www.empik.com/prawdziwe-tygrysy-herron-mick,p1771533755,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T16:39:53.792Z"
+    },
+    "p1771517933": {
+      "id": "p1771517933",
+      "title": "Kulawe konie. Tom 1 - Herron Mick",
+      "url": "https://www.empik.com/kulawe-konie-herron-mick,p1771517933,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T16:39:53.792Z"
+    },
+    "p1771740568": {
+      "id": "p1771740568",
+      "title": "Londyńskie zasady. Kulawe konie. Tom 5 - Herron Mick",
+      "url": "https://www.empik.com/londynskie-zasady-herron-mick,p1771740568,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T16:39:53.792Z"
     }
   },
   "log": [
@@ -7086,7 +7114,12 @@
       "at": "2026-08-22T12:59:45.164Z",
       "total": 500,
       "new": 5
+    },
+    {
+      "at": "2026-08-22T16:39:53.792Z",
+      "total": 500,
+      "new": 4
     }
   ],
-  "lastRun": "2026-08-22T12:59:45.164Z"
+  "lastRun": "2026-08-22T16:39:53.792Z"
 }
