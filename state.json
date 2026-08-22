@@ -6474,6 +6474,41 @@
       "url": "https://www.empik.com/dosc-winfrey-oprah,p1742864798,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-21T20:40:31.017Z"
+    },
+    "p1769214811": {
+      "id": "p1769214811",
+      "title": "Korea Południowa. Kraj bez teraźniejszości. Oblicza świata - Danecki Filip, Jeong-in Choi",
+      "url": "https://www.empik.com/korea-poludniowa-kraj-bez-terazniejszosci-oblicza-swiata-danecki-filip-jeong-in-choi,p1769214811,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T12:59:45.164Z"
+    },
+    "p1770231142": {
+      "id": "p1770231142",
+      "title": "Grzech i odkupienie - Reilly Cora",
+      "url": "https://www.empik.com/grzech-i-odkupienie-reilly-cora,p1770231142,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T12:59:45.164Z"
+    },
+    "p1753232366": {
+      "id": "p1753232366",
+      "title": "Pogranicze. T. 3. Watra - Natalia Przeździk",
+      "url": "https://www.empik.com/pogranicze-t-3-watra-natalia-przezdzik,p1753232366,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T12:59:45.164Z"
+    },
+    "p1754156319": {
+      "id": "p1754156319",
+      "title": "O objętości czasu I - Balle Solvej",
+      "url": "https://www.empik.com/o-objetosci-czasu-i-balle-solvej,p1754156319,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T12:59:45.164Z"
+    },
+    "p1775553119": {
+      "id": "p1775553119",
+      "title": "Tobiasz i wielki liść - Iwasiów Inga",
+      "url": "https://www.empik.com/tobiasz-i-wielki-lisc-iwasiow-inga,p1775553119,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-22T12:59:45.164Z"
     }
   },
   "log": [
@@ -7046,7 +7081,12 @@
       "at": "2026-08-21T20:40:31.017Z",
       "total": 500,
       "new": 5
+    },
+    {
+      "at": "2026-08-22T12:59:45.164Z",
+      "total": 500,
+      "new": 5
     }
   ],
-  "lastRun": "2026-08-21T20:40:31.017Z"
+  "lastRun": "2026-08-22T12:59:45.164Z"
 }
