@@ -10604,6 +10604,48 @@
       "url": "https://www.taniaksiazka.pl/sekret-karty-manifestacyjne-p-2516277.html",
       "category": "Ezoteryka i parapsychologia",
       "firstSeen": "2026-08-23T13:02:10.517Z"
+    },
+    "tk2384924": {
+      "id": "tk2384924",
+      "title": "Lekcje wybaczania",
+      "url": "https://www.taniaksiazka.pl/lekcje-wybaczania-hall-beck-university-tom-2-p-2384924.html",
+      "category": "Young adult",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
+    },
+    "tk415573": {
+      "id": "tk415573",
+      "title": "Anatomia układu ruchu",
+      "url": "https://www.taniaksiazka.pl/anatomia-ukladu-ruchu-zofia-ignasiak-p-415573.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
+    },
+    "tk440528": {
+      "id": "tk440528",
+      "title": "Kompendium wiedzy o żywności żywieniu i zdrowiu",
+      "url": "https://www.taniaksiazka.pl/kompendium-wiedzy-o-zywnosci-zywieniu-i-zdrowiu-teresa-red-mossor-pietraszewska-p-440528.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
+    },
+    "tk276416": {
+      "id": "tk276416",
+      "title": "Interpersonalna trauma. Mechanizmy i konsekwencje",
+      "url": "https://www.taniaksiazka.pl/interpersonalna-trauma-mechanizmy-i-konsekwencje-praca-zboorowa-p-276416.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
+    },
+    "tk107675": {
+      "id": "tk107675",
+      "title": "Instrumenty finansowe, aktywa niefinansowe, ryzyko finansowe, inżynieria finansowa",
+      "url": "https://www.taniaksiazka.pl/instrumenty-finansowe-aktywa-niefinansowe-ryzyko-finansowe-inzynieria-finansowa-krzysztof-jajuga-p-107675.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
+    },
+    "tk1710387": {
+      "id": "tk1710387",
+      "title": "Rysunek techniczny maszynowy dla automatyków i mechatroników",
+      "url": "https://www.taniaksiazka.pl/rysunek-techniczny-maszynowy-dla-automatykow-i-mechatronikow-marek-macko-p-1710387.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-24T13:13:35.206Z"
     }
   },
   "log": [
@@ -11314,7 +11356,13 @@
       "total": 498,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-24T13:13:35.206Z",
+      "total": 457,
+      "new": 6,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-23T20:39:28.311Z"
+  "lastRun": "2026-08-24T13:13:35.206Z"
 }
