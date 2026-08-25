@@ -11017,6 +11017,13 @@
       "url": "https://www.taniaksiazka.pl/dieta-dr-ewy-dabrowskiej-reg-p-2516550.html",
       "category": "Kuchnia i diety",
       "firstSeen": "2026-08-25T13:12:53.796Z"
+    },
+    "tk2516830": {
+      "id": "tk2516830",
+      "title": "Przewodnik po słowiańskich miejscach mocy",
+      "url": "https://www.taniaksiazka.pl/przewodnik-po-slowianskich-miejscach-mocy-p-2516830.html",
+      "category": "Ezoteryka i parapsychologia",
+      "firstSeen": "2026-08-25T20:46:20.987Z"
     }
   },
   "log": [
@@ -11757,7 +11764,13 @@
       "total": 490,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-25T20:46:20.987Z",
+      "total": 489,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-25T16:55:09.660Z"
+  "lastRun": "2026-08-25T20:46:20.987Z"
 }

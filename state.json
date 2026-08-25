@@ -6866,6 +6866,55 @@
       "url": "https://www.empik.com/uklad-brejdygant-igor,p1756075638,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-25T13:11:02.889Z"
+    },
+    "p1754107809": {
+      "id": "p1754107809",
+      "title": "Kobiety Nowej Huty. Cegły, perły i petardy - Kobylarczyk Katarzyna",
+      "url": "https://www.empik.com/kobiety-nowej-huty-cegly-perly-i-petardy-kobylarczyk-katarzyna,p1754107809,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1766411440": {
+      "id": "p1766411440",
+      "title": "Córka garncarza - Świętek Edyta",
+      "url": "https://www.empik.com/corki-garncarza-swietek-edyta,p1766411440,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1766413697": {
+      "id": "p1766413697",
+      "title": "Filiżanka ze słodkimi snami - Park Cho-eun",
+      "url": "https://www.empik.com/filizanka-ze-slodkimi-snami-park-cho-eun,p1766413697,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1775545509": {
+      "id": "p1775545509",
+      "title": "Inne światy niż te. Jack Sawyer. Tom 3 - King Stephen, Straub Peter",
+      "url": "https://www.empik.com/inne-swiaty-niz-te-jack-sawyer-tom-3-king-stephen-straub-peter,p1775545509,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1754532865": {
+      "id": "p1754532865",
+      "title": "Drzewa szumiące nadzieją - Świętek Edyta",
+      "url": "https://www.empik.com/drzewa-szumiace-nadzieja-swietek-edyta,p1754532865,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1770139808": {
+      "id": "p1770139808",
+      "title": "Inka i Filip i znikające bestsellery. Biuro śledcze Trop Sekret. Tom II - Jagiełło Joanna",
+      "url": "https://www.empik.com/inka-i-filip-i-znikajace-bestsellery-biuro-sledcze-trop-sekret-tom-ii-jagiello-joanna,p1770139808,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
+    },
+    "p1770142954": {
+      "id": "p1770142954",
+      "title": "Zarazki w natarciu. Co zrobi Frania? - Supeł Barbara",
+      "url": "https://www.empik.com/zarazki-w-natarciu-co-zrobi-frania-supel-barbara,p1770142954,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-25T20:45:18.653Z"
     }
   },
   "log": [
@@ -7493,7 +7542,12 @@
       "at": "2026-08-25T16:54:26.351Z",
       "total": 492,
       "new": 0
+    },
+    {
+      "at": "2026-08-25T20:45:18.653Z",
+      "total": 499,
+      "new": 7
     }
   ],
-  "lastRun": "2026-08-25T16:54:26.351Z"
+  "lastRun": "2026-08-25T20:45:18.653Z"
 }
