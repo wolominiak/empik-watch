@@ -11360,6 +11360,27 @@
       "url": "https://www.taniaksiazka.pl/sporty-w-deche-p-2516605.html",
       "category": "Sport",
       "firstSeen": "2026-08-26T13:17:50.092Z"
+    },
+    "tk638166": {
+      "id": "tk638166",
+      "title": "Techniki soscjoterapeutyczne w pracy z dzieckiem agresywnym",
+      "url": "https://www.taniaksiazka.pl/techniki-soscjoterapeutyczne-w-pracy-z-dzieckiem-agresywnym-renata-szczepanik-p-638166.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-26T16:59:21.718Z"
+    },
+    "tk1553756": {
+      "id": "tk1553756",
+      "title": "Biomedyczne podstawy rozwoju i edukacji",
+      "url": "https://www.taniaksiazka.pl/biomedyczne-podstawy-rozwoju-i-edukacji-anna-kowalewska-p-1553756.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-26T16:59:21.718Z"
+    },
+    "tk1849185": {
+      "id": "tk1849185",
+      "title": "Podstawy USG psów i kotów. Jak zacząć i się nie...",
+      "url": "https://www.taniaksiazka.pl/podstawy-usg-psow-i-kotow-jak-zaczac-i-sie-nie-zniechecic-wojciech-borawski-p-1849185.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-26T16:59:21.718Z"
     }
   },
   "log": [
@@ -12112,7 +12133,13 @@
       "total": 493,
       "new": 48,
       "failed": 0
+    },
+    {
+      "at": "2026-08-26T16:59:21.718Z",
+      "total": 493,
+      "new": 3,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-26T13:17:50.092Z"
+  "lastRun": "2026-08-26T16:59:21.718Z"
 }

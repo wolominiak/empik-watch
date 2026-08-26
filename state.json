@@ -7090,6 +7090,13 @@
       "url": "https://www.empik.com/anthony-bourdain-teksty-nieznane-klasyczne-i-odkryte-na-nowo-bourdain-anthony,p1777665913,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-26T13:16:05.502Z"
+    },
+    "p1756392711": {
+      "id": "p1756392711",
+      "title": "Mora - Przydryga Ewa",
+      "url": "https://www.empik.com/mora-przydryga-ewa,p1756392711,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-26T16:58:34.911Z"
     }
   },
   "log": [
@@ -7727,7 +7734,12 @@
       "at": "2026-08-26T13:16:05.502Z",
       "total": 497,
       "new": 25
+    },
+    {
+      "at": "2026-08-26T16:58:34.911Z",
+      "total": 498,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-26T13:16:05.502Z"
+  "lastRun": "2026-08-26T16:58:34.911Z"
 }
