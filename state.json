@@ -7097,6 +7097,13 @@
       "url": "https://www.empik.com/mora-przydryga-ewa,p1756392711,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-26T16:58:34.911Z"
+    },
+    "p1778058484": {
+      "id": "p1778058484",
+      "title": "Mama mówi, że jestem chora - Dunlop Andrea, Weber Mike",
+      "url": "https://www.empik.com/mama-mowi-ze-jestem-chora-dunlop-andrea-weber-mike,p1778058484,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-26T23:31:43.528Z"
     }
   },
   "log": [
@@ -7739,7 +7746,12 @@
       "at": "2026-08-26T16:58:34.911Z",
       "total": 498,
       "new": 1
+    },
+    {
+      "at": "2026-08-26T23:31:43.528Z",
+      "total": 496,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-26T16:58:34.911Z"
+  "lastRun": "2026-08-26T23:31:43.528Z"
 }
