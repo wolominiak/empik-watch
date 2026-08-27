@@ -7104,6 +7104,62 @@
       "url": "https://www.empik.com/mama-mowi-ze-jestem-chora-dunlop-andrea-weber-mike,p1778058484,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-26T23:31:43.528Z"
+    },
+    "p1754508266": {
+      "id": "p1754508266",
+      "title": "Ludzka rzecz. Książka o tym, co z nas wychodzi - Cutter Wood",
+      "url": "https://www.empik.com/ludzka-rzecz-nauka-o-tym-co-z-nas-wychodzi-cutter-wood,p1754508266,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1778077027": {
+      "id": "p1778077027",
+      "title": "The Perfect Match - Michalska Basia",
+      "url": "https://www.empik.com/the-perfect-match-michalska-basia,p1778077027,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1752798078": {
+      "id": "p1752798078",
+      "title": "Jestem jesieniarą - Wilczyńska Karolina",
+      "url": "https://www.empik.com/jestem-jesieniara-wilczynska-karolina,p1752798078,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1771951757": {
+      "id": "p1771951757",
+      "title": "Pytanie numer siedem - Flanagan Richard",
+      "url": "https://www.empik.com/pytanie-numer-siedem-flanagan-richard,p1771951757,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1778679685": {
+      "id": "p1778679685",
+      "title": "Manga. Przewodnik - Shige Suzuki, Ronald Stewart",
+      "url": "https://www.empik.com/manga-przewodnik-shige-suzuki-ronald-stewart,p1778679685,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1764945077": {
+      "id": "p1764945077",
+      "title": "Kerby Rosanes 10 lat twórczości - Rosanes Kerby",
+      "url": "https://www.empik.com/kerby-rosanes-10-lat-tworczosci-rosanes-kerby,p1764945077,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1773163596": {
+      "id": "p1773163596",
+      "title": "Małżeństwo z odzysku - Przybyłek Agata",
+      "url": "https://www.empik.com/malzenstwo-z-odzysku-przybylek-agata,p1773163596,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1773163693": {
+      "id": "p1773163693",
+      "title": "Przyjaciółki - Przybyłek Agata, Sońska Natalia",
+      "url": "https://www.empik.com/przyjaciolki-przybylek-agata-sonska-natalia,p1773163693,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-27T22:15:29.221Z"
     }
   },
   "log": [
@@ -7751,7 +7807,12 @@
       "at": "2026-08-26T23:31:43.528Z",
       "total": 496,
       "new": 1
+    },
+    {
+      "at": "2026-08-27T22:15:29.221Z",
+      "total": 500,
+      "new": 8
     }
   ],
-  "lastRun": "2026-08-26T23:31:43.528Z"
+  "lastRun": "2026-08-27T22:15:29.221Z"
 }
