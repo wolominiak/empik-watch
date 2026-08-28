@@ -7160,6 +7160,97 @@
       "url": "https://www.empik.com/przyjaciolki-przybylek-agata-sonska-natalia,p1773163693,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-27T22:15:29.221Z"
+    },
+    "p1759761824": {
+      "id": "p1759761824",
+      "title": "Waldkauz - Twardoch Szczepan",
+      "url": "https://www.empik.com/waldkauz-twardoch-szczepan,p1759761824,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1770146224": {
+      "id": "p1770146224",
+      "title": "Nie mów do mnie \"księżniczko\" - Lisińska Małgorzata",
+      "url": "https://www.empik.com/nie-mow-do-mnie-ksiezniczko-lisinska-malgorzata,p1770146224,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1773159362": {
+      "id": "p1773159362",
+      "title": "Francuskie love story - Sońska Natalia",
+      "url": "https://www.empik.com/francuskie-love-story-sonska-natalia,p1773159362,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1773175324": {
+      "id": "p1773175324",
+      "title": "Żona na pełen etat - Przybyłek Agata",
+      "url": "https://www.empik.com/zona-na-pelen-etat-przybylek-agata,p1773175324,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1773170806": {
+      "id": "p1773170806",
+      "title": "Kobiety wzdychają częściej - Przybyłek Agata",
+      "url": "https://www.empik.com/kobiety-wzdychaja-czesciej-przybylek-agata,p1773170806,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1751780513": {
+      "id": "p1751780513",
+      "title": "Mistrz kierownicy. Drogowe lifehacki dla każdego - Zboralski Łukasz",
+      "url": "https://www.empik.com/mistrz-kierownicy-drogowe-lifehacki-dla-kazdego-zboralski-lukasz,p1751780513,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1753922380": {
+      "id": "p1753922380",
+      "title": "Nigdy w życiu! - Grochola Katarzyna",
+      "url": "https://www.empik.com/nigdy-w-zyciu-grochola-katarzyna,p1753922380,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1770145368": {
+      "id": "p1770145368",
+      "title": "Przetrwaj dla mnie. Tom IV - Bailey Sarah A.",
+      "url": "https://www.empik.com/przetrwaj-dla-mnie-tom-iv-bailey-sarah-a,p1770145368,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1770135440": {
+      "id": "p1770135440",
+      "title": "Kruchość - Marcin Silwanow",
+      "url": "https://www.empik.com/kruchosc-marcin-silwanow,p1770135440,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1752023576": {
+      "id": "p1752023576",
+      "title": "Ostatnia magiczna apteka - Behzadi Bita",
+      "url": "https://www.empik.com/ostatnia-magiczna-apteka-behzadi-bita,p1752023576,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1770141229": {
+      "id": "p1770141229",
+      "title": "Obietnica Rembrandta - Leahy Barbara",
+      "url": "https://www.empik.com/obietnica-rembrandta-leahy-barbara,p1770141229,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1769748868": {
+      "id": "p1769748868",
+      "title": "Testosteron. Co każdy mężczyzna powinien wiedzieć o zdrowiu, stresie i prawdziwej sile - Oleszczuk Tadeusz",
+      "url": "https://www.empik.com/testosteron-co-kazdy-mezczyzna-powinien-wiedziec-o-zdrowiu-stresie-i-prawdziwej-sile-oleszczuk-tadeusz,p1769748868,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
+    },
+    "p1774816330": {
+      "id": "p1774816330",
+      "title": "Ostatnia rozgrywka - Jeffrey Archer",
+      "url": "https://www.empik.com/ostatnia-rozgrywka-jeffrey-archer,p1774816330,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-28T22:18:50.402Z"
     }
   },
   "log": [
@@ -7812,7 +7903,12 @@
       "at": "2026-08-27T22:15:29.221Z",
       "total": 500,
       "new": 8
+    },
+    {
+      "at": "2026-08-28T22:18:50.402Z",
+      "total": 500,
+      "new": 13
     }
   ],
-  "lastRun": "2026-08-27T22:15:29.221Z"
+  "lastRun": "2026-08-28T22:18:50.402Z"
 }
