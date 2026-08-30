@@ -7356,6 +7356,41 @@
       "url": "https://www.empik.com/dom-w-miedzyczasie-glowacka-ewa,p1770797967,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-29T16:42:43.890Z"
+    },
+    "p1768160489": {
+      "id": "p1768160489",
+      "title": "Imię róży. Powieść graficzna. Tom 2 - Eco Umberto, Milo Manara",
+      "url": "https://www.empik.com/imie-rozy-powiesc-graficzna-tom-2-eco-umberto-milo-manara,p1768160489,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-30T16:40:14.593Z"
+    },
+    "p1778698918": {
+      "id": "p1778698918",
+      "title": "Air fryer. Insulinooporność - Joanna Zielewska",
+      "url": "https://www.empik.com/air-fryer-insulinoopornosc-joanna-zielewska,p1778698918,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-30T16:40:14.593Z"
+    },
+    "p1775554400": {
+      "id": "p1775554400",
+      "title": "Martwy Kopciuszek i trolle - Banach Iwona",
+      "url": "https://www.empik.com/martwy-kopciuszek-i-trolle-banach-iwona,p1775554400,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-30T16:40:14.593Z"
+    },
+    "p1768179566": {
+      "id": "p1768179566",
+      "title": "Kolejne zapiski starego świntucha. Felietony niezebrane - Bukowski Charles",
+      "url": "https://www.empik.com/kolejne-zapiski-starego-swintucha-felietony-niezebrane-bukowski-charles,p1768179566,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-30T16:40:14.593Z"
+    },
+    "p1775548746": {
+      "id": "p1775548746",
+      "title": "Czy to Eva jest złodziejką? - Como Delaurean",
+      "url": "https://www.empik.com/czy-to-eva-jest-zlodziejka-como-delaurean,p1775548746,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-30T16:40:14.593Z"
     }
   },
   "log": [
@@ -8023,7 +8058,12 @@
       "at": "2026-08-29T22:39:34.114Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-08-30T16:40:14.593Z",
+      "total": 500,
+      "new": 5
     }
   ],
-  "lastRun": "2026-08-29T22:39:34.114Z"
+  "lastRun": "2026-08-30T16:40:14.593Z"
 }

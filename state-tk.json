@@ -12424,6 +12424,69 @@
       "url": "https://www.taniaksiazka.pl/w-co-gdzie-i-jak-inwestowac-p-2517418.html",
       "category": "Biznes",
       "firstSeen": "2026-08-29T16:44:01.691Z"
+    },
+    "tk2517483": {
+      "id": "tk2517483",
+      "title": "Mordercą nie jest Alice",
+      "url": "https://www.taniaksiazka.pl/morderca-nie-jest-alice-p-2517483.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517477": {
+      "id": "tk2517477",
+      "title": "Zaplątana w rodzinne tajemnice",
+      "url": "https://www.taniaksiazka.pl/zaplatana-w-rodzinne-tajemnice-p-2517477.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517480": {
+      "id": "tk2517480",
+      "title": "Issaya",
+      "url": "https://www.taniaksiazka.pl/issaya-p-2517480.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517476": {
+      "id": "tk2517476",
+      "title": "Tokio w poziomie",
+      "url": "https://www.taniaksiazka.pl/tokio-w-poziomie-p-2517476.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517466": {
+      "id": "tk2517466",
+      "title": "Opowieści słowiańskiej baby",
+      "url": "https://www.taniaksiazka.pl/opowiesci-slowianskiej-baby-p-2517466.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517473": {
+      "id": "tk2517473",
+      "title": "Tajemnice Little Balmoral",
+      "url": "https://www.taniaksiazka.pl/tajemnice-little-balmoral-p-2517473.html",
+      "category": "Young adult",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517468": {
+      "id": "tk2517468",
+      "title": "Dowody w procedurach karnych obowiązujących w...",
+      "url": "https://www.taniaksiazka.pl/dowody-w-procedurach-karnych-obowiazujacych-w-p-2517468.html",
+      "category": "Prawo",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517481": {
+      "id": "tk2517481",
+      "title": "Zmień myślenie, a zmienisz swoje życie. Jak uwolnić swój pełny potencjał i osiągnąć sukces",
+      "url": "https://www.taniaksiazka.pl/zmien-myslenie-a-zmienisz-swoje-zycie-jak-uwolnic-swoj-pelny-potencjal-i-osiagnac-sukces-p-2517481.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk2517469": {
+      "id": "tk2517469",
+      "title": "Nowa Zelandia. Śladem kiwi i hobbitów",
+      "url": "https://www.taniaksiazka.pl/nowa-zelandia-sladem-kiwi-i-hobbitow-p-2517469.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-08-30T16:41:10.334Z"
     }
   },
   "log": [
@@ -13212,7 +13275,13 @@
       "total": 496,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-08-30T16:41:10.334Z",
+      "total": 493,
+      "new": 9,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-29T22:40:18.460Z"
+  "lastRun": "2026-08-30T16:41:10.334Z"
 }
