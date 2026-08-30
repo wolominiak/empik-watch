@@ -12487,6 +12487,34 @@
       "url": "https://www.taniaksiazka.pl/nowa-zelandia-sladem-kiwi-i-hobbitow-p-2517469.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-08-30T16:41:10.334Z"
+    },
+    "tk798145": {
+      "id": "tk798145",
+      "title": "Atlas osadu moczu",
+      "url": "https://www.taniaksiazka.pl/atlas-osadu-moczu-irena-wegrowicz-rebandel-p-798145.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-30T22:44:39.816Z"
+    },
+    "tk812440": {
+      "id": "tk812440",
+      "title": "Zasłuchany mózg. Co się dzieje w głowie, gdy słuchasz muzyki",
+      "url": "https://www.taniaksiazka.pl/zasluchany-mozg-daniel-j-levitin-p-812440.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-30T22:44:39.816Z"
+    },
+    "tk205720": {
+      "id": "tk205720",
+      "title": "Anestezja geriatryczna",
+      "url": "https://www.taniaksiazka.pl/anestezja-geriatryczna-laura-wolowicka-p-205720.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-30T22:44:39.816Z"
+    },
+    "tk831188": {
+      "id": "tk831188",
+      "title": "Podstawy teorii obwodów. Tom 2",
+      "url": "https://www.taniaksiazka.pl/podstawy-teorii-obwodow-tom-2-jerzy-osiowski-p-831188.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-30T22:44:39.816Z"
     }
   },
   "log": [
@@ -13281,7 +13309,13 @@
       "total": 493,
       "new": 9,
       "failed": 0
+    },
+    {
+      "at": "2026-08-30T22:44:39.816Z",
+      "total": 489,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-30T16:41:10.334Z"
+  "lastRun": "2026-08-30T22:44:39.816Z"
 }
