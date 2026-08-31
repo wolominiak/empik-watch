@@ -7391,6 +7391,34 @@
       "url": "https://www.empik.com/czy-to-eva-jest-zlodziejka-como-delaurean,p1775548746,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-30T16:40:14.593Z"
+    },
+    "p1753726412": {
+      "id": "p1753726412",
+      "title": "Mózg w żałobie. Jak nauka i neurobiologia pomagają zrozumieć własne emocje i ból po stracie - O'Connor Mary-Frances",
+      "url": "https://www.empik.com/mozg-w-zalobie-jak-nauka-i-neurobiologia-pomagaja-zrozumiec-wlasne-emocje-i-bol-po-stracie-o-connor-mary-frances,p1753726412,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T19:07:42.947Z"
+    },
+    "p1771432146": {
+      "id": "p1771432146",
+      "title": "Dlaczego rodzice tak cię wkurzają i co z tym zrobić - Burnett Dean",
+      "url": "https://www.empik.com/dlaczego-rodzice-tak-cie-wkurzaja-i-co-z-tym-zrobic-burnett-dean,p1771432146,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T19:07:42.947Z"
+    },
+    "p1774006465": {
+      "id": "p1774006465",
+      "title": "W domu Pantalone - Hilde Rød-Larsen",
+      "url": "https://www.empik.com/w-domu-pantalone-hilde-rod-larsen,p1774006465,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T19:07:42.947Z"
+    },
+    "p1753937504": {
+      "id": "p1753937504",
+      "title": "Dla Poliny - Wurger Takis",
+      "url": "https://www.empik.com/dla-poliny-wurger-takis,p1753937504,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T19:07:42.947Z"
     }
   },
   "log": [
@@ -8068,7 +8096,12 @@
       "at": "2026-08-30T22:43:53.741Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-08-31T19:07:42.947Z",
+      "total": 500,
+      "new": 4
     }
   ],
-  "lastRun": "2026-08-30T22:43:53.741Z"
+  "lastRun": "2026-08-31T19:07:42.947Z"
 }

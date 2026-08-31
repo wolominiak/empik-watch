@@ -12515,6 +12515,34 @@
       "url": "https://www.taniaksiazka.pl/podstawy-teorii-obwodow-tom-2-jerzy-osiowski-p-831188.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-08-30T22:44:39.816Z"
+    },
+    "tk1763915": {
+      "id": "tk1763915",
+      "title": "Podologia",
+      "url": "https://www.taniaksiazka.pl/podologia-maria-klamczynska-p-1763915.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-31T19:08:38.028Z"
+    },
+    "tk626663": {
+      "id": "tk626663",
+      "title": "Sterowanie napędów elektrycznych. Analiza, modelowanie, projektowanie",
+      "url": "https://www.taniaksiazka.pl/sterowanie-napedow-elektrycznych-analiza-modelowanie-projektowanie-arkadiusz-kaszewski-p-626663.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-31T19:08:38.028Z"
+    },
+    "tk1831449": {
+      "id": "tk1831449",
+      "title": "Prawo handlowe. Zagadnienia wybrane",
+      "url": "https://www.taniaksiazka.pl/prawo-handlowe-zagadnienia-wybrane-agnieszka-malarewicz-jakubow-p-1831449.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-31T19:08:38.028Z"
+    },
+    "tk1840675": {
+      "id": "tk1840675",
+      "title": "Rachunkowość i podatki w logistyce w.3",
+      "url": "https://www.taniaksiazka.pl/rachunkowosc-i-podatki-w-logistyce-w-3-piotr-szczypa-p-1840675.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-08-31T19:08:38.028Z"
     }
   },
   "log": [
@@ -13315,7 +13343,13 @@
       "total": 489,
       "new": 4,
       "failed": 0
+    },
+    {
+      "at": "2026-08-31T19:08:38.028Z",
+      "total": 481,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-08-30T22:44:39.816Z"
+  "lastRun": "2026-08-31T19:08:38.028Z"
 }
