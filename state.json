@@ -7419,6 +7419,97 @@
       "url": "https://www.empik.com/dla-poliny-wurger-takis,p1753937504,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-31T19:07:42.947Z"
+    },
+    "p1778824391": {
+      "id": "p1778824391",
+      "title": "Słodkie Rozkoszne. Przepisy pełne przyjemności - Korkosz Michał",
+      "url": "https://www.empik.com/slodkie-rozkoszne-korkosz-michal,p1778824391,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1774057265": {
+      "id": "p1774057265",
+      "title": "Familia - Kanios Mariusz",
+      "url": "https://www.empik.com/familia-kanios-mariusz,p1774057265,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1775644606": {
+      "id": "p1775644606",
+      "title": "Inteligentny inaczej. Czy AI naprawdę myśli, czy tylko doskonale udaje? - Gniewosz Leliwa",
+      "url": "https://www.empik.com/inteligentny-inaczej-czy-ai-naprawde-mysli-czy-tylko-doskonale-udaje-gniewosz-leliwa,p1775644606,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1772880809": {
+      "id": "p1772880809",
+      "title": "Wyspy pamięci. Sprawa neurologa - Grabowska Ałbena",
+      "url": "https://www.empik.com/wyspy-pamieci-sprawa-neurologa-grabowska-albena,p1772880809,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1770231319": {
+      "id": "p1770231319",
+      "title": "Dom Kier - Skyla Arndt",
+      "url": "https://www.empik.com/dom-kier-skyla-arndt,p1770231319,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1756124341": {
+      "id": "p1756124341",
+      "title": "Wschód słońca w dniu dożynek. Igrzyska Śmierci - Collins Suzanne",
+      "url": "https://www.empik.com/wschod-slonca-w-dniu-dozynek-igrzyska-smierci-collins-suzanne,p1756124341,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1735458739": {
+      "id": "p1735458739",
+      "title": "Pociąg o północy MK - Haig Matt",
+      "url": "https://www.empik.com/pociag-o-polnocy-haig-matt,p1735458739,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1753823751": {
+      "id": "p1753823751",
+      "title": "W zasięgu śmierci. Gizela Sikora. Tom 1 - Kucner Aldona",
+      "url": "https://www.empik.com/w-zasiegu-smierci-gizela-sikora-tom-1-kucner-aldona,p1753823751,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1778713299": {
+      "id": "p1778713299",
+      "title": "Rasputin i upadek dynastii Romanowów - Beevor Antony",
+      "url": "https://www.empik.com/rasputin-i-upadek-dynastii-romanowow-beevor-antony,p1778713299,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1779042198": {
+      "id": "p1779042198",
+      "title": "Pan Babcia warzy po ślōnsku - Froehlich Michał",
+      "url": "https://www.empik.com/pan-babcia-warzy-po-slonsku-froehlich-michal,p1779042198,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1774853456": {
+      "id": "p1774853456",
+      "title": "VEGE. Domowa kuchnia roślinna na 4 pory roku - Ewa Karpowicz",
+      "url": "https://www.empik.com/vege-domowa-kuchnia-roslinna-na-4-pory-roku-ewa-karpowicz,p1774853456,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1770724174": {
+      "id": "p1770724174",
+      "title": "Za uchylonymi drzwiami. - Magdalena Boćko-Mysiorska",
+      "url": "https://www.empik.com/za-uchylonymi-drzwiami-magdalena-bocko-mysiorska,p1770724174,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1752830596": {
+      "id": "p1752830596",
+      "title": "Nieugięta elastyczność. Jak sobie radzić, kiedy wszystko się zmienia - nawet ty - Stulberg Brad",
+      "url": "https://www.empik.com/gdy-wszystko-sie-zmienia-lacznie-z-toba-jak-zaakceptowac-niestabilnosc-zycia-dzieki-odpornej-elas-stulberg-brad,p1752830596,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-08-31T23:50:58.050Z"
     }
   },
   "log": [
@@ -8101,7 +8192,12 @@
       "at": "2026-08-31T19:07:42.947Z",
       "total": 500,
       "new": 4
+    },
+    {
+      "at": "2026-08-31T23:50:58.050Z",
+      "total": 500,
+      "new": 13
     }
   ],
-  "lastRun": "2026-08-31T19:07:42.947Z"
+  "lastRun": "2026-08-31T23:50:58.050Z"
 }
