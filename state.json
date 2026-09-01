@@ -7510,6 +7510,13 @@
       "url": "https://www.empik.com/gdy-wszystko-sie-zmienia-lacznie-z-toba-jak-zaakceptowac-niestabilnosc-zycia-dzieki-odpornej-elas-stulberg-brad,p1752830596,ksiazka-p",
       "category": "",
       "firstSeen": "2026-08-31T23:50:58.050Z"
+    },
+    "p1774787630": {
+      "id": "p1774787630",
+      "title": "Jill - Larkin Philip",
+      "url": "https://www.empik.com/jill-larkin-philip,p1774787630,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-01T16:39:28.681Z"
     }
   },
   "log": [
@@ -8197,7 +8204,12 @@
       "at": "2026-08-31T23:50:58.050Z",
       "total": 500,
       "new": 13
+    },
+    {
+      "at": "2026-09-01T16:39:28.681Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-08-31T23:50:58.050Z"
+  "lastRun": "2026-09-01T16:39:28.681Z"
 }
