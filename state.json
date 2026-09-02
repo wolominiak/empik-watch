@@ -7664,6 +7664,13 @@
       "url": "https://www.empik.com/miasto-przyszlosci-jak-technologia-zmienia-nasze-zycie-magdalena-milert,p1754164901,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-02T16:34:03.015Z"
+    },
+    "p1759773591": {
+      "id": "p1759773591",
+      "title": "Powrót Ojca Chrzestnego (barwione brzegi) - Winegardner Mark, Puzo Mario",
+      "url": "https://www.empik.com/powrot-ojca-chrzestnego-barwione-brzegi-winegardner-mark-puzo-mario,p1759773591,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-02T22:38:05.788Z"
     }
   },
   "log": [
@@ -8366,7 +8373,12 @@
       "at": "2026-09-02T16:34:03.015Z",
       "total": 500,
       "new": 21
+    },
+    {
+      "at": "2026-09-02T22:38:05.788Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-09-02T16:34:03.015Z"
+  "lastRun": "2026-09-02T22:38:05.788Z"
 }

@@ -12977,6 +12977,41 @@
       "url": "https://www.taniaksiazka.pl/slodkie-rozkoszne-przepisy-pelne-przyjemnosci-p-2519405.html",
       "category": "Kuchnia i diety",
       "firstSeen": "2026-09-02T16:35:42.271Z"
+    },
+    "tk418290": {
+      "id": "tk418290",
+      "title": "Chemia repetytorium. Tom 2",
+      "url": "https://www.taniaksiazka.pl/chemia-repetytorium-tom-2-andrzej-persona-p-418290.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-02T22:38:56.704Z"
+    },
+    "tk224551": {
+      "id": "tk224551",
+      "title": "Epidemiologia w medycynie klinicznej i zdrowiu publicznym",
+      "url": "https://www.taniaksiazka.pl/epidemiologia-w-medycynie-klinicznej-i-zdrowiu-publicznym-wieslaw-jedrychowski-p-224551.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-02T22:38:56.704Z"
+    },
+    "tk1701801": {
+      "id": "tk1701801",
+      "title": "Prawo karne materialne. Kazusy",
+      "url": "https://www.taniaksiazka.pl/prawo-karne-materialne-kazusy-p-1701801.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-02T22:38:56.704Z"
+    },
+    "tk2432808": {
+      "id": "tk2432808",
+      "title": "Bazy danych dla studenta i technika... kw INF.03",
+      "url": "https://www.taniaksiazka.pl/bazy-danych-dla-studenta-i-technika-kw-inf-03-p-2432808.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-02T22:38:56.704Z"
+    },
+    "tk1647529": {
+      "id": "tk1647529",
+      "title": "Imperium prawa",
+      "url": "https://www.taniaksiazka.pl/imperium-prawa-ronald-dworkin-p-1647529.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-02T22:38:56.704Z"
     }
   },
   "log": [
@@ -13807,7 +13842,13 @@
       "total": 466,
       "new": 46,
       "failed": 0
+    },
+    {
+      "at": "2026-09-02T22:38:56.704Z",
+      "total": 464,
+      "new": 5,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-02T16:35:42.271Z"
+  "lastRun": "2026-09-02T22:38:56.704Z"
 }
