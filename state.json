@@ -7734,6 +7734,48 @@
       "url": "https://www.empik.com/gracja-koziolek-jakos-to-odkrece-drzewicka-justyna,p1778732771,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1747320493": {
+      "id": "p1747320493",
+      "title": "Bez śladu - French Tana",
+      "url": "https://www.empik.com/bez-sladu-french-tana,p1747320493,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
+    },
+    "p1770810231": {
+      "id": "p1770810231",
+      "title": "Rezerwat ludzi i wilków - Zdrawka Ewtimowa",
+      "url": "https://www.empik.com/rezerwat-ludzi-i-wilkow-zdrawka-ewtimowa,p1770810231,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
+    },
+    "p1759763275": {
+      "id": "p1759763275",
+      "title": "Kolonia - French Tana",
+      "url": "https://www.empik.com/kolonia-french-tana,p1759763275,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
+    },
+    "p1747320396": {
+      "id": "p1747320396",
+      "title": "Lustrzane odbicie - French Tana",
+      "url": "https://www.empik.com/lustrzane-odbicie-french-tana,p1747320396,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
+    },
+    "p1778688559": {
+      "id": "p1778688559",
+      "title": "Nie mogę się powstrzymać - Paulina Wójtowicz",
+      "url": "https://www.empik.com/nie-moge-sie-powstrzymac-paulina-wojtowicz,p1778688559,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
+    },
+    "p1756383731": {
+      "id": "p1756383731",
+      "title": "Korespondentka - Evans Virginia",
+      "url": "https://www.empik.com/korespondentka-evans-virginia,p1756383731,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T22:38:30.227Z"
     }
   },
   "log": [
@@ -8446,7 +8488,12 @@
       "at": "2026-09-03T16:25:04.957Z",
       "total": 500,
       "new": 9
+    },
+    {
+      "at": "2026-09-03T22:38:30.227Z",
+      "total": 500,
+      "new": 6
     }
   ],
-  "lastRun": "2026-09-03T16:25:04.957Z"
+  "lastRun": "2026-09-03T22:38:30.227Z"
 }

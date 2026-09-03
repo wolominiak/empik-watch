@@ -13355,6 +13355,55 @@
       "url": "https://www.taniaksiazka.pl/pan-babcia-warzy-po-slonsku-p-2519099.html",
       "category": "Kuchnia i diety",
       "firstSeen": "2026-09-03T16:26:15.093Z"
+    },
+    "tk805033": {
+      "id": "tk805033",
+      "title": "Wprowadzenie do diagnozy pielęgniarskiej",
+      "url": "https://www.taniaksiazka.pl/wprowadzenie-do-diagnozy-pielegniarskiej-jolanta-gorajek-jozwik-p-805033.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk845971": {
+      "id": "tk845971",
+      "title": "Podstawy chromatografii i technik elektromigracyjnych",
+      "url": "https://www.taniaksiazka.pl/podstawy-chromatografii-i-technik-elektromigracyjnych-joanna-kaluzna-czaplinska-p-845971.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk360250": {
+      "id": "tk360250",
+      "title": "Globalne rynki finansowe. Praktyka funkcjonowania",
+      "url": "https://www.taniaksiazka.pl/globalne-rynki-finansowe-praktyka-funkcjonowania-rafal-plokarz-p-360250.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk84320": {
+      "id": "tk84320",
+      "title": "Mikroekonomia",
+      "url": "https://www.taniaksiazka.pl/mikroekonomia-david-begg-p-84320.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk903514": {
+      "id": "tk903514",
+      "title": "Chemiczne metody analizy ilościowej",
+      "url": "https://www.taniaksiazka.pl/chemiczne-metody-analizy-ilosciowej-andrzej-cyganski-p-903514.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk317766": {
+      "id": "tk317766",
+      "title": "Spektroskopowe metody identyfikacji związków organicznych",
+      "url": "https://www.taniaksiazka.pl/spektroskopowe-metody-identyfikacji-zwiazkow-organicznych-robert-m-silverstein-p-317766.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
+    },
+    "tk1596535": {
+      "id": "tk1596535",
+      "title": "Jak pokonać trudności z matematyką w szkole ponadpodstawowej",
+      "url": "https://www.taniaksiazka.pl/jak-pokonac-trudnosci-z-mat-w-szkole-ponadpodst-anna-plonska-p-1596535.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-03T22:39:29.504Z"
     }
   },
   "log": [
@@ -14197,7 +14246,13 @@
       "total": 474,
       "new": 49,
       "failed": 0
+    },
+    {
+      "at": "2026-09-03T22:39:29.504Z",
+      "total": 483,
+      "new": 7,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-03T16:26:15.093Z"
+  "lastRun": "2026-09-03T22:39:29.504Z"
 }
