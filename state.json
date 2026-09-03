@@ -7671,6 +7671,69 @@
       "url": "https://www.empik.com/powrot-ojca-chrzestnego-barwione-brzegi-winegardner-mark-puzo-mario,p1759773591,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-02T22:38:05.788Z"
+    },
+    "p1774838226": {
+      "id": "p1774838226",
+      "title": "Marionetka - Jakub Jarno",
+      "url": "https://www.empik.com/marionetka-jakub-jarno,p1774838226,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1754455733": {
+      "id": "p1754455733",
+      "title": "Zmora (okładka serialowa) - Małecki Robert",
+      "url": "https://www.empik.com/zmora-okladka-serialowa-malecki-robert,p1754455733,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1770807866": {
+      "id": "p1770807866",
+      "title": "Harry Potter i Książę Półkrwi (wydanie ilustrowane). Tom 6 - Rowling J. K.",
+      "url": "https://www.empik.com/harry-potter-i-ksiaze-polkrwi-wydanie-ilustrowane-tom-6-rowling-j-k,p1770807866,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1756759378": {
+      "id": "p1756759378",
+      "title": "Pan Dyrektor Lekcja 2 - Maciejewska Iza",
+      "url": "https://www.empik.com/pan-dyrektor-lekcja-2-maciejewska-iza,p1756759378,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1779419992": {
+      "id": "p1779419992",
+      "title": "Mądrość dawnej Japonii. Ponadczasowe lekcje życia - Okada Saori",
+      "url": "https://www.empik.com/madrosc-dawnej-japonii-ponadczasowe-lekcje-zycia-okada-saori,p1779419992,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1759762647": {
+      "id": "p1759762647",
+      "title": "Ściana sekretów - French Tana",
+      "url": "https://www.empik.com/sciana-sekretow-french-tana,p1759762647,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1778698608": {
+      "id": "p1778698608",
+      "title": "Otoczeni przez idiotów. Nowe rozszerzone wydanie. Edycja specjalna - Erikson Thomas",
+      "url": "https://www.empik.com/otoczeni-przez-idiotow-nowe-rozszerzone-wydanie-edycja-specjalna-erikson-thomas,p1778698608,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1756102756": {
+      "id": "p1756102756",
+      "title": "Po drugiej stronie ciszy - Zakrzewska Agnieszka",
+      "url": "https://www.empik.com/po-drugiej-stronie-ciszy-zakrzewska-agnieszka,p1756102756,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
+    },
+    "p1778732771": {
+      "id": "p1778732771",
+      "title": "Gracja Koziołek. Jakoś to odkręcę! - Drzewicka Justyna",
+      "url": "https://www.empik.com/gracja-koziolek-jakos-to-odkrece-drzewicka-justyna,p1778732771,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-03T16:25:04.957Z"
     }
   },
   "log": [
@@ -8378,7 +8441,12 @@
       "at": "2026-09-02T22:38:05.788Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-09-03T16:25:04.957Z",
+      "total": 500,
+      "new": 9
     }
   ],
-  "lastRun": "2026-09-02T22:38:05.788Z"
+  "lastRun": "2026-09-03T16:25:04.957Z"
 }
