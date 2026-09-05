@@ -7965,6 +7965,97 @@
       "url": "https://www.empik.com/drogowskaz-dla-kobiet-na-rynku-pracy-niezgoda-katarzyna,p1752080289,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-04T22:20:45.970Z"
+    },
+    "p1774325315": {
+      "id": "p1774325315",
+      "title": "Święto Karkonoszy. Wydanie kolekcjonerskie (barwione brzegi) - Sławek Gortych",
+      "url": "https://www.empik.com/swieto-karkonoszy-wydanie-kolekcjonerskie-barwione-brzegi-slawek-gortych,p1774325315,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1771240253": {
+      "id": "p1771240253",
+      "title": "Yesteryear - Burke Caro Claire",
+      "url": "https://www.empik.com/yesteryear-burke-caro-claire,p1771240253,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1782187473": {
+      "id": "p1782187473",
+      "title": "Błogosławieństwo Niebios Tom 6 - Mo Xiang Tong Xiu",
+      "url": "https://www.empik.com/blogoslawienstwo-niebios-tom-6-mo-xiang-tong-xiu,p1782187473,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1754156391": {
+      "id": "p1754156391",
+      "title": "One nadal krzyczą - Muniak Klaudia",
+      "url": "https://www.empik.com/one-nadal-krzycza-muniak-klaudia,p1754156391,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1753648646": {
+      "id": "p1753648646",
+      "title": "Krew na języku - Veen Johanna van",
+      "url": "https://www.empik.com/krew-na-jezyku-veen-johanna-van,p1753648646,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1782178226": {
+      "id": "p1782178226",
+      "title": "Układanka - Fexeus Henrik",
+      "url": "https://www.empik.com/ukladanka-fexeus-henrik,p1782178226,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1753817866": {
+      "id": "p1753817866",
+      "title": "Czerwony węgiel. Kamienica. Tom 1 - Toros Justyna",
+      "url": "https://www.empik.com/czerwony-wegiel-kamienica-tom-1-toros-justyna,p1753817866,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1766437305": {
+      "id": "p1766437305",
+      "title": "Mentira. Kłamstwo - Juan Gomez-Jurado",
+      "url": "https://www.empik.com/mentira-klamstwo-juan-gomez-jurado,p1766437305,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1772856787": {
+      "id": "p1772856787",
+      "title": "Bliżej siebie. Mindfulness i compassion na drodze do przyjemności - Iza Jąderek",
+      "url": "https://www.empik.com/blizej-siebie-minfulness-i-compassion-na-drodze-ku-przyjemnosci-iza-jaderek,p1772856787,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1752832707": {
+      "id": "p1752832707",
+      "title": "Tappi. O Burczącym mieście i niebie bez chmur - Mortka Marcin",
+      "url": "https://www.empik.com/tappi-mortka-marcin,p1752832707,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1753232913": {
+      "id": "p1753232913",
+      "title": "Amor fati. T. 4. Na całe szczęście - Tomaszewska Karolina",
+      "url": "https://www.empik.com/amor-fati-t-4-na-cale-szczescie-tomaszewska-karolina,p1753232913,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1767442100": {
+      "id": "p1767442100",
+      "title": "Stoicka sztuka życia. Praktyczny przewodnik po dobrym i świadomym życiu - Piercy Joseph",
+      "url": "https://www.empik.com/stoicka-sztuka-zycia-ponadczasowe-wskazowki-jak-zyc-spokojniej-madrzej-i-pelniej-piercy-joseph,p1767442100,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
+    },
+    "p1773504289": {
+      "id": "p1773504289",
+      "title": "Grobla - Jaszczuk Paweł",
+      "url": "https://www.empik.com/grobla-jaszczuk-pawel,p1773504289,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-05T15:12:48.267Z"
     }
   },
   "log": [
@@ -8687,7 +8778,12 @@
       "at": "2026-09-04T22:20:45.970Z",
       "total": 500,
       "new": 27
+    },
+    {
+      "at": "2026-09-05T15:12:48.267Z",
+      "total": 500,
+      "new": 13
     }
   ],
-  "lastRun": "2026-09-04T22:20:45.970Z"
+  "lastRun": "2026-09-05T15:12:48.267Z"
 }
