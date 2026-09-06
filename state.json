@@ -8189,6 +8189,13 @@
       "url": "https://www.empik.com/cynamonowy-smak-jesiennych-dni-gargas-gabriela,p1756381098,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-06T15:27:38.054Z"
+    },
+    "p1775548737": {
+      "id": "p1775548737",
+      "title": "People pleasing. Wyjdź z pułapki harmonii i pozbądź się wyrzutów sumienia - Bossmann Ulrike",
+      "url": "https://www.empik.com/people-pleasing-wyjdz-z-pulapki-harmonii-i-pozbadz-sie-wyrzutow-sumienia-bossmann-ulrike,p1775548737,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-06T22:07:20.530Z"
     }
   },
   "log": [
@@ -8936,7 +8943,12 @@
       "at": "2026-09-06T18:17:08.515Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-09-06T22:07:20.530Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-09-06T18:17:08.515Z"
+  "lastRun": "2026-09-06T22:07:20.530Z"
 }
