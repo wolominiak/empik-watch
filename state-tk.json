@@ -14433,6 +14433,34 @@
       "url": "https://www.taniaksiazka.pl/kazdego-dnia-mowie-wiecej-wiosna-olga-klodnicka-p-1064501.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk1253503": {
+      "id": "tk1253503",
+      "title": "Po nitce do kłębka. Ćwiczenia rozwijające koncentrację wzrokowo-ruchową i doskonalące znajomość przysłów",
+      "url": "https://www.taniaksiazka.pl/po-nitce-do-klebka-cwiczenia-rozwijajace-koncentracje-wzrokowo-ruchowa-i-doskonalace-znajomosc-przyslow-magdalena-hinz-p-1253503.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T22:51:06.233Z"
+    },
+    "tk1549560": {
+      "id": "tk1549560",
+      "title": "Sztuczna inteligencja i uczenie maszynowe dla programistów. Praktyczny przewodnik po sztucznej inteligencji",
+      "url": "https://www.taniaksiazka.pl/sztuczna-inteligencja-i-uczenie-maszynowe-laurence-moroney-p-1549560.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T22:51:06.233Z"
+    },
+    "tk1907272": {
+      "id": "tk1907272",
+      "title": "Długoterminowa psychoterapia psychodynamiczna. Wprowadzenie",
+      "url": "https://www.taniaksiazka.pl/dlugoterminowa-psychoterapia-psychodynamiczna-wprowadzenie-glen-o-gabbard-p-1907272.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T22:51:06.233Z"
+    },
+    "tk158901": {
+      "id": "tk158901",
+      "title": "Układy wykorzystujące sterowniki PLC. Projektowanie algorytmów sterowania",
+      "url": "https://www.taniaksiazka.pl/uklady-wykorzystujace-sterowniki-plc-projektowanie-algorytmow-sterowania-bogdan-broel-plater-p-158901.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T22:51:06.233Z"
     }
   },
   "log": [
@@ -15329,7 +15357,13 @@
       "total": 514,
       "new": 6,
       "failed": 0
+    },
+    {
+      "at": "2026-09-07T22:51:06.233Z",
+      "total": 510,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-07T17:47:00.006Z"
+  "lastRun": "2026-09-07T22:51:06.233Z"
 }

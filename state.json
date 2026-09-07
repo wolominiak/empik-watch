@@ -8476,6 +8476,69 @@
       "url": "https://www.empik.com/uwolnic-ciezar-przewodnik-po-leczeniu-traumy-indywidualnej-rodowej-i-zbiorowej-hubl-thomas-schwartz-richard,p1781685570,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-07T17:44:40.269Z"
+    },
+    "p1769223299": {
+      "id": "p1769223299",
+      "title": "W jego rękach. Rzeczywistość - Kathreen Bennett",
+      "url": "https://www.empik.com/w-jego-rekach-rzeczywistosc-kathreen-bennett,p1769223299,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1755152976": {
+      "id": "p1755152976",
+      "title": "Kształtowanie równowagi konia. Strategie treningowe w profilaktyce urazów - Dean Kristin, Marhlin Emma",
+      "url": "https://www.empik.com/ksztaltowanie-rownowagi-konia-strategie-treningowe-w-profilaktyce-urazow-dean-kristin-marhlin-emma,p1755152976,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1765039920": {
+      "id": "p1765039920",
+      "title": "9 pierwszych piątków miesiąca ze św. Carlem Acutisem - Kędzierska-Zaporowska Magdalena",
+      "url": "https://www.empik.com/9-pierwszych-piatkow-miesiaca-ze-sw-carlem-acutisem-kedzierska-zaporowska-magdalena,p1765039920,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1783152571": {
+      "id": "p1783152571",
+      "title": "Przeprawa - Kielar Marzanna Bogumiła",
+      "url": "https://www.empik.com/przeprawa-kielar-marzanna-bogumila,p1783152571,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1783063912": {
+      "id": "p1783063912",
+      "title": "Szóstka - Spindler Erica",
+      "url": "https://www.empik.com/szostka-spindler-erica,p1783063912,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1783033957": {
+      "id": "p1783033957",
+      "title": "Twoja Krew Nas Ocali - Kinga Winna",
+      "url": "https://www.empik.com/twoja-krew-nas-ocali-kinga-winna,p1783033957,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1765224421": {
+      "id": "p1765224421",
+      "title": "Tysiąc bieszczadzkich gwiazd - Katarzyna Fiołek",
+      "url": "https://www.empik.com/tysiac-bieszczadzkich-gwiazd-katarzyna-fiolek,p1765224421,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1751780559": {
+      "id": "p1751780559",
+      "title": "Sakramenty. Drogi wtajemniczenia, uzdrowienia i komunii - Rosik Mariusz",
+      "url": "https://www.empik.com/sakramenty-kosciola-drogi-wtajemniczenia-uzdrowienia-i-komunii-rosik-mariusz,p1751780559,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
+    },
+    "p1752018820": {
+      "id": "p1752018820",
+      "title": "Zanim wróci Sara - Małgorzata Kołakowska",
+      "url": "https://www.empik.com/zanim-wroci-sara-malgorzata-kolakowska,p1752018820,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-07T22:50:02.495Z"
     }
   },
   "log": [
@@ -9233,7 +9296,12 @@
       "at": "2026-09-07T17:44:40.269Z",
       "total": 500,
       "new": 40
+    },
+    {
+      "at": "2026-09-07T22:50:02.495Z",
+      "total": 500,
+      "new": 9
     }
   ],
-  "lastRun": "2026-09-07T17:44:40.269Z"
+  "lastRun": "2026-09-07T22:50:02.495Z"
 }
