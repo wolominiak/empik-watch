@@ -14391,6 +14391,48 @@
       "url": "https://www.taniaksiazka.pl/kresowe-basnie-i-legendy-p-2520216.html",
       "category": "Ezoteryka i parapsychologia",
       "firstSeen": "2026-09-06T15:29:07.315Z"
+    },
+    "tk2511731": {
+      "id": "tk2511731",
+      "title": "Mołodyńska-Wheeler,M. Nuciaki na fortepian",
+      "url": "https://www.taniaksiazka.pl/nuciaki-na-fortepian-p-2511731.html",
+      "category": "Kultura i sztuka",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk1204119": {
+      "id": "tk1204119",
+      "title": "Choroba Alzheimera. Zaburzenia komunikacji językowej",
+      "url": "https://www.taniaksiazka.pl/choroba-alzheimera-zaburzenia-komunikacji-jezykowej-aneta-domagala-p-1204119.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk2237196": {
+      "id": "tk2237196",
+      "title": "Podstawy fizyki. Tom 1-5",
+      "url": "https://www.taniaksiazka.pl/podstawy-fizyki-tom-1-5-p-2237196.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk2030994": {
+      "id": "tk2030994",
+      "title": "Higienistka i asystentka stomatologiczna. Podstawy pracy w zawodzie. Część 1",
+      "url": "https://www.taniaksiazka.pl/higienistka-i-asystentka-stomatologiczna-podstawy-pracy-w-zawodzie-czesc-1-piotr-kaluga-p-2030994.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk1064499": {
+      "id": "tk1064499",
+      "title": "Każdego dnia mówię więcej. Zima",
+      "url": "https://www.taniaksiazka.pl/kazdego-dnia-mowie-wiecej-zima-olga-klodnicka-p-1064499.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
+    },
+    "tk1064501": {
+      "id": "tk1064501",
+      "title": "Każdego dnia mówię więcej. Wiosna",
+      "url": "https://www.taniaksiazka.pl/kazdego-dnia-mowie-wiecej-wiosna-olga-klodnicka-p-1064501.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-07T17:47:00.006Z"
     }
   },
   "log": [
@@ -15281,7 +15323,13 @@
       "total": 516,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-09-07T17:47:00.006Z",
+      "total": 514,
+      "new": 6,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-06T22:08:07.755Z"
+  "lastRun": "2026-09-07T17:47:00.006Z"
 }
