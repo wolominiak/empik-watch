@@ -14601,6 +14601,55 @@
       "url": "https://www.taniaksiazka.pl/japonska-sztuka-kapieli-lesnych-shinrin-yoku-p-2519399.html",
       "category": "Poradniki",
       "firstSeen": "2026-09-08T16:39:16.694Z"
+    },
+    "tk894364": {
+      "id": "tk894364",
+      "title": "Automatyka. Technika regulacji",
+      "url": "https://www.taniaksiazka.pl/automatyka-technika-regulacji-andrzej-debowski-p-894364.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk959213": {
+      "id": "tk959213",
+      "title": "Biologia, czyli sens życia",
+      "url": "https://www.taniaksiazka.pl/biologia-czyli-sens-zycia-jerzy-dzik-p-959213.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk471831": {
+      "id": "tk471831",
+      "title": "Szkoła z pasją...teatralną!",
+      "url": "https://www.taniaksiazka.pl/szkola-z-pasja-teatralna-jolanta-zabielska-p-471831.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk85781": {
+      "id": "tk85781",
+      "title": "Sukces i porażka terapii krótkoterminowej",
+      "url": "https://www.taniaksiazka.pl/sukces-i-porazka-terapii-krotkoterminowej-jadwiga-rakowska-p-85781.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk1670427": {
+      "id": "tk1670427",
+      "title": "Anatomia praktyczna układu ruchu. Ćwiczenia",
+      "url": "https://www.taniaksiazka.pl/anatomia-praktyczna-ukladu-ruchu-cwiczenia-jaroslaw-domaradzki-p-1670427.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk1487306": {
+      "id": "tk1487306",
+      "title": "Analiza matematyczna w zadaniach. Część 1",
+      "url": "https://www.taniaksiazka.pl/analiza-matematyczna-w-zadaniach-czesc-1-lech-wlodarski-p-1487306.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
+    },
+    "tk1647520": {
+      "id": "tk1647520",
+      "title": "Mikroekonomia",
+      "url": "https://www.taniaksiazka.pl/mikroekonomia-gregory-n-mankiw-p-1647520.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-08T22:40:28.702Z"
     }
   },
   "log": [
@@ -15509,7 +15558,13 @@
       "total": 512,
       "new": 20,
       "failed": 0
+    },
+    {
+      "at": "2026-09-08T22:40:28.702Z",
+      "total": 510,
+      "new": 7,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-08T16:39:16.694Z"
+  "lastRun": "2026-09-08T22:40:28.702Z"
 }
