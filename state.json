@@ -8868,6 +8868,97 @@
       "url": "https://www.empik.com/atlas-emocji-ktore-buduja-i-niszcza-zanim-uciszysz-to-co-czujesz-adamiak-joanna,p1775546058,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-09T22:33:12.555Z"
+    },
+    "p1774863693": {
+      "id": "p1774863693",
+      "title": "Przeklęte Licho - Gołkowski Michał, Głowacki Maciej",
+      "url": "https://www.empik.com/przeklete-licho-golkowski-michal-glowacki-maciej,p1774863693,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1752020241": {
+      "id": "p1752020241",
+      "title": "Kosmiczne biuro śledcze. Zagadka motocykla - Sinicka Alicja",
+      "url": "https://www.empik.com/kosmiczne-biuro-sledcze-zagadka-motocykla-sinicka-alicja,p1752020241,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1774819160": {
+      "id": "p1774819160",
+      "title": "Murdoku. 80 morderczych wypraw - Garand Manuel",
+      "url": "https://www.empik.com/murdoku-80-morderczych-wypraw-garand-manuel,p1774819160,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1771238966": {
+      "id": "p1771238966",
+      "title": "Złote Ostrze. The Grandest Game. Tom 3 - Barnes Jennifer Lynn",
+      "url": "https://www.empik.com/zlote-ostrze-the-grandest-game-tom-3-barnes-jennifer-lynn,p1771238966,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1752019032": {
+      "id": "p1752019032",
+      "title": "Jesień w Krynicy-Zdroju - Aneta Krasińska",
+      "url": "https://www.empik.com/jesien-w-krynicy-zdroju-aneta-krasinska,p1752019032,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1783404766": {
+      "id": "p1783404766",
+      "title": "Kot na nowy początek - Sho Ishida",
+      "url": "https://www.empik.com/kot-na-nowy-poczatek-sho-ishida,p1783404766,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1752830587": {
+      "id": "p1752830587",
+      "title": "W sercu Red Bull Racing. Sezon z najbardziej ekscytującym zespołem Formuły 1 - Matt Majendie",
+      "url": "https://www.empik.com/bullfight-matt-majendie,p1752830587,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1766153740": {
+      "id": "p1766153740",
+      "title": "Myśl mniej, śpij lepiej. Jak uwolnić się od perfekcjonizmu i odzyskać spokojny sen - Romiszewski Stephanie",
+      "url": "https://www.empik.com/mysl-mniej-spij-lepiej-jak-uwolnic-sie-od-perfekcjonizmu-i-odzyskac-spokojny-sen-romiszewski-stephanie,p1766153740,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1778662542": {
+      "id": "p1778662542",
+      "title": "Kot na nowy początek - Ishida Sui",
+      "url": "https://www.empik.com/kot-na-nowy-poczatek-ishida-sui,p1778662542,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1774272721": {
+      "id": "p1774272721",
+      "title": "Narysuj Japonię. Kawaii - Delphine Vaufrey",
+      "url": "https://www.empik.com/narysuj-japonie-kawaii-delphine-vaufrey,p1774272721,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1752029729": {
+      "id": "p1752029729",
+      "title": "Syn wiatru. Kochanek ciszy - Stryjewska Anna",
+      "url": "https://www.empik.com/syn-wiatru-kochanek-ciszy-stryjewska-anna,p1752029729,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1774225787": {
+      "id": "p1774225787",
+      "title": "Wizja w bieli - Roberts Nora",
+      "url": "https://www.empik.com/wizja-w-bieli-nora-roberts,p1774225787,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
+    },
+    "p1775545484": {
+      "id": "p1775545484",
+      "title": "Air fryer. Od śniadania do kolacji - Grątkowska Beata, Grątkowski Igor",
+      "url": "https://www.empik.com/air-fryer-od-sniadania-do-kolacji-gratkowska-beata-gratkowski-igor,p1775545484,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-10T16:23:46.604Z"
     }
   },
   "log": [
@@ -9650,7 +9741,12 @@
       "at": "2026-09-09T22:33:12.555Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-09-10T16:23:46.604Z",
+      "total": 500,
+      "new": 13
     }
   ],
-  "lastRun": "2026-09-09T22:33:12.555Z"
+  "lastRun": "2026-09-10T16:23:46.604Z"
 }
