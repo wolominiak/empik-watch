@@ -9120,6 +9120,13 @@
       "url": "https://www.empik.com/o-mieszku-i-i-jego-synie-boleslawie-chrobrym-kurzawa-miroslaw-seidler-barbara,p1753280053,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-11T16:27:53.433Z"
+    },
+    "p1770188707": {
+      "id": "p1770188707",
+      "title": "Kształt atomu - wojna i pamięć - Fice Łucja",
+      "url": "https://www.empik.com/ksztalt-atomu-wojna-i-pamiec-fice-lucja,p1770188707,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-11T22:34:57.325Z"
     }
   },
   "log": [
@@ -9917,7 +9924,12 @@
       "at": "2026-09-11T16:27:53.433Z",
       "total": 500,
       "new": 23
+    },
+    {
+      "at": "2026-09-11T22:34:57.325Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-09-11T16:27:53.433Z"
+  "lastRun": "2026-09-11T22:34:57.325Z"
 }
