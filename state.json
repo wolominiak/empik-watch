@@ -9365,6 +9365,76 @@
       "url": "https://www.empik.com/the-law-of-us-nasze-prawo-blachewicz-nikola,p1774786987,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-13T16:15:53.100Z"
+    },
+    "p1781713466": {
+      "id": "p1781713466",
+      "title": "Przewodnik po słowiańskich miejscach mocy - Agiles Dobromiła",
+      "url": "https://www.empik.com/przewodnik-po-slowianskich-miejscach-mocy-agiles-dobromila,p1781713466,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1784838906": {
+      "id": "p1784838906",
+      "title": "Bezpieczna opcja - Laren K. D.",
+      "url": "https://www.empik.com/bezpieczna-opcja-laren-k-d,p1784838906,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1774772072": {
+      "id": "p1774772072",
+      "title": "Pakiet Jeźdźcy Hangera - Witemeyer Karen",
+      "url": "https://www.empik.com/pakiet-jezdzcy-hangera-witemeyer-karen,p1774772072,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1750346880": {
+      "id": "p1750346880",
+      "title": "Trening umysłu. 160 łamigłówek i zagadek rozwijających logiczne myślenie - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/trening-umyslu-160-lamiglowek-i-zagadek-rozwijajacych-logiczne-myslenie-opracowanie-zbiorowe,p1750346880,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1753922469": {
+      "id": "p1753922469",
+      "title": "Filozofia przypadku - Lem Stanisław",
+      "url": "https://www.empik.com/filozofia-przypadku-lem-stanislaw,p1753922469,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1766398574": {
+      "id": "p1766398574",
+      "title": "Strażnik korzeni. Świat Akwilonu. Elfy. Tom 22 - Nicolas Jarry, Maconi Gianluca, Benoit Bertrand",
+      "url": "https://www.empik.com/straznik-korzeni-swiat-akwilonu-elfy-tom-22-nicolas-jarry-maconi-gianluca-benoit-bertrand,p1766398574,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1753922478": {
+      "id": "p1753922478",
+      "title": "Powrót z gwiazd. Kanon Lema - Lem Stanisław",
+      "url": "https://www.empik.com/powrot-z-gwiazd-kanon-lema-lem-stanislaw,p1753922478,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1781704334": {
+      "id": "p1781704334",
+      "title": "Księżycowy poradnik na każdy dzień 2027 roku - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/ksiezycowy-poradnik-na-kazdy-dzien-2027-roku-opracowanie-zbiorowe,p1781704334,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1766399962": {
+      "id": "p1766399962",
+      "title": "Upadek X. X-Men - Duggan Gerry, Cassara Joshua, Stefano Caselli, Jim Towe, Pina Javier, Phil Noto",
+      "url": "https://www.empik.com/upadek-x-x-men-duggan-gerry-cassara-joshua-stefano-caselli-jim-towe-pina-javier-phil-noto,p1766399962,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1769869930": {
+      "id": "p1769869930",
+      "title": "Godzilla kontra uniwersum Marvela - North Ryan, Duggan Gerry, Kelly Joe, Nicieza Fabian, David F. Walker, Aaron Jason, John Romita Jr., Giuseppe Camuncoli, Bradshaw Nick, Laiso Emilio, Georges Jeanty,",
+      "url": "https://www.empik.com/godzilla-kontra-uniwersum-marvela-north-ryan-duggan-gerry-kelly-joe-nicieza-fabian-david-f-walker-aaron-jason-john-romita-jr,p1769869930,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T18:04:38.777Z"
     }
   },
   "log": [
@@ -10197,7 +10267,12 @@
       "at": "2026-09-13T22:23:56.812Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-09-14T18:04:38.777Z",
+      "total": 500,
+      "new": 10
     }
   ],
-  "lastRun": "2026-09-13T22:23:56.812Z"
+  "lastRun": "2026-09-14T18:04:38.777Z"
 }

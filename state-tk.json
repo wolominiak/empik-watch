@@ -16477,6 +16477,97 @@
       "url": "https://www.taniaksiazka.pl/droga-sportowca-narzedzia-do-budowy-swiadomego-p-2522672.html",
       "category": "Sport",
       "firstSeen": "2026-09-13T16:17:15.612Z"
+    },
+    "tk502312": {
+      "id": "tk502312",
+      "title": "Diagnoza rozwoju dziecka przedszkolnego przed rozpoczęciem nauki w szkole Arkusz",
+      "url": "https://www.taniaksiazka.pl/diagnoza-rozwoju-dziecka-przedszkolnego-arkusz-alicja-tanajewska-p-502312.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk513930": {
+      "id": "tk513930",
+      "title": "Jak ocenić dojrzałość dziecka do nauki",
+      "url": "https://www.taniaksiazka.pl/jak-ocenic-dojrzalosc-dziecka-do-nauki-sally-goddard-blythe-p-513930.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk163070": {
+      "id": "tk163070",
+      "title": "Złudzenia, które pozwalają żyć",
+      "url": "https://www.taniaksiazka.pl/zludzenia-ktore-pozwalaja-zyc-p-163070.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1292003": {
+      "id": "tk1292003",
+      "title": "Robbins. Patologia",
+      "url": "https://www.taniaksiazka.pl/robbins-patologia-v-kumar-p-1292003.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1132728": {
+      "id": "tk1132728",
+      "title": "Mit pracy domowej",
+      "url": "https://www.taniaksiazka.pl/mit-pracy-domowej-alfie-kohn-p-1132728.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1272131": {
+      "id": "tk1272131",
+      "title": "Komunikowanie się z chorym psychicznie",
+      "url": "https://www.taniaksiazka.pl/komunikowanie-sie-z-chorym-psychicznie-ewa-wilczek-ruzyczka-p-1272131.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk642925": {
+      "id": "tk642925",
+      "title": "Zarządzanie zasobami ludzkimi",
+      "url": "https://www.taniaksiazka.pl/zarzadzanie-zasobami-ludzkimi-michael-armstrong-p-642925.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1334330": {
+      "id": "tk1334330",
+      "title": "Podstawy prawa. Skrypty Becka",
+      "url": "https://www.taniaksiazka.pl/podstawy-prawa-skrypty-becka-zdzislaw-muras-p-1334330.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1728246": {
+      "id": "tk1728246",
+      "title": "Anatomia człowieka. Tom 1",
+      "url": "https://www.taniaksiazka.pl/anatomia-czlowieka-tom-1-adam-bochenek-p-1728246.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1034033": {
+      "id": "tk1034033",
+      "title": "Całkiem nowe zabawy paluszkowe usprawnianie dłoni dzieci",
+      "url": "https://www.taniaksiazka.pl/calkiem-nowe-zabawy-paluszkowe-piotr-winczewski-p-1034033.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk906677": {
+      "id": "tk906677",
+      "title": "Analiza techniczna. Średnie ruchome, wskaźniki i oscylatory",
+      "url": "https://www.taniaksiazka.pl/analiza-techniczna-srednie-ruchome-wskazniki-i-oscylatory-krzysztof-borowski-p-906677.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1309742": {
+      "id": "tk1309742",
+      "title": "Logika. Podręczniki prawnicze",
+      "url": "https://www.taniaksiazka.pl/logika-podreczniki-prawnicze-edward-nieznanski-p-1309742.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
+    },
+    "tk1064274": {
+      "id": "tk1064274",
+      "title": "Kardiologia w gabinecie lekarza Podstawowej Opieki Zdrowotnej",
+      "url": "https://www.taniaksiazka.pl/kardiologia-w-gabinecie-lekarza-podstawowej-opieki-zdrowotnej-ewa-straburzynska-migaj-p-1064274.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-14T18:05:47.783Z"
     }
   },
   "log": [
@@ -17463,7 +17554,13 @@
       "total": 520,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-09-14T18:05:47.783Z",
+      "total": 519,
+      "new": 13,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-13T22:24:41.139Z"
+  "lastRun": "2026-09-14T18:05:47.783Z"
 }
