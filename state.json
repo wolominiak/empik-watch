@@ -9435,6 +9435,13 @@
       "url": "https://www.empik.com/godzilla-kontra-uniwersum-marvela-north-ryan-duggan-gerry-kelly-joe-nicieza-fabian-david-f-walker-aaron-jason-john-romita-jr,p1769869930,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-14T18:04:38.777Z"
+    },
+    "p1750346862": {
+      "id": "p1750346862",
+      "title": "Trening pamięci. 160 łamigłówek i zagadek wspierających pamięć i koncentrację - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/trening-pamieci-160-lamiglowek-i-zagadek-wspierajacych-pamiec-i-koncentracje-opracowanie-zbiorowe,p1750346862,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-14T23:07:28.146Z"
     }
   },
   "log": [
@@ -10272,7 +10279,12 @@
       "at": "2026-09-14T18:04:38.777Z",
       "total": 500,
       "new": 10
+    },
+    {
+      "at": "2026-09-14T23:07:28.146Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-09-14T18:04:38.777Z"
+  "lastRun": "2026-09-14T23:07:28.146Z"
 }
