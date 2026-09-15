@@ -9540,6 +9540,55 @@
       "url": "https://www.empik.com/jamnik-drakula-osswald-max,p1773869195,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-15T16:58:29.837Z"
+    },
+    "p1766400055": {
+      "id": "p1766400055",
+      "title": "Niezwyciężony Iron Man. Tom I - Duggan Gerry, Juan Frigeri, Andrea Di Vito",
+      "url": "https://www.empik.com/niezwyciezony-iron-man-tom-1-duggan-gerry-juan-frigeri-andrea-di-vito,p1766400055,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1754513587": {
+      "id": "p1754513587",
+      "title": "RAK. I co dalej? Rozmowy o życiu, leczeniu i odnajdywaniu radości - Wirga Mariusz, Maruszeczko Anna",
+      "url": "https://www.empik.com/rak-i-co-dalej-rozmowy-o-zyciu-leczeniu-i-odnajdywaniu-radosci-wirga-mariusz-maruszeczko-anna,p1754513587,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1770626809": {
+      "id": "p1770626809",
+      "title": "Obsesja + 2 niepublikowane opowiadania - Paris B.A.",
+      "url": "https://www.empik.com/obsesja-2-niepublikowane-opowiadania-paris-b-a,p1770626809,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1778761287": {
+      "id": "p1778761287",
+      "title": "Weimar. Życie na krawędzi katastrofy - Hoyer Katja",
+      "url": "https://www.empik.com/weimar-hoyer-katja,p1778761287,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1767884379": {
+      "id": "p1767884379",
+      "title": "Skandaliks murem za swoimi. Idefiks i Nieugięci. Tom 9 - Airault Suaena, Viaud Sebastien, Clerc Philippe, Olivier Serrano, Yves Coulon, Fenech Philippe",
+      "url": "https://www.empik.com/skandaliks-murem-za-swoimi-idefiks-i-nieugieci-tom-9-airault-suaena-viaud-sebastien-clerc-philippe-olivier-serrano-yves-coulon-fenech-philippe,p1767884379,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1774774229": {
+      "id": "p1774774229",
+      "title": "Pakiet Mieć odwagę, by marzyć - Mason Susan Anne",
+      "url": "https://www.empik.com/pakiet-miec-odwage-by-marzyc-mason-susan-anne,p1774774229,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
+    },
+    "p1753255534": {
+      "id": "p1753255534",
+      "title": "Stolica historii. Sto gawęd Towarzystwa Miłośników Historii. - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/stolica-historii-sto-gawed-towarzystwa-milosnikow-historii-opracowanie-zbiorowe,p1753255534,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-15T22:53:44.087Z"
     }
   },
   "log": [
@@ -10387,7 +10436,12 @@
       "at": "2026-09-15T16:58:29.837Z",
       "total": 500,
       "new": 14
+    },
+    {
+      "at": "2026-09-15T22:53:44.087Z",
+      "total": 500,
+      "new": 7
     }
   ],
-  "lastRun": "2026-09-15T16:58:29.837Z"
+  "lastRun": "2026-09-15T22:53:44.087Z"
 }
