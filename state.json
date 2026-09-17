@@ -10198,6 +10198,55 @@
       "url": "https://www.empik.com/jak-skutecznie-wrozyc-ze-zwyklych-przedmiotow-stworz-wlasny-zestaw-do-codziennego-prowadzenia-twoje-hardt-tina,p1766231738,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-17T16:59:11.058Z"
+    },
+    "p1766255376": {
+      "id": "p1766255376",
+      "title": "Mniszek lekarski i inne dzikie zioła dla zdrowia i długowieczności. Zasady zbiorów, aktywne składniki i najskuteczniejsze receptury - Ziegelmann Michelle",
+      "url": "https://www.empik.com/mniszek-lekarski-i-inne-dzikie-ziola-dla-zdrowia-i-dlugowiecznosci-zasady-zbiorow-aktywne-skladnik-ziegelmann-michelle,p1766255376,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1775644235": {
+      "id": "p1775644235",
+      "title": "Nauka skalowania. Rozwiń firmę bardziej i szybciej, niż uważałeś to za możliwe - Hardy Benjamin, Erickson Blake",
+      "url": "https://www.empik.com/nauka-skalowania-rozwin-firme-bardziej-i-szybciej-niz-uwazales-to-za-mozliwe-hardy-benjamin-erickson-blake,p1775644235,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1753726476": {
+      "id": "p1753726476",
+      "title": "Roztwór CDL od podstaw. Najważniejsze praktyki i zasady stosowania dla większej energii i lepszego zdrowia - Hoffmann Lara Maria",
+      "url": "https://www.empik.com/roztwor-cdl-od-podstaw-najwazniejsze-praktyki-i-zasady-stosowania-dla-wiekszej-energii-i-lepszego-z-hoffmann-lara-maria,p1753726476,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1772778726": {
+      "id": "p1772778726",
+      "title": "Zanurzenie. Niepokorni pływacy, lodowa granica i przemijająca moc zimnej wody. - Chris Ballard",
+      "url": "https://www.empik.com/zanurzenie-niepokorni-plywacy-lodowa-granica-i-przemijajaca-moc-zimnej-wody-chris-ballard,p1772778726,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1790996575": {
+      "id": "p1790996575",
+      "title": "Dawno temu... w Święta - O'Hara Lauren, O'Hara Natalia",
+      "url": "https://www.empik.com/dawno-temu-w-swieta-o-hara-lauren-o-hara-natalia,p1790996575,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1775645313": {
+      "id": "p1775645313",
+      "title": "Błękitna machina. Jak ocean napędza świat - Czerski Helen",
+      "url": "https://www.empik.com/blekitna-machina-jak-ocean-napedza-swiat-czerski-helen,p1775645313,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
+    },
+    "p1779579610": {
+      "id": "p1779579610",
+      "title": "Życie bez bólu. Cztery kroki naturalnego łagodzenia bólu - Stephens Mark",
+      "url": "https://www.empik.com/zycie-bez-bolu-cztery-kroki-naturalnego-lagodzenia-bolu-stephens-mark,p1779579610,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-17T22:50:54.686Z"
     }
   },
   "log": [
@@ -11065,7 +11114,12 @@
       "at": "2026-09-17T16:59:11.058Z",
       "total": 498,
       "new": 48
+    },
+    {
+      "at": "2026-09-17T22:50:54.686Z",
+      "total": 498,
+      "new": 7
     }
   ],
-  "lastRun": "2026-09-17T16:59:11.058Z"
+  "lastRun": "2026-09-17T22:50:54.686Z"
 }
