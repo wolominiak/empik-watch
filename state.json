@@ -10779,6 +10779,20 @@
       "url": "https://www.empik.com/narcyz-bez-wladzy-jak-przerwac-emocjonalna-manipulacje-i-odbudowac-pewnosc-siebie-stamateas-bernardo,p1775613581,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-19T15:52:22.511Z"
+    },
+    "p1792371026": {
+      "id": "p1792371026",
+      "title": "Agent z Dubaju - Robert Michniewicz",
+      "url": "https://www.empik.com/agent-z-dubaju-robert-michniewicz,p1792371026,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-19T22:19:37.000Z"
+    },
+    "p1792368305": {
+      "id": "p1792368305",
+      "title": "Przybieżeli - Ćwiek Jakub",
+      "url": "https://www.empik.com/przybiezeli-cwiek-jakub,p1792368305,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-19T22:19:37.000Z"
     }
   },
   "log": [
@@ -11671,7 +11685,12 @@
       "at": "2026-09-19T18:35:58.532Z",
       "total": 487,
       "new": 0
+    },
+    {
+      "at": "2026-09-19T22:19:37.000Z",
+      "total": 490,
+      "new": 2
     }
   ],
-  "lastRun": "2026-09-19T18:35:58.532Z"
+  "lastRun": "2026-09-19T22:19:37.000Z"
 }
