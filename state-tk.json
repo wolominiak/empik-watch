@@ -18073,6 +18073,83 @@
       "url": "https://www.taniaksiazka.pl/dlaczego-twoj-mozg-sie-rozprasza-p-2524495.html",
       "category": "Poradniki",
       "firstSeen": "2026-09-19T15:54:22.176Z"
+    },
+    "tk2525019": {
+      "id": "tk2525019",
+      "title": "Siostra diabła. Klara",
+      "url": "https://www.taniaksiazka.pl/siostra-diabla-klara-p-2525019.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk2525018": {
+      "id": "tk2525018",
+      "title": "Marineros. Opowieść o morzu złym",
+      "url": "https://www.taniaksiazka.pl/marineros-opowiesc-o-morzu-zlym-p-2525018.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk2525011": {
+      "id": "tk2525011",
+      "title": "Systemy polityczne państw Dalekiego Wschodu",
+      "url": "https://www.taniaksiazka.pl/systemy-polityczne-panstw-dalekiego-wschodu-p-2525011.html",
+      "category": "Nauki humanistyczne",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk988905": {
+      "id": "tk988905",
+      "title": "Uzależnienia behawioralne",
+      "url": "https://www.taniaksiazka.pl/uzaleznienia-behawioralne-iwona-grzegorzewska-p-988905.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk1230629": {
+      "id": "tk1230629",
+      "title": "Prognozowanie psychologiczno-kryminologiczne",
+      "url": "https://www.taniaksiazka.pl/prognozowanie-psychologiczno-kryminologiczne-jaroslaw-stukan-p-1230629.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk1272542": {
+      "id": "tk1272542",
+      "title": "Diagnoza i ochrona dziecka z traumą rozwojową w polskim systemie prawa",
+      "url": "https://www.taniaksiazka.pl/diagnoza-i-ochrona-dziecka-z-trauma-rozwojowa-w-polskim-systemie-prawa-joanna-helios-p-1272542.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk2456516": {
+      "id": "tk2456516",
+      "title": "Współczesna fizyka cząstek",
+      "url": "https://www.taniaksiazka.pl/wspolczesna-fizyka-czastek-p-2456516.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk487809": {
+      "id": "tk487809",
+      "title": "Anatomia narządów wewnętrznych i układu nerwowego",
+      "url": "https://www.taniaksiazka.pl/anatomia-narzadow-wewnetrznych-i-ukladu-nerwowego-zofia-ignasiak-p-487809.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk501645": {
+      "id": "tk501645",
+      "title": "Terapia psychodynamiczna. Praktyka oparta na dowodach",
+      "url": "https://www.taniaksiazka.pl/terapia-psychodynamiczna-praktyka-oparta-na-dowodach-jacques-p-barber-p-501645.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk2026642": {
+      "id": "tk2026642",
+      "title": "Koszałki-opałki, czyli prawo karne w bajkach Repetytorium dla studiujących, sądowników i podsądnych",
+      "url": "https://www.taniaksiazka.pl/koszalki-opalki-czyli-prawo-karne-w-bajkach-jan-kulesza-p-2026642.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
+    },
+    "tk326803": {
+      "id": "tk326803",
+      "title": "Wstęp do rachunku prawdopodobieństwa. Część 2",
+      "url": "https://www.taniaksiazka.pl/wstep-do-rachunku-prawdopodobienstwa-czesc-2-william-feller-p-326803.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-20T16:05:54.815Z"
     }
   },
   "log": [
@@ -19137,7 +19214,13 @@
       "total": 516,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-09-20T16:05:54.815Z",
+      "total": 517,
+      "new": 11,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-19T22:20:31.020Z"
+  "lastRun": "2026-09-20T16:05:54.815Z"
 }
