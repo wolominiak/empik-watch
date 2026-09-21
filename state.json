@@ -10884,6 +10884,34 @@
       "url": "https://www.empik.com/historiomachia-bitwy-o-historie-davies-norman,p1792373635,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1790384965": {
+      "id": "p1790384965",
+      "title": "Droga sportowca. Narzędzia do budowy świadomego procesu treningowego - Warchał Agnieszka",
+      "url": "https://www.empik.com/droga-sportowca-narzedzia-do-budowy-swiadomego-procesu-treningowego-warchal-agnieszka,p1790384965,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T23:16:15.354Z"
+    },
+    "p1764995744": {
+      "id": "p1764995744",
+      "title": "Ostatnie lato, które było nasze - Jakubczak Dagmara",
+      "url": "https://www.empik.com/ostatnie-lato-ktore-bylo-nasze-jakubczak-dagmara,p1764995744,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T23:16:15.354Z"
+    },
+    "p1792315206": {
+      "id": "p1792315206",
+      "title": "Siostry - Petra Dvořáková",
+      "url": "https://www.empik.com/siostry-petra-dvorakova,p1792315206,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T23:16:15.354Z"
+    },
+    "p1792372797": {
+      "id": "p1792372797",
+      "title": "Sztuka pieczenia chleba. Kompletny przewodnik po wypiekach na zakwasie - Maurizio Leo",
+      "url": "https://www.empik.com/sztuka-pieczenia-chleba-kompletny-przewodnik-po-wypiekach-na-zakwasie-maurizio-leo,p1792372797,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T23:16:15.354Z"
     }
   },
   "log": [
@@ -11801,7 +11829,12 @@
       "at": "2026-09-21T18:12:15.133Z",
       "total": 463,
       "new": 13
+    },
+    {
+      "at": "2026-09-21T23:16:15.354Z",
+      "total": 457,
+      "new": 4
     }
   ],
-  "lastRun": "2026-09-21T18:12:15.133Z"
+  "lastRun": "2026-09-21T23:16:15.354Z"
 }
