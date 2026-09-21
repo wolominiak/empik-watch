@@ -10793,6 +10793,97 @@
       "url": "https://www.empik.com/przybiezeli-cwiek-jakub,p1792368305,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-19T22:19:37.000Z"
+    },
+    "p1792523993": {
+      "id": "p1792523993",
+      "title": "Kasztaniaki i szczurza szajka - Grabarczyk Artur",
+      "url": "https://www.empik.com/kasztaniaki-i-szczurza-szajka-grabarczyk-artur,p1792523993,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1785505360": {
+      "id": "p1785505360",
+      "title": "Barcelona. Dusza Katalonii. Oblicza świata - Połeć Aurelia",
+      "url": "https://www.empik.com/barcelona-dusza-katalonii-oblicza-swiata-polec-aurelia,p1785505360,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1760186728": {
+      "id": "p1760186728",
+      "title": "Gwiazdka w zimowym lesie - Montagnana Alessandro",
+      "url": "https://www.empik.com/gwiazdka-w-zimowym-lesie-montagnana-alessandro,p1760186728,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1760173876": {
+      "id": "p1760173876",
+      "title": "ADHD! Jak sobie radzić w neuroróżnorodnym świecie - Brian Rachel",
+      "url": "https://www.empik.com/adhd-jak-sobie-radzic-w-neuroroznorodnym-swiecie-brian-rachel,p1760173876,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1789488724": {
+      "id": "p1789488724",
+      "title": "Yokai. Bestiariusz japoński - Davisson Zack",
+      "url": "https://www.empik.com/yokai-bestiariusz-japonski-davisson-zack,p1789488724,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1786494371": {
+      "id": "p1786494371",
+      "title": "Frankenstein - Shelley Mary",
+      "url": "https://www.empik.com/frankenstein-shelley-mary,p1786494371,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1790313639": {
+      "id": "p1790313639",
+      "title": "Tylko ty mnie zrozumiesz - Samantha Young",
+      "url": "https://www.empik.com/tylko-ty-mnie-zrozumiesz-samantha-young,p1790313639,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1786918394": {
+      "id": "p1786918394",
+      "title": "Istny cyrk - Miś Lidia",
+      "url": "https://www.empik.com/istny-cyrk-mis-lidia,p1786918394,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1766123916": {
+      "id": "p1766123916",
+      "title": "The Pucking Wrong Date - C.R. Jane",
+      "url": "https://www.empik.com/the-pucking-wrong-date-c-r-jane,p1766123916,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1766122500": {
+      "id": "p1766122500",
+      "title": "Full of Lies - Lena M. Bielska",
+      "url": "https://www.empik.com/full-of-lies-lena-m-bielska,p1766122500,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1785551314": {
+      "id": "p1785551314",
+      "title": "Odzyskać nadzieję. Desire. Tom 1 - Muraszka Aleksandra",
+      "url": "https://www.empik.com/odzyskac-nadzieje-desire-tom-1-muraszka-aleksandra,p1785551314,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1791009618": {
+      "id": "p1791009618",
+      "title": "Jedyna pociecha w tym, że może być gorzej. Listy 1953–2011 - Różewicz Tadeusz, Szymborska Wisława",
+      "url": "https://www.empik.com/jedyna-pociecha-w-tym-ze-moze-byc-gorzej-listy-1953-2011-rozewicz-tadeusz-szymborska-wislawa,p1791009618,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
+    },
+    "p1792373635": {
+      "id": "p1792373635",
+      "title": "Historiomachia. Bitwy o historię - Davies Norman",
+      "url": "https://www.empik.com/historiomachia-bitwy-o-historie-davies-norman,p1792373635,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-21T18:12:15.133Z"
     }
   },
   "log": [
@@ -11705,7 +11796,12 @@
       "at": "2026-09-20T22:25:50.752Z",
       "total": 479,
       "new": 0
+    },
+    {
+      "at": "2026-09-21T18:12:15.133Z",
+      "total": 463,
+      "new": 13
     }
   ],
-  "lastRun": "2026-09-20T22:25:50.752Z"
+  "lastRun": "2026-09-21T18:12:15.133Z"
 }
