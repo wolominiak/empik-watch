@@ -11213,6 +11213,48 @@
       "url": "https://www.empik.com/dziewczeta-z-nowolipek-gajowiczynska-pola,p1789548965,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-22T16:56:36.581Z"
+    },
+    "p1785542714": {
+      "id": "p1785542714",
+      "title": "Bestia w chmurach. Śmiertelnie niebezpieczna wyprawa braci Rooseveltów w poszukiwaniu legendarnej pandy wielkiej - Holt Nathalia",
+      "url": "https://www.empik.com/bestia-w-chmurach-smiertelnie-niebezpieczna-wyprawa-braci-rooseveltow-w-poszukiwaniu-legendarnej-pa-holt-nathalia,p1785542714,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
+    },
+    "p1785660409": {
+      "id": "p1785660409",
+      "title": "Świat Lalki - Chwalba Andrzej",
+      "url": "https://www.empik.com/swiat-lalki-chwalba-andrzej,p1785660409,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
+    },
+    "p1781700213": {
+      "id": "p1781700213",
+      "title": "Gwiazdka w kurniku, czyli przykurzone opowiastki - Bednarek Justyna",
+      "url": "https://www.empik.com/gwiazdka-w-kurniku-czyli-przykurzone-opowiastki-bednarek-justyna,p1781700213,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
+    },
+    "p1795171870": {
+      "id": "p1795171870",
+      "title": "Waga zmiany - Witaszek Tomasz",
+      "url": "https://www.empik.com/waga-zmiany-witaszek-tomasz,p1795171870,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
+    },
+    "p1793820422": {
+      "id": "p1793820422",
+      "title": "Tajemnica paryskiego laboratorium - Kur Małgorzata",
+      "url": "https://www.empik.com/tajemnica-paryskiego-laboratorium-kur-malgorzata,p1793820422,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
+    },
+    "p1794756993": {
+      "id": "p1794756993",
+      "title": "Skrzydlaty cień - Green Laura",
+      "url": "https://www.empik.com/skrzydlaty-cien-green-laura,p1794756993,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-22T22:56:20.547Z"
     }
   },
   "log": [
@@ -12140,7 +12182,12 @@
       "at": "2026-09-22T16:56:36.581Z",
       "total": 482,
       "new": 43
+    },
+    {
+      "at": "2026-09-22T22:56:20.547Z",
+      "total": 452,
+      "new": 6
     }
   ],
-  "lastRun": "2026-09-22T16:56:36.581Z"
+  "lastRun": "2026-09-22T22:56:20.547Z"
 }
