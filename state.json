@@ -11717,6 +11717,104 @@
       "url": "https://www.empik.com/czolem-nie-ma-hien-meller-andrzej,p1791053822,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-24T17:10:08.074Z"
+    },
+    "p1795176699": {
+      "id": "p1795176699",
+      "title": "Rok z ks. Pawlukiewiczem - Pawlukiewicz Piotr",
+      "url": "https://www.empik.com/rok-z-ks-pawlukiewiczem-pawlukiewicz-piotr,p1795176699,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1795589769": {
+      "id": "p1795589769",
+      "title": "Księgi Nomów 1-3 - Pratchett Terry",
+      "url": "https://www.empik.com/ksiegi-nomow-1-3-pratchett-terry,p1795589769,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1767394584": {
+      "id": "p1767394584",
+      "title": "50 najdziwaczniejszych śmierci w historii - Knight Riley",
+      "url": "https://www.empik.com/50-najdziwaczniejszych-smierci-w-historii-knight-riley,p1767394584,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1786904939": {
+      "id": "p1786904939",
+      "title": "Krwawa zemsta. Erika Foster. Tom 8 - Bryndza Robert",
+      "url": "https://www.empik.com/krwawa-zemsta-erika-foster-tom-8-bryndza-robert,p1786904939,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1784667399": {
+      "id": "p1784667399",
+      "title": "Wieczór panieński - Zamarska Agata",
+      "url": "https://www.empik.com/wieczor-panienski-zamarska-agata,p1784667399,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1767140664": {
+      "id": "p1767140664",
+      "title": "Lunatyczka - Peszek Agnieszka",
+      "url": "https://www.empik.com/lunatyczka-peszek-agnieszka,p1767140664,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1790598197": {
+      "id": "p1790598197",
+      "title": "17 czerwca - Alex Schulman",
+      "url": "https://www.empik.com/17-czerwca-alex-schulman,p1790598197,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1770165104": {
+      "id": "p1770165104",
+      "title": "Pierwotna Krwi i Kości. Z krwi i popiołu. Tom 6.1 - Armentrout Jennifer L.",
+      "url": "https://www.empik.com/pierwotna-krwi-i-kosci-z-krwi-i-popiolu-tom-6-armentrout-jennifer-l,p1770165104,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1790599585": {
+      "id": "p1790599585",
+      "title": "Wilcze gry - Natt och Dag Niklas",
+      "url": "https://www.empik.com/wilcze-gry-natt-och-dag-niklas,p1790599585,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1791359276": {
+      "id": "p1791359276",
+      "title": "Martwe dusze nie śpiewają - Adler-Olsen Jussi, Holm Line, Bolther Stine",
+      "url": "https://www.empik.com/martwe-dusze-nie-spiewaja-adler-olsen-jussi-holm-line-bolther-stine,p1791359276,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1793701969": {
+      "id": "p1793701969",
+      "title": "Bezpowrotność - Beata Skrzypczak, Zychla Marek",
+      "url": "https://www.empik.com/bezpowrotnosc-beata-skrzypczak-zychla-marek,p1793701969,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1786718165": {
+      "id": "p1786718165",
+      "title": "The Villain - Marta Kulczyna",
+      "url": "https://www.empik.com/the-villain-marta-kulczyna,p1786718165,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1786747723": {
+      "id": "p1786747723",
+      "title": "Keep Me Safe - Agata Polte",
+      "url": "https://www.empik.com/keep-me-safe-agata-polte,p1786747723,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1791383820": {
+      "id": "p1791383820",
+      "title": "8,2 sekundy - Chattam Maxime",
+      "url": "https://www.empik.com/8-2-sekundy-chattam-maxime,p1791383820,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-24T23:12:25.728Z"
     }
   },
   "log": [
@@ -12664,7 +12762,12 @@
       "at": "2026-09-24T17:10:08.074Z",
       "total": 497,
       "new": 19
+    },
+    {
+      "at": "2026-09-24T23:12:25.728Z",
+      "total": 500,
+      "new": 14
     }
   ],
-  "lastRun": "2026-09-24T17:10:08.074Z"
+  "lastRun": "2026-09-24T23:12:25.728Z"
 }
