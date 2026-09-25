@@ -11815,6 +11815,83 @@
       "url": "https://www.empik.com/8-2-sekundy-chattam-maxime,p1791383820,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-24T23:12:25.728Z"
+    },
+    "p1786712295": {
+      "id": "p1786712295",
+      "title": "Burning Bridges - Ewa Remek",
+      "url": "https://www.empik.com/burning-bridges-ewa-remek,p1786712295,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1785622667": {
+      "id": "p1785622667",
+      "title": "Taste Of Revenge. Vendetta. Tom 1 - Kathreen Bennett",
+      "url": "https://www.empik.com/taste-of-revenge-vendetta-1-kathreen-bennett,p1785622667,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1790459968": {
+      "id": "p1790459968",
+      "title": "Piotruś Pan. Klasyka dźwiękowa - Barrie James Matthew",
+      "url": "https://www.empik.com/piotrus-pan-klasyka-dzwiekowa-barrie-james-matthew,p1790459968,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1790542620": {
+      "id": "p1790542620",
+      "title": "Kopciuszek. Klasyka dźwiękowa - L. Carroll",
+      "url": "https://www.empik.com/kopciuszek-klasyka-dzwiekowa-l-carroll,p1790542620,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1791638465": {
+      "id": "p1791638465",
+      "title": "Samhain. Nic nie widziałeś… - Szczepańska Katarzyna",
+      "url": "https://www.empik.com/samhain-nic-nie-widziales-szczepanska-katarzyna,p1791638465,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1767090299": {
+      "id": "p1767090299",
+      "title": "Moc Miłosierdzia - Ryś Grzegorz",
+      "url": "https://www.empik.com/moc-milosierdzia-rys-grzegorz,p1767090299,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1767516919": {
+      "id": "p1767516919",
+      "title": "Kapibara Barbara i niezła szopka - Piotrowska Eliza",
+      "url": "https://www.empik.com/kapibara-barbara-i-niezla-szopka-piotrowska-eliza,p1767516919,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1774880797": {
+      "id": "p1774880797",
+      "title": "Rozliczenie - Agnieszka Szubert",
+      "url": "https://www.empik.com/rozliczenie-agnieszka-szubert,p1774880797,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1784797706": {
+      "id": "p1784797706",
+      "title": "Baba na barykadzie - Niemczyńska Małgorzata I.",
+      "url": "https://www.empik.com/baba-na-barykadzie-niemczynska-malgorzata-i,p1784797706,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1766448189": {
+      "id": "p1766448189",
+      "title": "Opowiadania Wilczej Jagody - Kubasiewicz Magdalena",
+      "url": "https://www.empik.com/opowiadania-wilczej-jagody-kubasiewicz-magdalena,p1766448189,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
+    },
+    "p1767526208": {
+      "id": "p1767526208",
+      "title": "Zagadka Rogu Obfitości. Jak sobie radzić, gdy wszystkiego jest za dużo - Staroń Przemek",
+      "url": "https://www.empik.com/zagadka-rogu-obfitosci-jak-radzic-sobie-gdy-wszystkiego-jest-za-duzo-szkola-bohaterek-i-bohaterow-staron-przemek,p1767526208,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-25T17:10:14.177Z"
     }
   },
   "log": [
@@ -12767,7 +12844,12 @@
       "at": "2026-09-24T23:12:25.728Z",
       "total": 500,
       "new": 14
+    },
+    {
+      "at": "2026-09-25T17:10:14.177Z",
+      "total": 499,
+      "new": 11
     }
   ],
-  "lastRun": "2026-09-24T23:12:25.728Z"
+  "lastRun": "2026-09-25T17:10:14.177Z"
 }
