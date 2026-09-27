@@ -12039,6 +12039,20 @@
       "url": "https://www.empik.com/ekonomia-na-nowo-to-o-czym-dorosli-ci-nie-mowia-janiszewski-bogus,p1765073377,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-27T16:57:29.554Z"
+    },
+    "p1795571760": {
+      "id": "p1795571760",
+      "title": "Poczet Królów I Książąt Polski - Bąk Jolanta",
+      "url": "https://www.empik.com/poczet-krolow-i-ksiazat-polski-bak-jolanta,p1795571760,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T23:02:35.927Z"
+    },
+    "p1786439736": {
+      "id": "p1786439736",
+      "title": "Super Nintendo - Keza MacDonald",
+      "url": "https://www.empik.com/super-nintendo-keza-macdonald,p1786439736,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T23:02:35.927Z"
     }
   },
   "log": [
@@ -13016,7 +13030,12 @@
       "at": "2026-09-27T16:57:29.554Z",
       "total": 500,
       "new": 5
+    },
+    {
+      "at": "2026-09-27T23:02:35.927Z",
+      "total": 498,
+      "new": 2
     }
   ],
-  "lastRun": "2026-09-27T16:57:29.554Z"
+  "lastRun": "2026-09-27T23:02:35.927Z"
 }
