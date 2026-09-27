@@ -12004,6 +12004,41 @@
       "url": "https://www.empik.com/fiu-fiu-fiu-maklowicz-robert-kaczorowski-andrzej,p1785661000,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-26T16:22:44.231Z"
+    },
+    "p1796738706": {
+      "id": "p1796738706",
+      "title": "Wybierz mnie w te święta - Joanna Mordak",
+      "url": "https://www.empik.com/wybierz-mnie-w-te-swieta-joanna-mordak,p1796738706,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T16:57:29.554Z"
+    },
+    "p1769791125": {
+      "id": "p1769791125",
+      "title": "W stronę słońca. O dobroczynnym wpływie piękna na zdrowie psychiczne i duchowe - Woydyłło Ewa",
+      "url": "https://www.empik.com/ku-sloncu-rob-woydyllo-ewa,p1769791125,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T16:57:29.554Z"
+    },
+    "p1765073401": {
+      "id": "p1765073401",
+      "title": "Kawaii Christmas. Święta na szydełku. 40 uroczych projektów amigurumi krok po kroku - Bradley-Vatcher Melissa",
+      "url": "https://www.empik.com/kawaii-christmas-swieta-na-szydelku-40-uroczych-projektow-amigurumi-krok-po-kroku-bradley-vatcher-melissa,p1765073401,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T16:57:29.554Z"
+    },
+    "p1760195832": {
+      "id": "p1760195832",
+      "title": "Malujemy. Rob & Ot - Copons Jaume",
+      "url": "https://www.empik.com/malujemy-rob-ot-copons-jaume,p1760195832,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T16:57:29.554Z"
+    },
+    "p1765073377": {
+      "id": "p1765073377",
+      "title": "Ekonomia na nowo. To, o czym dorośli Ci nie mówią - Janiszewski Boguś",
+      "url": "https://www.empik.com/ekonomia-na-nowo-to-o-czym-dorosli-ci-nie-mowia-janiszewski-bogus,p1765073377,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-27T16:57:29.554Z"
     }
   },
   "log": [
@@ -12976,7 +13011,12 @@
       "at": "2026-09-26T22:49:26.955Z",
       "total": 497,
       "new": 0
+    },
+    {
+      "at": "2026-09-27T16:57:29.554Z",
+      "total": 500,
+      "new": 5
     }
   ],
-  "lastRun": "2026-09-26T22:49:26.955Z"
+  "lastRun": "2026-09-27T16:57:29.554Z"
 }
