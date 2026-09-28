@@ -20026,6 +20026,48 @@
       "url": "https://www.taniaksiazka.pl/weganska-tajlandia-przepisy-kuchni-tajskiej-oraz-innych-krajow-azji-poludniowo-wschodniej-p-2527830.html",
       "category": "Kuchnia i diety",
       "firstSeen": "2026-09-27T16:58:25.552Z"
+    },
+    "tk2528027": {
+      "id": "tk2528027",
+      "title": "Snowbody like you",
+      "url": "https://www.taniaksiazka.pl/snowbody-like-you-p-2528027.html",
+      "category": "Young adult",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
+    },
+    "tk614240": {
+      "id": "tk614240",
+      "title": "Problemy opiekuńczo-wychowawcze w polskim czasopiśmiennictwie. Przeszłość i teraźniejszość",
+      "url": "https://www.taniaksiazka.pl/problemy-opiekunczo-wychowawcze-w-polskim-czasopismiennictwie-przeszlosc-i-terazniejszosc-renata-bednarz-grzybek-p-614240.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
+    },
+    "tk1383937": {
+      "id": "tk1383937",
+      "title": "Myślenie krytyczne w edukacji. Metodyka kształcenia w szkole podstawowej",
+      "url": "https://www.taniaksiazka.pl/myslenie-krytyczne-w-edukacji-metodyka-ksztalcenia-w-szkole-podstawowej-iwona-czaja-chudyba-p-1383937.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
+    },
+    "tk333946": {
+      "id": "tk333946",
+      "title": "Teoria wyboru publicznego. Główne nurty i zastosowania",
+      "url": "https://www.taniaksiazka.pl/teoria-wyboru-publicznego-glowne-nurty-i-zastosowania-jerzy-wilkin-p-333946.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
+    },
+    "tk1621440": {
+      "id": "tk1621440",
+      "title": "Myślenie w edukacji",
+      "url": "https://www.taniaksiazka.pl/myslenie-w-edukacji-matthew-lipman-p-1621440.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
+    },
+    "tk2528061": {
+      "id": "tk2528061",
+      "title": "W stronę słońca. O dobroczynnym wpływie piękna na zdrowie psychiczne i duchowe",
+      "url": "https://www.taniaksiazka.pl/w-strone-slonca-o-dobroczynnym-wplywie-piekna-na-zdrowie-psychiczne-i-duchowe-p-2528061.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-09-28T19:41:09.044Z"
     }
   },
   "log": [
@@ -21192,7 +21234,13 @@
       "total": 488,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-09-28T19:41:09.044Z",
+      "total": 486,
+      "new": 6,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-09-27T23:03:28.092Z"
+  "lastRun": "2026-09-28T19:41:09.044Z"
 }

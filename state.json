@@ -12053,6 +12053,27 @@
       "url": "https://www.empik.com/super-nintendo-keza-macdonald,p1786439736,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-27T23:02:35.927Z"
+    },
+    "p1793787598": {
+      "id": "p1793787598",
+      "title": "Uczta na dekadzień. Oficjalna książka kucharska Baldur’s Gate III - Wheeler Andrew",
+      "url": "https://www.empik.com/uczta-na-dekadzien-oficjalna-ksiazka-kucharska-baldur-s-gate-iii-wheeler-andrew,p1793787598,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-28T19:40:15.215Z"
+    },
+    "p1766110639": {
+      "id": "p1766110639",
+      "title": "Burza nad Sudetami. Ostatnie dni III Rzeszy - Koprowski Marek A.",
+      "url": "https://www.empik.com/burza-nad-sudetami-ostatnie-dni-iii-rzeszy-koprowski-marek-a,p1766110639,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-28T19:40:15.215Z"
+    },
+    "p1790948888": {
+      "id": "p1790948888",
+      "title": "Taniec w blasku grzechu - Świątkowska Joanna",
+      "url": "https://www.empik.com/taniec-w-blasku-grzechu-swiatkowska-joanna,p1790948888,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-28T19:40:15.215Z"
     }
   },
   "log": [
@@ -13035,7 +13056,12 @@
       "at": "2026-09-27T23:02:35.927Z",
       "total": 498,
       "new": 2
+    },
+    {
+      "at": "2026-09-28T19:40:15.215Z",
+      "total": 499,
+      "new": 3
     }
   ],
-  "lastRun": "2026-09-27T23:02:35.927Z"
+  "lastRun": "2026-09-28T19:40:15.215Z"
 }
