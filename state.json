@@ -12207,6 +12207,20 @@
       "url": "https://www.empik.com/male-szczescia-wochlik-jagoda,p1784627276,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-29T00:21:47.905Z"
+    },
+    "p1772704624": {
+      "id": "p1772704624",
+      "title": "Stracone w ogniu - Janiszewska Izabela",
+      "url": "https://www.empik.com/stracone-w-ogniu-janiszewska-izabela,p1772704624,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-29T18:04:33.094Z"
+    },
+    "p1796138243": {
+      "id": "p1796138243",
+      "title": "Zimowe łamigłówki. Kalendarz adwentowy - Joel Jessup, Galland Richard Wolfrik",
+      "url": "https://www.empik.com/zimowe-lamiglowki-kalendarz-adwentowy-joel-jessup-galland-richard-wolfrik,p1796138243,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-29T18:04:33.094Z"
     }
   },
   "log": [
@@ -13199,7 +13213,12 @@
       "at": "2026-09-29T00:21:47.905Z",
       "total": 500,
       "new": 19
+    },
+    {
+      "at": "2026-09-29T18:04:33.094Z",
+      "total": 500,
+      "new": 2
     }
   ],
-  "lastRun": "2026-09-29T00:21:47.905Z"
+  "lastRun": "2026-09-29T18:04:33.094Z"
 }
