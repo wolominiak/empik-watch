@@ -12340,14 +12340,16 @@
       "url": "https://www.empik.com/cztery-komnaty-wydanie-specjalne-czerska-monika,p1785659166,ksiazka-p",
       "category": "",
       "firstSeen": "2026-09-30T17:59:49.861Z"
+    },
+    "p1795611305": {
+      "id": "p1795611305",
+      "title": "Carrie - King Stephen",
+      "url": "https://www.empik.com/carrie-king-stephen,p1795611305,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-09-30T23:48:18.898Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-20T15:09:40.767Z",
-      "total": 250,
-      "new": 1
-    },
     {
       "at": "2026-07-20T17:19:34.670Z",
       "total": 250,
@@ -13342,7 +13344,12 @@
       "at": "2026-09-30T17:59:49.861Z",
       "total": 500,
       "new": 17
+    },
+    {
+      "at": "2026-09-30T23:48:18.898Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-09-30T17:59:49.861Z"
+  "lastRun": "2026-09-30T23:48:18.898Z"
 }
