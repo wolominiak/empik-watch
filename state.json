@@ -12501,14 +12501,23 @@
       "url": "https://www.empik.com/bezwladnosc-margareta-wysocka,p1785715240,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-01T18:24:57.367Z"
+    },
+    "p1766364090": {
+      "id": "p1766364090",
+      "title": "Figurka ze skazą. Kobiety z porcelany. Tom 1 - Kowalska Monika",
+      "url": "https://www.empik.com/figurka-ze-skaza-kobiety-z-porcelany-tom-1-kowalska-monika,p1766364090,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-01T23:52:34.237Z"
+    },
+    "p1796835294": {
+      "id": "p1796835294",
+      "title": "O zmierzchu. Dojrzała dorosłość - Niedźwiecka Marta",
+      "url": "https://www.empik.com/o-zmierzchu-dojrzala-doroslosc-niedzwiecka-marta,p1796835294,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-01T23:52:34.237Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-20T17:31:15.956Z",
-      "total": 250,
-      "new": 0
-    },
     {
       "at": "2026-07-20T18:22:17.552Z",
       "total": 250,
@@ -13503,7 +13512,12 @@
       "at": "2026-10-01T18:24:57.367Z",
       "total": 500,
       "new": 22
+    },
+    {
+      "at": "2026-10-01T23:52:34.237Z",
+      "total": 500,
+      "new": 2
     }
   ],
-  "lastRun": "2026-10-01T18:24:57.367Z"
+  "lastRun": "2026-10-01T23:52:34.237Z"
 }
