@@ -21531,15 +21531,37 @@
       "url": "https://www.taniaksiazka.pl/podstawy-pielegniarstwa-tom-1-2-barbara-slusarska-p-1981986.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-03T16:18:21.570Z"
+    },
+    "tk2536953": {
+      "id": "tk2536953",
+      "title": "Psy Gończe III. Lacerta",
+      "url": "https://www.taniaksiazka.pl/psy-goncze-iii-lacerta-p-2536953.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-03T23:04:03.403Z"
+    },
+    "tk2536952": {
+      "id": "tk2536952",
+      "title": "Strychnina",
+      "url": "https://www.taniaksiazka.pl/strychnina-p-2536952.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-03T23:04:03.403Z"
+    },
+    "tk2537161": {
+      "id": "tk2537161",
+      "title": "Pionierzy medycyny. Oszukać śmierć",
+      "url": "https://www.taniaksiazka.pl/pionierzy-medycyny-oszukac-smierc-p-2537161.html",
+      "category": "Literatura faktu, reportaż",
+      "firstSeen": "2026-10-03T23:04:03.403Z"
+    },
+    "tk2537160": {
+      "id": "tk2537160",
+      "title": "Życie z mindfulness. Trening uważności",
+      "url": "https://www.taniaksiazka.pl/zycie-z-mindfulness-trening-uwaznosci-p-2537160.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-03T23:04:03.403Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T14:26:37.490Z",
-      "total": 402,
-      "new": 1,
-      "failed": 0
-    },
     {
       "at": "2026-07-21T17:24:14.881Z",
       "total": 401,
@@ -22733,7 +22755,13 @@
       "total": 488,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-03T23:04:03.403Z",
+      "total": 489,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-03T19:17:08.854Z"
+  "lastRun": "2026-10-03T23:04:03.403Z"
 }
