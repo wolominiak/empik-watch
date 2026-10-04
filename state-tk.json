@@ -21986,15 +21986,30 @@
       "url": "https://www.taniaksiazka.pl/tarot-kwiatowy-karty-tarota-przewodnik-odkryj-madrosc-kwiatow-p-2536923.html",
       "category": "Ezoteryka i parapsychologia",
       "firstSeen": "2026-10-04T16:52:00.423Z"
+    },
+    "tk2542518": {
+      "id": "tk2542518",
+      "title": "Cisza nad Beuthen",
+      "url": "https://www.taniaksiazka.pl/cisza-nad-beuthen-p-2542518.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-04T23:10:05.968Z"
+    },
+    "tk2542516": {
+      "id": "tk2542516",
+      "title": "Mistrzowski skok. Letnie Igrzyska Olimpijskie...",
+      "url": "https://www.taniaksiazka.pl/mistrzowski-skok-letnie-igrzyska-olimpijskie-p-2542516.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-04T23:10:05.968Z"
+    },
+    "tk2543538": {
+      "id": "tk2543538",
+      "title": "Siedem kobiet, które miały odwagę zawierzyć Bogu",
+      "url": "https://www.taniaksiazka.pl/siedem-kobiet-ktore-mialy-odwage-zawierzyc-bogu-p-2543538.html",
+      "category": "Religia",
+      "firstSeen": "2026-10-04T23:10:05.968Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T17:48:03.781Z",
-      "total": 401,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-21T18:37:49.945Z",
       "total": 402,
@@ -23188,7 +23203,13 @@
       "total": 501,
       "new": 61,
       "failed": 0
+    },
+    {
+      "at": "2026-10-04T23:10:05.968Z",
+      "total": 501,
+      "new": 3,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-04T16:52:00.423Z"
+  "lastRun": "2026-10-04T23:10:05.968Z"
 }

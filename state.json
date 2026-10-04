@@ -12970,14 +12970,16 @@
       "url": "https://www.empik.com/czas-na-milosc-czas-na-smierc-pietrzyk-agnieszka,p1767001994,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-04T16:50:33.523Z"
+    },
+    "p1771503295": {
+      "id": "p1771503295",
+      "title": "Pomiędzy płatkami śniegu - Cieluch Monika",
+      "url": "https://www.empik.com/pomiedzy-platkami-sniegu-cieluch-monika,p1771503295,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-04T23:09:17.946Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T17:47:42.769Z",
-      "total": 250,
-      "new": 0
-    },
     {
       "at": "2026-07-21T18:37:29.270Z",
       "total": 250,
@@ -13972,7 +13974,12 @@
       "at": "2026-10-04T16:50:33.523Z",
       "total": 500,
       "new": 16
+    },
+    {
+      "at": "2026-10-04T23:09:17.946Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-10-04T16:50:33.523Z"
+  "lastRun": "2026-10-04T23:09:17.946Z"
 }
