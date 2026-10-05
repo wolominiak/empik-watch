@@ -22007,15 +22007,37 @@
       "url": "https://www.taniaksiazka.pl/siedem-kobiet-ktore-mialy-odwage-zawierzyc-bogu-p-2543538.html",
       "category": "Religia",
       "firstSeen": "2026-10-04T23:10:05.968Z"
+    },
+    "tk2543680": {
+      "id": "tk2543680",
+      "title": "Za cudze grzechy",
+      "url": "https://www.taniaksiazka.pl/za-cudze-grzechy-p-2543680.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-05T20:39:27.248Z"
+    },
+    "tk1147966": {
+      "id": "tk1147966",
+      "title": "Matematyka. Podręcznik dla studentów kierunków ekonomicznych",
+      "url": "https://www.taniaksiazka.pl/matematyka-podrecznik-dla-studentow-kierunkow-ekonomicznych-dorota-pekasiewicz-p-1147966.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-05T20:39:27.248Z"
+    },
+    "tk2046829": {
+      "id": "tk2046829",
+      "title": "Profesjonalne źródła informacji o prawie",
+      "url": "https://www.taniaksiazka.pl/profesjonalne-zrodla-informacji-o-prawie-grzegorz-wierczynski-p-2046829.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-05T20:39:27.248Z"
+    },
+    "tk2522305": {
+      "id": "tk2522305",
+      "title": "Tatry. Najpiękniejsze letnie drogi wspinaczkowe. Tatry Polskie",
+      "url": "https://www.taniaksiazka.pl/tatry-najpiekniejsze-letnie-drogi-wspinaczkowe-tatry-polskie-p-2522305.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-10-05T20:39:27.248Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T18:37:49.945Z",
-      "total": 402,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-21T19:03:29.858Z",
       "total": 402,
@@ -23209,7 +23231,13 @@
       "total": 501,
       "new": 3,
       "failed": 0
+    },
+    {
+      "at": "2026-10-05T20:39:27.248Z",
+      "total": 500,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-04T23:10:05.968Z"
+  "lastRun": "2026-10-05T20:39:27.248Z"
 }

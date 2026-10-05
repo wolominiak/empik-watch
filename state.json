@@ -12977,14 +12977,51 @@
       "url": "https://www.empik.com/pomiedzy-platkami-sniegu-cieluch-monika,p1771503295,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-04T23:09:17.946Z"
+    },
+    "p1779044497": {
+      "id": "p1779044497",
+      "title": "Bezsilna - Knoll Jessica",
+      "url": "https://www.empik.com/uprowadzona-knoll-jessica,p1779044497,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
+    },
+    "p1771740586": {
+      "id": "p1771740586",
+      "title": "Teraz albo nigdy. - Dagmara Solińska-Michalik",
+      "url": "https://www.empik.com/teraz-albo-nigdy-to-czas-aby-zawalczyc-o-siebie-dagmara-solinska-michalik,p1771740586,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
+    },
+    "p1769791091": {
+      "id": "p1769791091",
+      "title": "Polacy – Żydzi. Sąsiedzi przez tysiąc lat - Chwalba Andrzej, Przeperski Michał",
+      "url": "https://www.empik.com/polacy-zydzi-sasiedzi-przez-tysiac-lat-chwalba-andrzej-przeperski-michal,p1769791091,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
+    },
+    "p1798956263": {
+      "id": "p1798956263",
+      "title": "Osobliwa magia - Rutherford Mara",
+      "url": "https://www.empik.com/osobliwa-magia-rutherford-mara,p1798956263,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
+    },
+    "p1793096177": {
+      "id": "p1793096177",
+      "title": "Ćwiczenia dla seniorów. Rozciąganie i równowaga - Lepsy Ewelina, Kołcz Anna, Żurowska Anna",
+      "url": "https://www.empik.com/cwiczenia-dla-seniorow-rozciaganie-i-rownowaga-lepsy-ewelina-kolcz-anna-zurowska-anna,p1793096177,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
+    },
+    "p1792358849": {
+      "id": "p1792358849",
+      "title": "K-popowe łowczynie demonów. Oficjalna książka z naklejkami - Random House",
+      "url": "https://www.empik.com/k-popowe-lowczynie-demonow-oficjalna-ksiazka-z-naklejkami-random-house,p1792358849,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-05T20:38:25.539Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T18:37:29.270Z",
-      "total": 250,
-      "new": 0
-    },
     {
       "at": "2026-07-21T19:03:06.005Z",
       "total": 250,
@@ -13979,7 +14016,12 @@
       "at": "2026-10-04T23:09:17.946Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-10-05T20:38:25.539Z",
+      "total": 500,
+      "new": 6
     }
   ],
-  "lastRun": "2026-10-04T23:09:17.946Z"
+  "lastRun": "2026-10-05T20:38:25.539Z"
 }
