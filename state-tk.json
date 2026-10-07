@@ -22266,15 +22266,86 @@
       "url": "https://www.taniaksiazka.pl/polska-od-wschodu-do-zachodu-jerzy-bralczyk-p-2544584.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-10-06T18:22:54.374Z"
+    },
+    "tk2545033": {
+      "id": "tk2545033",
+      "title": "Pakiet Christmas Wishlist, Christmas Wonder",
+      "url": "https://www.taniaksiazka.pl/pakiet-christmas-wishlist-christmas-wonder-p-2545033.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2545115": {
+      "id": "tk2545115",
+      "title": "Pakiet MVP: Most Valuable Prize, Most Valuable Proposition, Most Valuable Person",
+      "url": "https://www.taniaksiazka.pl/pakiet-mvp-most-valuable-prize-most-valuable-proposition-most-valuable-person-p-2545115.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2519536": {
+      "id": "tk2519536",
+      "title": "Zobowiązania - część ogólna z testami online w.17",
+      "url": "https://www.taniaksiazka.pl/zobowiazania-czesc-ogolna-z-testami-online-w-17-p-2519536.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk1866744": {
+      "id": "tk1866744",
+      "title": "Podstawy prawa dla ekonomistów",
+      "url": "https://www.taniaksiazka.pl/podstawy-prawa-dla-ekonomistow-aneta-kazmierczyk-p-1866744.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk266635": {
+      "id": "tk266635",
+      "title": "Psychoterapia. Szkoły i metody. Podręcznik akademicki",
+      "url": "https://www.taniaksiazka.pl/psychoterapia-szkoly-i-metody-podrecznik-akademicki-p-266635.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk33205": {
+      "id": "tk33205",
+      "title": "Język łaciński dla prawników",
+      "url": "https://www.taniaksiazka.pl/jezyk-lacinski-dla-prawnikow-jan-rezler-p-33205.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2544601": {
+      "id": "tk2544601",
+      "title": "To minie. Jak z odwagą brać to, co przynosi życie",
+      "url": "https://www.taniaksiazka.pl/to-minie-jak-z-odwaga-brac-to-co-przynosi-zycie-joanna-chmura-p-2544601.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2529500": {
+      "id": "tk2529500",
+      "title": "Neurologia psów",
+      "url": "https://www.taniaksiazka.pl/neurologia-psow-p-2529500.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2529499": {
+      "id": "tk2529499",
+      "title": "Żywienie małych zwierząt. BSAVA",
+      "url": "https://www.taniaksiazka.pl/zywienie-malych-zwierzat-bsava-p-2529499.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2536073": {
+      "id": "tk2536073",
+      "title": "Więcej błonnika i więcej białka. 100 proteinowo-błonnikowych przepisów dla zdrowych jelit i lepszej sylwetki",
+      "url": "https://www.taniaksiazka.pl/wiecej-blonnika-i-wiecej-bialka-100-proteinowo-blonnikowych-przepisow-dla-zdrowych-jelit-i-lepszej-sylwetki-p-2536073.html",
+      "category": "Kuchnia i diety",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
+    },
+    "tk2545414": {
+      "id": "tk2545414",
+      "title": "Feng Shui w twoim domu. Jak stworzyć przestrzeń, która przyciąga harmonię, dobrobyt i szczęście",
+      "url": "https://www.taniaksiazka.pl/feng-shui-w-twoim-domu-jak-stworzyc-przestrzen-ktora-przyciaga-harmonie-dobrobyt-i-szczescie-p-2545414.html",
+      "category": "Ezoteryka i parapsychologia",
+      "firstSeen": "2026-10-07T18:58:47.538Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-21T22:13:51.797Z",
-      "total": 401,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-22T10:25:53.340Z",
       "total": 404,
@@ -23468,7 +23539,13 @@
       "total": 498,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-07T18:58:47.538Z",
+      "total": 493,
+      "new": 11,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-06T23:48:44.743Z"
+  "lastRun": "2026-10-07T18:58:47.538Z"
 }
