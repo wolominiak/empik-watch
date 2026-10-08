@@ -13369,14 +13369,16 @@
       "url": "https://www.empik.com/chlopiec-i-mis-brandreth-gyles,p1785552085,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-07T18:56:42.777Z"
+    },
+    "p1795288134": {
+      "id": "p1795288134",
+      "title": "Zima. Ozdabiam naklejkami - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/zima-ozdabiam-naklejkami-opracowanie-zbiorowe,p1795288134,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-08T00:11:49.447Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-22T10:25:04.267Z",
-      "total": 250,
-      "new": 10
-    },
     {
       "at": "2026-07-22T11:21:29.229Z",
       "total": 250,
@@ -14371,7 +14373,12 @@
       "at": "2026-10-07T18:56:42.777Z",
       "total": 500,
       "new": 31
+    },
+    {
+      "at": "2026-10-08T00:11:49.447Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-10-07T18:56:42.777Z"
+  "lastRun": "2026-10-08T00:11:49.447Z"
 }
