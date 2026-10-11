@@ -23491,15 +23491,107 @@
       "url": "https://www.taniaksiazka.pl/co-robic-gdy-zgasnie-swiatlo-podreczny-przewodnik-na-trudny-czas-nic-compton-p-2542419.html",
       "category": "Poradniki",
       "firstSeen": "2026-10-10T17:22:53.032Z"
+    },
+    "tk2547006": {
+      "id": "tk2547006",
+      "title": "Zabójca. Nie szukaj mnie. Tom 3",
+      "url": "https://www.taniaksiazka.pl/zabojca-nie-szukaj-mnie-tom-3-p-2547006.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2546993": {
+      "id": "tk2546993",
+      "title": "Pani domu",
+      "url": "https://www.taniaksiazka.pl/pani-domu-p-2546993.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2546909": {
+      "id": "tk2546909",
+      "title": "Słoneczna przystań",
+      "url": "https://www.taniaksiazka.pl/sloneczna-przystan-p-2546909.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2547005": {
+      "id": "tk2547005",
+      "title": "Dziewczęta z Nowolipek",
+      "url": "https://www.taniaksiazka.pl/dziewczeta-z-nowolipek-p-2547005.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2547002": {
+      "id": "tk2547002",
+      "title": "Kwitnienie lip na Bałkanach",
+      "url": "https://www.taniaksiazka.pl/kwitnienie-lip-na-balkanach-p-2547002.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2547000": {
+      "id": "tk2547000",
+      "title": "Jeżyca",
+      "url": "https://www.taniaksiazka.pl/jezyca-p-2547000.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2547001": {
+      "id": "tk2547001",
+      "title": "Pakiet: Igrzyska śmierci. Tomy 1-5",
+      "url": "https://www.taniaksiazka.pl/pakiet-igrzyska-smierci-tomy-1-5-p-2547001.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2546992": {
+      "id": "tk2546992",
+      "title": "Jak działa natura? Fascynujące sekrety ewolucji",
+      "url": "https://www.taniaksiazka.pl/jak-dziala-natura-fascynujace-sekrety-ewolucji-p-2546992.html",
+      "category": "Popularnonaukowe",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2547007": {
+      "id": "tk2547007",
+      "title": "Ciekłe kryształy dla inżynierów",
+      "url": "https://www.taniaksiazka.pl/ciekle-krysztaly-dla-inzynierow-p-2547007.html",
+      "category": "Nauki ścisłe, medycyna",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2527730": {
+      "id": "tk2527730",
+      "title": "Psychologia społeczna. Wydanie drugie zaktualizowane",
+      "url": "https://www.taniaksiazka.pl/psychologia-spoleczna-w-2-zaktualizowane-z-aneksem-p-2527730.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk903393": {
+      "id": "tk903393",
+      "title": "Prawo konstytucyjne",
+      "url": "https://www.taniaksiazka.pl/prawo-konstytucyjne-boguslaw-banaszak-p-903393.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2544540": {
+      "id": "tk2544540",
+      "title": "Zobowiązania - część szczegółowa z testami online",
+      "url": "https://www.taniaksiazka.pl/zobowiazania-czesc-szczegolowa-z-testami-online-p-2544540.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2513170": {
+      "id": "tk2513170",
+      "title": "Prawo spadkowe z testami online w.16",
+      "url": "https://www.taniaksiazka.pl/prawo-spadkowe-z-testami-online-w-16-p-2513170.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2527962": {
+      "id": "tk2527962",
+      "title": "Prawo pracy z testami online w.24",
+      "url": "https://www.taniaksiazka.pl/prawo-pracy-z-testami-online-w-24-p-2527962.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-11T17:42:22.600Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-23T14:35:58.689Z",
-      "total": 406,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-23T17:49:45.269Z",
       "total": 403,
@@ -24693,7 +24785,13 @@
       "total": 503,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-11T17:42:22.600Z",
+      "total": 507,
+      "new": 14,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-10T23:33:45.909Z"
+  "lastRun": "2026-10-11T17:42:22.600Z"
 }
