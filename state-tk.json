@@ -23589,15 +23589,16 @@
       "url": "https://www.taniaksiazka.pl/prawo-pracy-z-testami-online-w-24-p-2527962.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-11T17:42:22.600Z"
+    },
+    "tk2526479": {
+      "id": "tk2526479",
+      "title": "1001 obrazów, które warto w życiu zobaczyć. Wydanie 2",
+      "url": "https://www.taniaksiazka.pl/1001-obrazow-ktore-warto-w-zyciu-zobaczyc-w-2-p-2526479.html",
+      "category": "Kultura i sztuka",
+      "firstSeen": "2026-10-11T23:39:50.616Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-23T17:49:45.269Z",
-      "total": 403,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-23T22:17:16.036Z",
       "total": 400,
@@ -24791,7 +24792,13 @@
       "total": 507,
       "new": 14,
       "failed": 0
+    },
+    {
+      "at": "2026-10-11T23:39:50.616Z",
+      "total": 503,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-11T17:42:22.600Z"
+  "lastRun": "2026-10-11T23:39:50.616Z"
 }
