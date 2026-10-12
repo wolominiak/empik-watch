@@ -23596,15 +23596,23 @@
       "url": "https://www.taniaksiazka.pl/1001-obrazow-ktore-warto-w-zyciu-zobaczyc-w-2-p-2526479.html",
       "category": "Kultura i sztuka",
       "firstSeen": "2026-10-11T23:39:50.616Z"
+    },
+    "tk794256": {
+      "id": "tk794256",
+      "title": "Wprowadzenie do nauk prawnych. Leksykon tematyczny",
+      "url": "https://www.taniaksiazka.pl/wprowadzenie-do-nauk-prawnych-leksykon-tematyczny-p-794256.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-12T21:17:13.346Z"
+    },
+    "tk2518121": {
+      "id": "tk2518121",
+      "title": "Postępowanie administracyjne i...",
+      "url": "https://www.taniaksiazka.pl/postepowanie-administracyjne-i-p-2518121.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-12T21:17:13.346Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-23T22:17:16.036Z",
-      "total": 400,
-      "new": 10,
-      "failed": 0
-    },
     {
       "at": "2026-07-24T11:16:48.104Z",
       "total": 400,
@@ -24798,7 +24806,13 @@
       "total": 503,
       "new": 1,
       "failed": 0
+    },
+    {
+      "at": "2026-10-12T21:17:13.346Z",
+      "total": 489,
+      "new": 2,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-11T23:39:50.616Z"
+  "lastRun": "2026-10-12T21:17:13.346Z"
 }
