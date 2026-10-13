@@ -23610,15 +23610,100 @@
       "url": "https://www.taniaksiazka.pl/postepowanie-administracyjne-i-p-2518121.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-12T21:17:13.346Z"
+    },
+    "tk2547406": {
+      "id": "tk2547406",
+      "title": "Klątwa Kaliny",
+      "url": "https://www.taniaksiazka.pl/klatwa-kaliny-p-2547406.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547404": {
+      "id": "tk2547404",
+      "title": "The Love We Destroy",
+      "url": "https://www.taniaksiazka.pl/the-love-we-destroy-p-2547404.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547405": {
+      "id": "tk2547405",
+      "title": "Listy pełne marzeń (ilustrowane brzegi)",
+      "url": "https://www.taniaksiazka.pl/listy-pelne-marzen-ilustrowane-brzegi-p-2547405.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547403": {
+      "id": "tk2547403",
+      "title": "Iced Out (Ilustrowane brzegi)",
+      "url": "https://www.taniaksiazka.pl/iced-out-ilustrowane-brzegi-p-2547403.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547402": {
+      "id": "tk2547402",
+      "title": "Darkness and Roses",
+      "url": "https://www.taniaksiazka.pl/darkness-and-roses-p-2547402.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547401": {
+      "id": "tk2547401",
+      "title": "Craving Chaos, The Byrne Brothers. Tom 5",
+      "url": "https://www.taniaksiazka.pl/craving-chaos-p-2547401.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547393": {
+      "id": "tk2547393",
+      "title": "Wiedźma",
+      "url": "https://www.taniaksiazka.pl/wiedzma-p-2547393.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547392": {
+      "id": "tk2547392",
+      "title": "Egzorcyzmy wróżek, Makabryczne realia. Tom 1",
+      "url": "https://www.taniaksiazka.pl/egzorcyzmy-wrozek-p-2547392.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547389": {
+      "id": "tk2547389",
+      "title": "Karol Hanusz. Zmruż oczy i grzesz",
+      "url": "https://www.taniaksiazka.pl/karol-hanusz-zmruz-oczy-i-grzesz-p-2547389.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2545819": {
+      "id": "tk2545819",
+      "title": "Bruksela. Dziękczynne pielgrzymowanie",
+      "url": "https://www.taniaksiazka.pl/bruksela-dziekczynne-pielgrzymowanie-emil-wasacz-p-2545819.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547408": {
+      "id": "tk2547408",
+      "title": "Terapia Biomikroigłowa z wykorzystaniem naturalnych biomikroigieł pochodzenia gąbkowego",
+      "url": "https://www.taniaksiazka.pl/terapia-biomikroiglowa-z-wykorzystaniem-naturalnych-biomikroigiel-pochodzenia-gabkowego-p-2547408.html",
+      "category": "Nauki ścisłe, medycyna",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547414": {
+      "id": "tk2547414",
+      "title": "Ludowa historia polskiego katolicyzmu",
+      "url": "https://www.taniaksiazka.pl/ludowa-historia-polskiego-katolicyzmu-p-2547414.html",
+      "category": "Religia",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk831903": {
+      "id": "tk831903",
+      "title": "Wykładnia prawa",
+      "url": "https://www.taniaksiazka.pl/wykladnia-prawa-maciej-zielinski-p-831903.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-13T19:18:12.282Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-24T11:16:48.104Z",
-      "total": 400,
-      "new": 33,
-      "failed": 0
-    },
     {
       "at": "2026-07-24T14:16:08.981Z",
       "total": 400,
@@ -24812,7 +24897,13 @@
       "total": 489,
       "new": 2,
       "failed": 0
+    },
+    {
+      "at": "2026-10-13T19:18:12.282Z",
+      "total": 484,
+      "new": 13,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-12T21:17:13.346Z"
+  "lastRun": "2026-10-13T19:18:12.282Z"
 }
