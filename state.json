@@ -15021,14 +15021,23 @@
       "url": "https://www.empik.com/tokio-nieoczywiste-aneta-luzenczyk-somers,p1795291439,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-14T17:09:26.366Z"
+    },
+    "p1793696092": {
+      "id": "p1793696092",
+      "title": "Dom Holendrów (barwione brzegi) - Ann Patchett",
+      "url": "https://www.empik.com/dom-holendrow-barwione-brzegi-ann-patchett,p1793696092,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-14T23:13:16.173Z"
+    },
+    "p1803355216": {
+      "id": "p1803355216",
+      "title": "Messalina - Honor Cargill-Martin",
+      "url": "https://www.empik.com/messalina-honor-cargill-martin,p1803355216,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-14T23:13:16.173Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-24T22:29:42.474Z",
-      "total": 372,
-      "new": 0
-    },
     {
       "at": "2026-07-25T10:46:34.381Z",
       "total": 372,
@@ -16023,7 +16032,12 @@
       "at": "2026-10-14T17:09:26.366Z",
       "total": 500,
       "new": 23
+    },
+    {
+      "at": "2026-10-14T23:13:16.173Z",
+      "total": 500,
+      "new": 2
     }
   ],
-  "lastRun": "2026-10-14T17:09:26.366Z"
+  "lastRun": "2026-10-14T23:13:16.173Z"
 }
