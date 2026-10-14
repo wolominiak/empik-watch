@@ -23701,15 +23701,331 @@
       "url": "https://www.taniaksiazka.pl/wykladnia-prawa-maciej-zielinski-p-831903.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-13T19:18:12.282Z"
+    },
+    "tk2547719": {
+      "id": "tk2547719",
+      "title": "Kartoteka 64. Departament Q. Tom 4",
+      "url": "https://www.taniaksiazka.pl/kartoteka-64-departament-q-tom-4-p-2547719.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547718": {
+      "id": "tk2547718",
+      "title": "Wisząca dziewczyna. Departament Q. Tom 6",
+      "url": "https://www.taniaksiazka.pl/wiszaca-dziewczyna-departament-q-tom-6-p-2547718.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547717": {
+      "id": "tk2547717",
+      "title": "Medalion",
+      "url": "https://www.taniaksiazka.pl/medalion-p-2547717.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547716": {
+      "id": "tk2547716",
+      "title": "Kurier",
+      "url": "https://www.taniaksiazka.pl/kurier-p-2547716.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547736": {
+      "id": "tk2547736",
+      "title": "Świąteczna historia Noelle",
+      "url": "https://www.taniaksiazka.pl/swiateczna-historia-noelle-p-2547736.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547728": {
+      "id": "tk2547728",
+      "title": "Psikusy",
+      "url": "https://www.taniaksiazka.pl/psikusy-p-2547728.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547735": {
+      "id": "tk2547735",
+      "title": "Siedem dni cienia",
+      "url": "https://www.taniaksiazka.pl/siedem-dni-cienia-p-2547735.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547734": {
+      "id": "tk2547734",
+      "title": "Madonny z ulicy Polanki. Gdańskie historie. Tom 3",
+      "url": "https://www.taniaksiazka.pl/madonny-z-ulicy-polanki-gdanskie-historie-tom-3-p-2547734.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547733": {
+      "id": "tk2547733",
+      "title": "Bielony kogucik",
+      "url": "https://www.taniaksiazka.pl/bielony-kogucik-p-2547733.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547727": {
+      "id": "tk2547727",
+      "title": "Zdejmij ze mnie strach. Grzeszna Przeszłość",
+      "url": "https://www.taniaksiazka.pl/zdejmij-ze-mnie-strach-grzeszna-przeszlosc-p-2547727.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547732": {
+      "id": "tk2547732",
+      "title": "Legenda o tajemnicy Punktu Pierwotnego",
+      "url": "https://www.taniaksiazka.pl/legenda-o-tajemnicy-punktu-pierwotnego-p-2547732.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547726": {
+      "id": "tk2547726",
+      "title": "Zakochanych Świąt",
+      "url": "https://www.taniaksiazka.pl/zakochanych-swiat-p-2547726.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547725": {
+      "id": "tk2547725",
+      "title": "Córka Świętej. W cieniu przeszłości",
+      "url": "https://www.taniaksiazka.pl/corka-swietej-w-cieniu-przeszlosci-p-2547725.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547724": {
+      "id": "tk2547724",
+      "title": "Odnajdę cię w te święta",
+      "url": "https://www.taniaksiazka.pl/odnajde-cie-w-te-swieta-p-2547724.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547731": {
+      "id": "tk2547731",
+      "title": "Peck & Peck",
+      "url": "https://www.taniaksiazka.pl/peck-peck-p-2547731.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547723": {
+      "id": "tk2547723",
+      "title": "Camilia. Ta jedna noc",
+      "url": "https://www.taniaksiazka.pl/camilia-ta-jedna-noc-p-2547723.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547730": {
+      "id": "tk2547730",
+      "title": "I znowu święta",
+      "url": "https://www.taniaksiazka.pl/i-znowu-swieta-p-2547730.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547722": {
+      "id": "tk2547722",
+      "title": "The Oath We Give. Hollow Boys. Tom 4",
+      "url": "https://www.taniaksiazka.pl/the-oath-we-give-hollow-boys-tom-4-p-2547722.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547729": {
+      "id": "tk2547729",
+      "title": "Opowiadanie ojca",
+      "url": "https://www.taniaksiazka.pl/opowiadanie-ojca-p-2547729.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547421": {
+      "id": "tk2547421",
+      "title": "Anima vilis",
+      "url": "https://www.taniaksiazka.pl/anima-vilis-p-2547421.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547420": {
+      "id": "tk2547420",
+      "title": "Barcikowscy",
+      "url": "https://www.taniaksiazka.pl/barcikowscy-p-2547420.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547419": {
+      "id": "tk2547419",
+      "title": "Atma",
+      "url": "https://www.taniaksiazka.pl/atma-p-2547419.html",
+      "category": "Literatura piękna",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547714": {
+      "id": "tk2547714",
+      "title": "Pirat. Starship. Tom 2",
+      "url": "https://www.taniaksiazka.pl/pirat-starship-tom-2-p-2547714.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547713": {
+      "id": "tk2547713",
+      "title": "Ostateczne rozwiązanie",
+      "url": "https://www.taniaksiazka.pl/ostateczne-rozwiazanie-p-2547713.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547712": {
+      "id": "tk2547712",
+      "title": "Nawigatorzy Diuny. Wielkie szkoły Diuny. Tom 3",
+      "url": "https://www.taniaksiazka.pl/nawigatorzy-diuny-wielkie-szkoly-diuny-tom-3-p-2547712.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547711": {
+      "id": "tk2547711",
+      "title": "Nocne Związki. Tom 2",
+      "url": "https://www.taniaksiazka.pl/nocne-zwiazki-tom-2-p-2547711.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547710": {
+      "id": "tk2547710",
+      "title": "Dziedziczka Jasadu (ilustrowane brzegi)",
+      "url": "https://www.taniaksiazka.pl/dziedziczka-jasadu-ilustrowane-brzegi-p-2547710.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547707": {
+      "id": "tk2547707",
+      "title": "Rok pełen marzeń (ilustrowane brzegi)",
+      "url": "https://www.taniaksiazka.pl/rok-pelen-marzen-ilustrowane-brzegi-p-2547707.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547706": {
+      "id": "tk2547706",
+      "title": "Czarodziejski statek. Kupcy i ich żywostatki. Tom 1",
+      "url": "https://www.taniaksiazka.pl/czarodziejski-statek-trylogia-kupcy-i-ich-zywostatki-tom-1-p-2547706.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547721": {
+      "id": "tk2547721",
+      "title": "Ogród duchów. Wewnątrz świata schizofrenii",
+      "url": "https://www.taniaksiazka.pl/ogrod-duchow-wewnatrz-swiata-schizofrenii-p-2547721.html",
+      "category": "Literatura faktu, reportaż",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547701": {
+      "id": "tk2547701",
+      "title": "Niewidzialna pani Orwell",
+      "url": "https://www.taniaksiazka.pl/niewidzialna-pani-orwell-p-2547701.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547700": {
+      "id": "tk2547700",
+      "title": "Born Human. Chuck Schuldiner życie i muzyka",
+      "url": "https://www.taniaksiazka.pl/born-human-chuck-schuldiner-zycie-i-muzyka-p-2547700.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547702": {
+      "id": "tk2547702",
+      "title": "Dobre życie nie spada z nieba",
+      "url": "https://www.taniaksiazka.pl/dobre-zycie-nie-spada-z-nieba-p-2547702.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547699": {
+      "id": "tk2547699",
+      "title": "Człowiek z pamięci. Biografia Andrzeja Wajdy",
+      "url": "https://www.taniaksiazka.pl/czlowiek-z-pamieci-biografia-andrzeja-wajdy-p-2547699.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547698": {
+      "id": "tk2547698",
+      "title": "Umiałam żyć. Biografia Stefanii Grodzieńskiej",
+      "url": "https://www.taniaksiazka.pl/umialam-zyc-biografia-stefanii-grodzienskiej-p-2547698.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2546189": {
+      "id": "tk2546189",
+      "title": "Wódz i prorok. Jak zaczął się spór o polską politykę",
+      "url": "https://www.taniaksiazka.pl/wodz-i-prorok-jak-zaczal-sie-spor-o-polska-polityke-jozef-pilsudski-p-2546189.html",
+      "category": "Historia",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547740": {
+      "id": "tk2547740",
+      "title": "Edukacja domowa. Dasz sobie radę lepiej, niż myślisz",
+      "url": "https://www.taniaksiazka.pl/edukacja-domowa-dasz-sobie-rade-lepiej-niz-myslisz-p-2547740.html",
+      "category": "Nauki humanistyczne",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2516103": {
+      "id": "tk2516103",
+      "title": "Trening twórczości",
+      "url": "https://www.taniaksiazka.pl/trening-tworczosci-p-2516103.html",
+      "category": "Nauki humanistyczne",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk1334211": {
+      "id": "tk1334211",
+      "title": "Państwo",
+      "url": "https://www.taniaksiazka.pl/panstwo-platon-p-1334211.html",
+      "category": "Nauki humanistyczne",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2021700": {
+      "id": "tk2021700",
+      "title": "Podstawy automatyki. Tom 1",
+      "url": "https://www.taniaksiazka.pl/podstawy-automatyki-t-1-janusz-kowal-p-2021700.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk316410": {
+      "id": "tk316410",
+      "title": "Fonetyka i fonologia współczesnego języka polskiego",
+      "url": "https://www.taniaksiazka.pl/fonetyka-i-fonologia-wspolczesnego-jezyka-polskiego-danuta-ostaszewska-p-316410.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547744": {
+      "id": "tk2547744",
+      "title": "99 sposobów na piękne włosy",
+      "url": "https://www.taniaksiazka.pl/99-sposobow-na-piekne-wlosy-p-2547744.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547882": {
+      "id": "tk2547882",
+      "title": "Łamigłówki dla seniorów",
+      "url": "https://www.taniaksiazka.pl/lamiglowki-dla-seniorow-p-2547882.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547881": {
+      "id": "tk2547881",
+      "title": "Mózg w formie. Zagadki i łamigłówki na pamięć i koncentrację dla dorosłych",
+      "url": "https://www.taniaksiazka.pl/mozg-w-formie-zagadki-i-lamiglowki-na-pamiec-p-2547881.html",
+      "category": "Poradniki",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2547743": {
+      "id": "tk2547743",
+      "title": "Tajlandia. Więcej niż raj",
+      "url": "https://www.taniaksiazka.pl/tajlandia-wiecej-niz-raj-p-2547743.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
+    },
+    "tk2529498": {
+      "id": "tk2529498",
+      "title": "Paryż. CITYbreak",
+      "url": "https://www.taniaksiazka.pl/paryz-citybreak-p-2529498.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-10-14T17:11:06.950Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-24T17:55:10.208Z",
-      "total": 400,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-24T22:30:17.513Z",
       "total": 400,
@@ -24903,7 +25219,13 @@
       "total": 482,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-14T17:11:06.950Z",
+      "total": 470,
+      "new": 46,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-13T23:45:01.729Z"
+  "lastRun": "2026-10-14T17:11:06.950Z"
 }
