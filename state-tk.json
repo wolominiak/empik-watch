@@ -24513,15 +24513,23 @@
       "url": "https://www.taniaksiazka.pl/autyzm-poza-rama-o-dzieciach-ktore-sobie-radza-p-2548172.html",
       "category": "Poradniki",
       "firstSeen": "2026-10-16T16:40:24.678Z"
+    },
+    "tk2255593": {
+      "id": "tk2255593",
+      "title": "Prawo karne. Wykład części ogólnej",
+      "url": "https://www.taniaksiazka.pl/prawo-karne-wyklad-czesci-ogolnej-w-5-2025-p-2255593.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-16T22:51:33.293Z"
+    },
+    "tk2495433": {
+      "id": "tk2495433",
+      "title": "System prawa międzynarodowego publicznego",
+      "url": "https://www.taniaksiazka.pl/system-prawa-miedzynarodowego-publicznego-p-2495433.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-16T22:51:33.293Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-25T17:14:54.557Z",
-      "total": 409,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-25T21:09:25.060Z",
       "total": 409,
@@ -25715,7 +25723,13 @@
       "total": 468,
       "new": 23,
       "failed": 0
+    },
+    {
+      "at": "2026-10-16T22:51:33.293Z",
+      "total": 466,
+      "new": 2,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-16T16:40:24.678Z"
+  "lastRun": "2026-10-16T22:51:33.293Z"
 }
