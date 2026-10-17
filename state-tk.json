@@ -24779,15 +24779,16 @@
       "url": "https://www.taniaksiazka.pl/kultura-wzrostu-o-powstaniu-nowoczesnej-gospodarki-p-2548602.html",
       "category": "Biznes",
       "firstSeen": "2026-10-17T15:34:37.370Z"
+    },
+    "tk838458": {
+      "id": "tk838458",
+      "title": "Leki w ratownictwie medycznym",
+      "url": "https://www.taniaksiazka.pl/leki-w-ratownictwie-medycznym-marcin-zawadzki-p-838458.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-17T22:18:13.013Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-26T17:15:47.660Z",
-      "total": 410,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-26T21:12:10.653Z",
       "total": 410,
@@ -25981,7 +25982,13 @@
       "total": 479,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-17T22:18:13.013Z",
+      "total": 479,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-17T18:30:44.799Z"
+  "lastRun": "2026-10-17T22:18:13.013Z"
 }
