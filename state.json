@@ -15385,14 +15385,79 @@
       "url": "https://www.empik.com/nad-brzegiem-niepamieci-wierzchowska-weronika,p1793290649,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-16T16:38:25.748Z"
+    },
+    "p1766983956": {
+      "id": "p1766983956",
+      "title": "Wiedźma z piekła. Głowa rodziny. Tom 2 - Jadowska Aneta",
+      "url": "https://www.empik.com/wiedzma-z-piekla-jadowska-aneta,p1766983956,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1766929921": {
+      "id": "p1766929921",
+      "title": "Zapomniana siostra - Mortka Marcin",
+      "url": "https://www.empik.com/nowy-kociolek-mortka-marcin,p1766929921,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1798939266": {
+      "id": "p1798939266",
+      "title": "All the Lies - S.T. Abby",
+      "url": "https://www.empik.com/all-the-lies-s-t-abby,p1798939266,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1784801276": {
+      "id": "p1784801276",
+      "title": "Człowiek, którego nie było - Wyżga Patrycjusz",
+      "url": "https://www.empik.com/czlowiek-ktorego-nie-bylo-wyzga-patrycjusz,p1784801276,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1798910474": {
+      "id": "p1798910474",
+      "title": "Echoes - Steph Macca",
+      "url": "https://www.empik.com/echoes-steph-macca,p1798910474,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1808394140": {
+      "id": "p1808394140",
+      "title": "MROK. Mroczne Opowieści - Kościelny Piotr",
+      "url": "https://www.empik.com/mrok-mroczne-opowiesci-koscielny-piotr,p1808394140,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1766117553": {
+      "id": "p1766117553",
+      "title": "Zakładnicy czasu - Botor Angelika",
+      "url": "https://www.empik.com/zakladnicy-czasu-botor-angelika,p1766117553,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1785846586": {
+      "id": "p1785846586",
+      "title": "Teoria drzewa wiśni - Richard Pink, Roxanne Pink",
+      "url": "https://www.empik.com/teoria-wisniowego-drzewka-richard-pink-roxanne-pink,p1785846586,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1798382848": {
+      "id": "p1798382848",
+      "title": "Einstein - Jim Ottaviani, Jerel Dye",
+      "url": "https://www.empik.com/einstein-jim-ottaviani-jerel-dye,p1798382848,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1799860121": {
+      "id": "p1799860121",
+      "title": "Mózg w formie. Zagadki i łamigłówki na pamięć i koncentrację dla dorosłych - Ilona Bidzan-Bluma",
+      "url": "https://www.empik.com/mozg-w-formie-zagadki-i-lamiglowki-na-pamiec-i-koncentracje-dla-doroslych-ilona-bidzan-bluma,p1799860121,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-17T15:33:25.652Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-25T21:08:49.448Z",
-      "total": 372,
-      "new": 0
-    },
     {
       "at": "2026-07-26T13:56:00.788Z",
       "total": 368,
@@ -16387,7 +16452,12 @@
       "at": "2026-10-16T22:50:51.735Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-10-17T15:33:25.652Z",
+      "total": 500,
+      "new": 10
     }
   ],
-  "lastRun": "2026-10-16T22:50:51.735Z"
+  "lastRun": "2026-10-17T15:33:25.652Z"
 }
