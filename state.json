@@ -15455,14 +15455,65 @@
       "url": "https://www.empik.com/mozg-w-formie-zagadki-i-lamiglowki-na-pamiec-i-koncentracje-dla-doroslych-ilona-bidzan-bluma,p1799860121,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-17T15:33:25.652Z"
+    },
+    "p1797875031": {
+      "id": "p1797875031",
+      "title": "Dziesięć zimowych wieczorów. Opowiadania - Ola Rochowiak, Rejnów Julita, Prusinowska Edyta, Muraszka Aleksandra, M.B. Mann, Maria Lichoń, Oktawia Kain, Brylewska Julia, Bijan Marta, Karolina Barbrich",
+      "url": "https://www.empik.com/dziesiec-zimowych-wieczorow-opowiadania-ola-rochowiak-rejnow-julita-prusinowska-edyta-muraszka-aleksandra-m-b-mann-maria-lichon-oktaw,p1797875031,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1808887783": {
+      "id": "p1808887783",
+      "title": "Zanim wystygnie kawa (wydanie specjalne) - Kawaguchi Toshikazu",
+      "url": "https://www.empik.com/wydanie-swiateczne-zanim-wystygnie-kawa-kawaguchi-toshikazu,p1808887783,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1807363903": {
+      "id": "p1807363903",
+      "title": "The Love We Destroy - Emilia Sroka",
+      "url": "https://www.empik.com/the-love-we-destroy-emilia-sroka,p1807363903,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1790607778": {
+      "id": "p1790607778",
+      "title": "Zmysłowa piękność słowa - Cygan Jacek",
+      "url": "https://www.empik.com/moje-piosenki-cygan-jacek,p1790607778,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1807796776": {
+      "id": "p1807796776",
+      "title": "Szklarki - Petra Durst-Benning",
+      "url": "https://www.empik.com/szklarki-petra-durst-benning,p1807796776,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1785551323": {
+      "id": "p1785551323",
+      "title": "LEGO Books. Świąteczna przygoda - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/lego-books-swiateczna-przygoda-opracowanie-zbiorowe,p1785551323,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1786963190": {
+      "id": "p1786963190",
+      "title": "Świat autystycznych kobiet i dziewcząt. Dlaczego ich odmienność sprawia, że są najlepszą wersją siebie - Mannherz Manon, Ditrich Ismene, Koentges Christa",
+      "url": "https://www.empik.com/swiat-kobiet-i-dziewczat-z-autyzmem-dlaczego-ich-odmiennosc-sprawia-ze-sa-najlepsza-wersja-siebie-mannherz-manon-ditrich-ismene-koentges-christa,p1786963190,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1792372803": {
+      "id": "p1792372803",
+      "title": "Szklany klosz - Plath Sylvia",
+      "url": "https://www.empik.com/szklany-klosz-plath-sylvia,p1792372803,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T15:51:37.685Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-26T21:11:33.863Z",
-      "total": 363,
-      "new": 0
-    },
     {
       "at": "2026-07-27T15:13:24.107Z",
       "total": 398,
@@ -16457,7 +16508,12 @@
       "at": "2026-10-17T22:17:26.507Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-10-18T15:51:37.685Z",
+      "total": 500,
+      "new": 8
     }
   ],
-  "lastRun": "2026-10-17T22:17:26.507Z"
+  "lastRun": "2026-10-18T15:51:37.685Z"
 }
