@@ -24940,15 +24940,30 @@
       "url": "https://www.taniaksiazka.pl/dobroteka-ziarna-pozytywnosci-p-2549210.html",
       "category": "Poradniki",
       "firstSeen": "2026-10-18T15:52:42.801Z"
+    },
+    "tk2293297": {
+      "id": "tk2293297",
+      "title": "Logika praktyczna z elementami argumentacji..",
+      "url": "https://www.taniaksiazka.pl/logika-praktyczna-z-elementami-argumentacji-prawniczej-testy-online-p-2293297.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-18T22:26:10.717Z"
+    },
+    "tk2074888": {
+      "id": "tk2074888",
+      "title": "Prawo ochrony środowiska. Przed egzaminem",
+      "url": "https://www.taniaksiazka.pl/prawo-ochrony-srodowiska-przed-egzaminem-anna-barczak-p-2074888.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-18T22:26:10.717Z"
+    },
+    "tk424058": {
+      "id": "tk424058",
+      "title": "Anatomia człowieka. 1200 pytań testowych jednokrotnego wyboru",
+      "url": "https://www.taniaksiazka.pl/anatomia-czlowieka-1200-pytan-testowych-jednokrotnego-wyboru-florian-czerwinski-p-424058.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-18T22:26:10.717Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-27T17:55:43.868Z",
-      "total": 403,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-27T21:30:06.424Z",
       "total": 403,
@@ -26142,7 +26157,13 @@
       "total": 496,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-10-18T22:26:10.717Z",
+      "total": 496,
+      "new": 3,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-18T18:38:31.801Z"
+  "lastRun": "2026-10-18T22:26:10.717Z"
 }

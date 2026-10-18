@@ -15511,14 +15511,16 @@
       "url": "https://www.empik.com/szklany-klosz-plath-sylvia,p1792372803,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-18T15:51:37.685Z"
+    },
+    "p1808312562": {
+      "id": "p1808312562",
+      "title": "Indie Od najstarszej cywilizacji do największej demokracji - John Zubrzycki",
+      "url": "https://www.empik.com/indie-od-najstarszej-cywilizacji-do-najwiekszej-demokracji-john-zubrzycki,p1808312562,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-18T22:25:24.387Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-27T17:55:03.591Z",
-      "total": 399,
-      "new": 1
-    },
     {
       "at": "2026-07-27T21:29:29.801Z",
       "total": 399,
@@ -16513,7 +16515,12 @@
       "at": "2026-10-18T18:37:46.539Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-10-18T22:25:24.387Z",
+      "total": 500,
+      "new": 1
     }
   ],
-  "lastRun": "2026-10-18T18:37:46.539Z"
+  "lastRun": "2026-10-18T22:25:24.387Z"
 }
