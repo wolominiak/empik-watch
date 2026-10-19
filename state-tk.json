@@ -24961,15 +24961,16 @@
       "url": "https://www.taniaksiazka.pl/anatomia-czlowieka-1200-pytan-testowych-jednokrotnego-wyboru-florian-czerwinski-p-424058.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-18T22:26:10.717Z"
+    },
+    "tk2548427": {
+      "id": "tk2548427",
+      "title": "Paradoks świąt. Książkowy Kalendarz Adwentowy. Wydanie specjalne",
+      "url": "https://www.taniaksiazka.pl/paradoks-swiat-ksiazkowy-kalendarz-adwentowy-wydanie-specjalne-p-2548427.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-19T18:43:28.141Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-27T21:30:06.424Z",
-      "total": 403,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-28T14:37:36.110Z",
       "total": 406,
@@ -26163,7 +26164,13 @@
       "total": 496,
       "new": 3,
       "failed": 0
+    },
+    {
+      "at": "2026-10-19T18:43:28.141Z",
+      "total": 493,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-18T22:26:10.717Z"
+  "lastRun": "2026-10-19T18:43:28.141Z"
 }

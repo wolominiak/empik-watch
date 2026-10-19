@@ -15518,14 +15518,37 @@
       "url": "https://www.empik.com/indie-od-najstarszej-cywilizacji-do-najwiekszej-demokracji-john-zubrzycki,p1808312562,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-18T22:25:24.387Z"
+    },
+    "p1802333077": {
+      "id": "p1802333077",
+      "title": "Łamigłówki dla seniorów - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/lamiglowki-dla-seniorow-opracowanie-zbiorowe,p1802333077,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-19T18:42:28.444Z"
+    },
+    "p1786953069": {
+      "id": "p1786953069",
+      "title": "Co przyniesie nam wiatr. Mazurska lecznica - Dominika Szymanowska",
+      "url": "https://www.empik.com/co-przyniesie-nam-wiatr-mazurska-lecznica-dominika-szymanowska,p1786953069,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-19T18:42:28.444Z"
+    },
+    "p1771633879": {
+      "id": "p1771633879",
+      "title": "Mikołajek zanim został Mikołajem Kopernikiem - Wioletta Piasecka, Piasecki Sebastian",
+      "url": "https://www.empik.com/mikolajek-zanim-zostal-mikolajem-kopernikiem-wioletta-piasecka-piasecki-sebastian,p1771633879,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-19T18:42:28.444Z"
+    },
+    "p1767848915": {
+      "id": "p1767848915",
+      "title": "Czarodziejski statek. Kupcy i ich żywostatki. Tom 1 - Hobb Robin",
+      "url": "https://www.empik.com/czarodziejski-statek-kupcy-i-ich-zywostatki-tom-1-hobb-robin,p1767848915,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-19T18:42:28.444Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-27T21:29:29.801Z",
-      "total": 399,
-      "new": 0
-    },
     {
       "at": "2026-07-28T14:36:46.144Z",
       "total": 471,
@@ -16520,7 +16543,12 @@
       "at": "2026-10-18T22:25:24.387Z",
       "total": 500,
       "new": 1
+    },
+    {
+      "at": "2026-10-19T18:42:28.444Z",
+      "total": 500,
+      "new": 4
     }
   ],
-  "lastRun": "2026-10-18T22:25:24.387Z"
+  "lastRun": "2026-10-19T18:42:28.444Z"
 }
