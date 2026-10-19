@@ -24968,15 +24968,30 @@
       "url": "https://www.taniaksiazka.pl/paradoks-swiat-ksiazkowy-kalendarz-adwentowy-wydanie-specjalne-p-2548427.html",
       "category": "Literatura obyczajowa",
       "firstSeen": "2026-10-19T18:43:28.141Z"
+    },
+    "tk2547708": {
+      "id": "tk2547708",
+      "title": "Odłamki Ziemi. Ostateczna Architektura. Tom 1",
+      "url": "https://www.taniaksiazka.pl/odlamki-ziemii-cykl-ostateczna-architektura-tom-1-p-2547708.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-19T23:41:07.104Z"
+    },
+    "tk329750": {
+      "id": "tk329750",
+      "title": "Wstęp do prawoznawstwa. Testy egzaminacyjne",
+      "url": "https://www.taniaksiazka.pl/wstep-do-prawoznawstwa-testy-egzaminacyjne-andrzej-bator-p-329750.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-19T23:41:07.104Z"
+    },
+    "tk1516148": {
+      "id": "tk1516148",
+      "title": "Wybrane zagadnienia teorii i filozofii prawa",
+      "url": "https://www.taniaksiazka.pl/wybrane-zagadnienia-teorii-i-filozofii-prawa-artur-kotowski-p-1516148.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-19T23:41:07.104Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-28T14:37:36.110Z",
-      "total": 406,
-      "new": 29,
-      "failed": 0
-    },
     {
       "at": "2026-07-28T17:46:03.641Z",
       "total": 406,
@@ -26170,7 +26185,13 @@
       "total": 493,
       "new": 1,
       "failed": 0
+    },
+    {
+      "at": "2026-10-19T23:41:07.104Z",
+      "total": 492,
+      "new": 3,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-19T18:43:28.141Z"
+  "lastRun": "2026-10-19T23:41:07.104Z"
 }
