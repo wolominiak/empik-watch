@@ -15546,14 +15546,93 @@
       "url": "https://www.empik.com/czarodziejski-statek-kupcy-i-ich-zywostatki-tom-1-hobb-robin,p1767848915,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-19T18:42:28.444Z"
+    },
+    "p1792383377": {
+      "id": "p1792383377",
+      "title": "Niedokończona melodia - Gargaś Gabriela",
+      "url": "https://www.empik.com/niedokonczona-melodia-gargas-gabriela,p1792383377,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1809977579": {
+      "id": "p1809977579",
+      "title": "Spiced Cocoa Café. W święta między ludźmi zaczyna iskrzyć - Graham Harper",
+      "url": "https://www.empik.com/spiced-cocoa-cafe-w-swieta-miedzy-ludzmi-zaczyna-iskrzyc-graham-harper,p1809977579,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1807461658": {
+      "id": "p1807461658",
+      "title": "Autyzm poza ramą. O dzieciach, które sobie radzą do momentu, kiedy przestają - Głaziewicz Karolina, Golonka-Fraś Anna",
+      "url": "https://www.empik.com/autyzm-poza-rama-o-dzieciach-ktore-sobie-radza-do-momentu-kiedy-przestaja-glaziewicz-karolina,p1807461658,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1779250991": {
+      "id": "p1779250991",
+      "title": "Freddie Mercury. Życie w słowach. Oficjalne artystyczne dziedzictwo na podstawie nieznanych osobistych archiwów i zbiorów - Mercury Freddie, Mary Austin",
+      "url": "https://www.empik.com/a-life-in-lyrics-the-official-creative-legacy-of-freddie-mercury-based-on-his-unseen-personal-arch-mercury-freddie-mary-austin,p1779250991,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1810076964": {
+      "id": "p1810076964",
+      "title": "Słowiański przewodnik. Dziennik na cały rok - Stasiak Anna",
+      "url": "https://www.empik.com/slowianski-przewodnik-dziennik-na-caly-rok-stasiak-anna,p1810076964,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1779040215": {
+      "id": "p1779040215",
+      "title": "Utracona nadzieja - Czarnecka Elżbieta",
+      "url": "https://www.empik.com/utracona-nadzieja-czarnecka-elzbieta,p1779040215,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1794750102": {
+      "id": "p1794750102",
+      "title": "Zakurzone dziecko - Machulski Juliusz",
+      "url": "https://www.empik.com/zakurzone-dziecko-machulski-juliusz,p1794750102,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1796250314": {
+      "id": "p1796250314",
+      "title": "W poszukiwaniu skrajności - Stewart Ian",
+      "url": "https://www.empik.com/w-poszukiwaniu-skrajnosci-stewart-ian,p1796250314,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1784806387": {
+      "id": "p1784806387",
+      "title": "Pakiet: Bezimienny - Chmielarz Wojciech",
+      "url": "https://www.empik.com/pakiet-bezimienny-chmielarz-wojciech,p1784806387,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1793187008": {
+      "id": "p1793187008",
+      "title": "Opowieść Wigilijna - Dickens Charles",
+      "url": "https://www.empik.com/opowiesc-wigilijna-dickens-charles,p1793187008,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1767477124": {
+      "id": "p1767477124",
+      "title": "Born Human. Chuck Schuldiner. Życie i muzyka. - Gehlke David",
+      "url": "https://www.empik.com/born-human-chuck-schuldiner-zycie-i-muzyka-gehlke-david,p1767477124,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1785382884": {
+      "id": "p1785382884",
+      "title": "Wszystkie kolory kryptonitu. Superman - W. Maxwell Prince, Morazzo Martin",
+      "url": "https://www.empik.com/wszystkie-kolory-kryptonitu-superman-w-maxwell-prince-morazzo-martin,p1785382884,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T17:02:19.165Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-28T17:45:00.967Z",
-      "total": 476,
-      "new": 6
-    },
     {
       "at": "2026-07-28T21:31:17.746Z",
       "total": 478,
@@ -16548,7 +16627,12 @@
       "at": "2026-10-19T23:40:25.778Z",
       "total": 500,
       "new": 0
+    },
+    {
+      "at": "2026-10-20T17:02:19.165Z",
+      "total": 500,
+      "new": 12
     }
   ],
-  "lastRun": "2026-10-19T23:40:25.778Z"
+  "lastRun": "2026-10-20T17:02:19.165Z"
 }

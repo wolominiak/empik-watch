@@ -24989,15 +24989,107 @@
       "url": "https://www.taniaksiazka.pl/wybrane-zagadnienia-teorii-i-filozofii-prawa-artur-kotowski-p-1516148.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-10-19T23:41:07.104Z"
+    },
+    "tk2549756": {
+      "id": "tk2549756",
+      "title": "Niebo i ziemię",
+      "url": "https://www.taniaksiazka.pl/niebo-i-ziemie-p-2549756.html",
+      "category": "Kryminał, sensacja, thriller",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549770": {
+      "id": "tk2549770",
+      "title": "Cud pod Śnieżną Górą",
+      "url": "https://www.taniaksiazka.pl/cud-pod-sniezna-gora-p-2549770.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549769": {
+      "id": "tk2549769",
+      "title": "Tam, gdzie kończy się noc",
+      "url": "https://www.taniaksiazka.pl/tam-gdzie-konczy-sie-noc-p-2549769.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549768": {
+      "id": "tk2549768",
+      "title": "Echoes",
+      "url": "https://www.taniaksiazka.pl/echoes-p-2549768.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549767": {
+      "id": "tk2549767",
+      "title": "Umbra. Cena pożądania",
+      "url": "https://www.taniaksiazka.pl/umbra-cena-pozadania-p-2549767.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549766": {
+      "id": "tk2549766",
+      "title": "Visible Obsession",
+      "url": "https://www.taniaksiazka.pl/visible-obsession-p-2549766.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549765": {
+      "id": "tk2549765",
+      "title": "All the Lies",
+      "url": "https://www.taniaksiazka.pl/all-the-lies-p-2549765.html",
+      "category": "Literatura obyczajowa",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549754": {
+      "id": "tk2549754",
+      "title": "Pakiet Kroniki Diuny",
+      "url": "https://www.taniaksiazka.pl/pakiet-kroniki-diuny-p-2549754.html",
+      "category": "Fantastyka",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549753": {
+      "id": "tk2549753",
+      "title": "Pożrekadlo. Dom Rodomiłów. Tom 6",
+      "url": "https://www.taniaksiazka.pl/pozrekadlo-dom-rodomilow-tom-6-p-2549753.html",
+      "category": "Young adult",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549762": {
+      "id": "tk2549762",
+      "title": "Podwórko bez trzepaka. Reportaże z dzieciństwa",
+      "url": "https://www.taniaksiazka.pl/podworko-bez-trzepaka-reportaze-z-dziecinstwa-p-2549762.html",
+      "category": "Literatura faktu, reportaż",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549761": {
+      "id": "tk2549761",
+      "title": "Pakiet noblowski. Ostatni świadkowie / Cynkowi chłopcy",
+      "url": "https://www.taniaksiazka.pl/pakiet-noblowski-ostatni-swiadkowie-cynkowi-chlopcy-p-2549761.html",
+      "category": "Literatura faktu, reportaż",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549751": {
+      "id": "tk2549751",
+      "title": "Puenty wam nie zdradzę. Małgorzata Rożniatowska w rozmowie z Bereniką Steinberg",
+      "url": "https://www.taniaksiazka.pl/puenty-wam-nie-zdradze-malgorzata-rozniatowska-w-rozmowie-z-berenika-steinberg-p-2549751.html",
+      "category": "Biografie",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549797": {
+      "id": "tk2549797",
+      "title": "Rachunek sumienia dla pragnących uzdrowienia wewnętrznego",
+      "url": "https://www.taniaksiazka.pl/rachunek-sumienia-dla-pragnacych-uzdrowienia-wewnetrznego-p-2549797.html",
+      "category": "Religia",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk2549793": {
+      "id": "tk2549793",
+      "title": "Beskid Myślenicki 2. Przewodnik kulturowy",
+      "url": "https://www.taniaksiazka.pl/beskid-myslenicki-2-przewodnik-kulturowy-p-2549793.html",
+      "category": "Podróże i turystyka",
+      "firstSeen": "2026-10-20T17:03:30.015Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-28T17:46:03.641Z",
-      "total": 406,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-28T21:32:13.417Z",
       "total": 406,
@@ -26191,7 +26283,13 @@
       "total": 492,
       "new": 3,
       "failed": 0
+    },
+    {
+      "at": "2026-10-20T17:03:30.015Z",
+      "total": 486,
+      "new": 14,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-19T23:41:07.104Z"
+  "lastRun": "2026-10-20T17:03:30.015Z"
 }
