@@ -25087,15 +25087,37 @@
       "url": "https://www.taniaksiazka.pl/beskid-myslenicki-2-przewodnik-kulturowy-p-2549793.html",
       "category": "Podróże i turystyka",
       "firstSeen": "2026-10-20T17:03:30.015Z"
+    },
+    "tk990958": {
+      "id": "tk990958",
+      "title": "Terapia przez pisanie",
+      "url": "https://www.taniaksiazka.pl/terapia-przez-pisanie-james-pennebaker-p-990958.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-20T23:11:42.775Z"
+    },
+    "tk2220832": {
+      "id": "tk2220832",
+      "title": "Proces karny bez tajemnic. Testy, zadania, kazusy z odpowiedziami",
+      "url": "https://www.taniaksiazka.pl/proces-karny-bez-tajemnic-testy-zadania-kazusy-z-odpowiedziami-p-2220832.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-20T23:11:42.775Z"
+    },
+    "tk832460": {
+      "id": "tk832460",
+      "title": "Zadania z matematyki wyższej. Część 1",
+      "url": "https://www.taniaksiazka.pl/zadania-z-matematyki-wyzszej-czesc-1-roman-leitner-p-832460.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-20T23:11:42.775Z"
+    },
+    "tk416769": {
+      "id": "tk416769",
+      "title": "Mikroekonomia. Kurs średni - ujęcie nowoczesne",
+      "url": "https://www.taniaksiazka.pl/mikroekonomia-kurs-sredni-ujecie-nowoczesne-hal-varian-p-416769.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-20T23:11:42.775Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-28T21:32:13.417Z",
-      "total": 406,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-29T14:32:16.908Z",
       "total": 410,
@@ -26289,7 +26311,13 @@
       "total": 486,
       "new": 14,
       "failed": 0
+    },
+    {
+      "at": "2026-10-20T23:11:42.775Z",
+      "total": 484,
+      "new": 4,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-20T17:03:30.015Z"
+  "lastRun": "2026-10-20T23:11:42.775Z"
 }

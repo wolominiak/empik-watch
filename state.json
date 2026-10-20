@@ -15630,14 +15630,58 @@
       "url": "https://www.empik.com/wszystkie-kolory-kryptonitu-superman-w-maxwell-prince-morazzo-martin,p1785382884,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-20T17:02:19.165Z"
+    },
+    "p1785876240": {
+      "id": "p1785876240",
+      "title": "Morally Grey. Kolorowanka dark romantasy - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/miedzy-dobrem-a-zlem-kolorowanka-dark-romantasy-dla-mlodziezy-i-doroslych-opracowanie-zbiorowe,p1785876240,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1786153331": {
+      "id": "p1786153331",
+      "title": "Już prawie Gwiazdka! - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/juz-prawie-gwiazdka-opracowanie-zbiorowe,p1786153331,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1649079444": {
+      "id": "p1649079444",
+      "title": "Odłamki ziemi. Ostateczna Architektura. Tom 1 - Tchaikovsky Adrian",
+      "url": "https://www.empik.com/odlamki-ziemi-ostateczna-architektura-tom-1-tchaikovsky-adrian,p1649079444,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1785552058": {
+      "id": "p1785552058",
+      "title": "LEGO. Niezwykłe opowieści o smokach. Jinlong - Helen H. Wu",
+      "url": "https://www.empik.com/lego-niezwykle-opowiesci-o-smokach-jinlong-helen-h-wu,p1785552058,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1793257060": {
+      "id": "p1793257060",
+      "title": "Gwiazdka - Cholewińska-Szkolik Aniela",
+      "url": "https://www.empik.com/gwiazdka-cholewinska-szkolik-aniela,p1793257060,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1781908541": {
+      "id": "p1781908541",
+      "title": "Tygrys, mysz i poziomka. 60 opowieści zen - Zenda Yuki",
+      "url": "https://www.empik.com/tygrys-mysz-i-poziomka-zenda-yuki,p1781908541,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
+    },
+    "p1807528935": {
+      "id": "p1807528935",
+      "title": "Rok Pełen Marzeń. Wydanie Specjalne - Claudia Pendel",
+      "url": "https://www.empik.com/rok-pelen-marzen-wydanie-specjalne-claudia-pendel,p1807528935,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-20T23:10:38.435Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-28T21:31:17.746Z",
-      "total": 478,
-      "new": 2
-    },
     {
       "at": "2026-07-29T14:31:05.662Z",
       "total": 481,
@@ -16632,7 +16676,12 @@
       "at": "2026-10-20T17:02:19.165Z",
       "total": 500,
       "new": 12
+    },
+    {
+      "at": "2026-10-20T23:10:38.435Z",
+      "total": 500,
+      "new": 7
     }
   ],
-  "lastRun": "2026-10-20T17:02:19.165Z"
+  "lastRun": "2026-10-20T23:10:38.435Z"
 }
