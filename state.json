@@ -15924,14 +15924,65 @@
       "url": "https://www.empik.com/drugie-zycie-mirielle-west-amanda-skenandore,p1771600215,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-21T17:11:01.126Z"
+    },
+    "p1798409570": {
+      "id": "p1798409570",
+      "title": "Pakiet: Obserwuj mnie/ Uwolnij mnie - Tahereh Mafi",
+      "url": "https://www.empik.com/pakiet-obserwuj-mnie-uwolnij-mnie-tahereh-mafi,p1798409570,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1779044187": {
+      "id": "p1779044187",
+      "title": "Mistyczne Koło Roku. Astrologia, rytuały i magia natury, które odkrywają jak żyć w zgodzie z naturalnym rytmem Ziemi - Borell Verena, Butendeich Chiara",
+      "url": "https://www.empik.com/mistyczne-kolo-roku-astrologia-rytualy-i-magia-natury-ktore-odkrywaja-jak-zyc-w-zgodzie-z-natural-borell-verena-butendeich-chiara,p1779044187,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1797944827": {
+      "id": "p1797944827",
+      "title": "Nazywam się Romane Monnier - De Vigan Delphine",
+      "url": "https://www.empik.com/nazywam-sie-romane-monnier-de-vigan-delphine,p1797944827,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1809996583": {
+      "id": "p1809996583",
+      "title": "Pakiet: Dom bez klamek / Roztopy / Czerwony świt / Kłamczuch - Pasierski Jędrzej",
+      "url": "https://www.empik.com/pakiet-dom-bez-klamek-roztopy-czerwony-swit-klamczuch-pasierski-jedrzej,p1809996583,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1807832917": {
+      "id": "p1807832917",
+      "title": "To ja, Szpilka. Republika „Gdyby” - Ciszewski Marcin",
+      "url": "https://www.empik.com/to-ja-szpilka-republika-gdyby-ciszewski-marcin,p1807832917,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1796758108": {
+      "id": "p1796758108",
+      "title": "Niemiecki. Fiszki PLUS 1000 najważniejszych słów - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/niemiecki-fiszki-plus-1000-najwazniejszych-slow-opracowanie-zbiorowe,p1796758108,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1795611369": {
+      "id": "p1795611369",
+      "title": "Pakiet: Mitologie świata: Chiny/ Japonia/ Korea - Tao Tao Liu, Frydman Joshua, Heinz Insu Fenkl, Bella Myŏng-wŏl Dalton-Fenkl",
+      "url": "https://www.empik.com/pakiet-mitologie-swiata-chiny-japonia-korea-tao-tao-liu-frydman-joshua-heinz-insu-fenkl-bella-myong-wol-dalton-fenkl,p1795611369,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
+    },
+    "p1804242380": {
+      "id": "p1804242380",
+      "title": "Cozy Autumn. Przytulna kolorowanka - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/cozy-autumn-przytulna-kolorowanka-opracowanie-zbiorowe,p1804242380,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-21T23:18:04.045Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-29T17:38:09.838Z",
-      "total": 485,
-      "new": 4
-    },
     {
       "at": "2026-07-29T21:12:05.201Z",
       "total": 488,
@@ -16926,7 +16977,12 @@
       "at": "2026-10-21T17:11:01.126Z",
       "total": 499,
       "new": 35
+    },
+    {
+      "at": "2026-10-21T23:18:04.045Z",
+      "total": 499,
+      "new": 8
     }
   ],
-  "lastRun": "2026-10-21T17:11:01.126Z"
+  "lastRun": "2026-10-21T23:18:04.045Z"
 }
