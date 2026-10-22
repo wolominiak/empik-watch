@@ -25640,15 +25640,16 @@
       "url": "https://www.taniaksiazka.pl/protokoly-p-2550494.html",
       "category": "Poradniki",
       "firstSeen": "2026-10-22T17:11:39.011Z"
+    },
+    "tk1126226": {
+      "id": "tk1126226",
+      "title": "Podstawy ekonomii. Ćwiczenia i zadania",
+      "url": "https://www.taniaksiazka.pl/podstawy-ekonomii-cwiczenia-i-zadania-eugeniusz-kwiatkowski-p-1126226.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-22T23:23:06.500Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-30T14:32:46.980Z",
-      "total": 418,
-      "new": 29,
-      "failed": 0
-    },
     {
       "at": "2026-07-30T17:48:35.372Z",
       "total": 418,
@@ -26842,7 +26843,13 @@
       "total": 466,
       "new": 29,
       "failed": 0
+    },
+    {
+      "at": "2026-10-22T23:23:06.500Z",
+      "total": 463,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-22T17:11:39.011Z"
+  "lastRun": "2026-10-22T23:23:06.500Z"
 }
