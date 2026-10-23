@@ -25780,15 +25780,23 @@
       "url": "https://www.taniaksiazka.pl/bdsm-milosc-bol-wolnosc-p-2551817.html",
       "category": "Poradniki",
       "firstSeen": "2026-10-23T17:08:03.057Z"
+    },
+    "tk1276195": {
+      "id": "tk1276195",
+      "title": "Pedagogika",
+      "url": "https://www.taniaksiazka.pl/pedagogika-boguslaw-sliwerski-p-1276195.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-23T23:10:02.908Z"
+    },
+    "tk1337283": {
+      "id": "tk1337283",
+      "title": "Matematyka dla studentów ekonomii, finansów...",
+      "url": "https://www.taniaksiazka.pl/matematyka-dla-studentow-ekonomii-finansow-beata-bieszk-stolorz-p-1337283.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-10-23T23:10:02.908Z"
     }
   },
   "log": [
-    {
-      "at": "2026-07-30T21:31:42.230Z",
-      "total": 418,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-07-31T14:35:16.484Z",
       "total": 414,
@@ -26982,7 +26990,13 @@
       "total": 462,
       "new": 19,
       "failed": 0
+    },
+    {
+      "at": "2026-10-23T23:10:02.908Z",
+      "total": 462,
+      "new": 2,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-10-23T17:08:03.057Z"
+  "lastRun": "2026-10-23T23:10:02.908Z"
 }
