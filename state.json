@@ -17037,14 +17037,44 @@
       "url": "https://www.empik.com/jak-uwolnic-sie-od-leku-przed-smiercia-zaplanuj-swoje-zycie-po-drugiej-stronie-i-odzyskaj-duchowy-s-corfield-samantha,p1779042790,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-24T22:27:52.223Z"
+    },
+    "p1779044220": {
+      "id": "p1779044220",
+      "title": "Morderstwo nad Tamizą - Costello Matthew, Richards Neil",
+      "url": "https://www.empik.com/morderstwo-nad-tamiza-costello-matthew-neil-richards,p1779044220,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-25T16:17:15.353Z"
+    },
+    "p1802319916": {
+      "id": "p1802319916",
+      "title": "Drugie imię zła - Marcel Frątczak",
+      "url": "https://www.empik.com/drugie-imie-zla-marcel-fratczak,p1802319916,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-25T16:17:15.353Z"
+    },
+    "p1805136518": {
+      "id": "p1805136518",
+      "title": "Pełzająca śmierć - Janiszewski Krystian A.",
+      "url": "https://www.empik.com/pelzajaca-smierc-janiszewski-krystian-a,p1805136518,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-25T16:17:15.353Z"
+    },
+    "p1782063483": {
+      "id": "p1782063483",
+      "title": "Konieczne okrucieństwo - Dębski Rafał",
+      "url": "https://www.empik.com/konieczne-okrucienstwo-debski-rafal,p1782063483,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-25T16:17:15.353Z"
+    },
+    "p1778233599": {
+      "id": "p1778233599",
+      "title": "Nalewki Karola Majewskiego - Majewski Karol, Bralczyk Jerzy",
+      "url": "https://www.empik.com/nalewki-karola-majewskiego-majewski-karol-bralczyk-jerzy,p1778233599,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-25T16:17:15.353Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-01T13:54:40.842Z",
-      "total": 500,
-      "new": 10
-    },
     {
       "at": "2026-08-01T17:14:07.359Z",
       "total": 500,
@@ -18039,7 +18069,12 @@
       "at": "2026-10-24T22:27:52.223Z",
       "total": 499,
       "new": 14
+    },
+    {
+      "at": "2026-10-25T16:17:15.353Z",
+      "total": 492,
+      "new": 5
     }
   ],
-  "lastRun": "2026-10-24T22:27:52.223Z"
+  "lastRun": "2026-10-25T16:17:15.353Z"
 }
