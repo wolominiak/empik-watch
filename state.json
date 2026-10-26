@@ -17198,14 +17198,51 @@
       "url": "https://www.empik.com/doktor-jekyll-i-pan-hyde-stevenson-robert-louis,p1775642459,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-26T18:40:21.926Z"
+    },
+    "p1793119672": {
+      "id": "p1793119672",
+      "title": "Samochodzik Franek. Opowieści na dobranoc. Wyścigi - Smółka-Majerczak Katarzyna",
+      "url": "https://www.empik.com/samochodzik-franek-opowiesci-na-dobranoc-wyscigi-smolka-majerczak-katarzyna,p1793119672,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
+    },
+    "p1813467167": {
+      "id": "p1813467167",
+      "title": "Pakiet: Kroniki Diuny TW - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/pakiet-kroniki-diuny-tw-herbert-frank,p1813467167,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
+    },
+    "p1805274359": {
+      "id": "p1805274359",
+      "title": "Strażnik dusz Zhen Hun. Tom 1 - Priest",
+      "url": "https://www.empik.com/straznik-dusz-zhen-hun-tom-1-priest,p1805274359,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
+    },
+    "p1766089223": {
+      "id": "p1766089223",
+      "title": "Zapomniane blizny. Tom 2 - Szweda Magdalena",
+      "url": "https://www.empik.com/krwawe-blizny-tom-2-szweda-magdalena,p1766089223,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
+    },
+    "p1781921737": {
+      "id": "p1781921737",
+      "title": "Room Service - Stoffels Maren",
+      "url": "https://www.empik.com/room-service-stoffels-maren,p1781921737,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
+    },
+    "p1781544477": {
+      "id": "p1781544477",
+      "title": "Znowu między Niemcami a Rosją? Pytania o Polskę i Europę Wschodnią - Nowak Andrzej",
+      "url": "https://www.empik.com/znowu-miedzy-niemcami-a-rosja-pytania-o-polske-i-europe-wschodnia-nowak-andrzej-przeperski-michal,p1781544477,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-26T23:52:11.873Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-02T17:14:42.983Z",
-      "total": 500,
-      "new": 0
-    },
     {
       "at": "2026-08-02T21:10:03.887Z",
       "total": 500,
@@ -18200,7 +18237,12 @@
       "at": "2026-10-26T18:40:21.926Z",
       "total": 482,
       "new": 18
+    },
+    {
+      "at": "2026-10-26T23:52:11.873Z",
+      "total": 473,
+      "new": 6
     }
   ],
-  "lastRun": "2026-10-26T18:40:21.926Z"
+  "lastRun": "2026-10-26T23:52:11.873Z"
 }
