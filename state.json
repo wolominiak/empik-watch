@@ -17415,14 +17415,44 @@
       "url": "https://www.empik.com/wizjonerskie-organizacje-skuteczne-praktyki-najlepszych-z-najlepszych-collins-jim,p1799354754,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-27T17:59:57.688Z"
+    },
+    "p1779524027": {
+      "id": "p1779524027",
+      "title": "Christian Horner. Drive. Autobiografia - Horner Christian",
+      "url": "https://www.empik.com/christian-horner-horner-christian,p1779524027,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-27T23:45:46.508Z"
+    },
+    "p1786121022": {
+      "id": "p1786121022",
+      "title": "12 razy święta - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/gody-czyli-12-dni-bozego-narodzenia-opracowanie-zbiorowe,p1786121022,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-27T23:45:46.508Z"
+    },
+    "p1779535254": {
+      "id": "p1779535254",
+      "title": "Sezon. Jak przetrwać w niższych ligach - Olkiewicz Jakub",
+      "url": "https://www.empik.com/sezon-olkiewicz-jakub,p1779535254,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-27T23:45:46.508Z"
+    },
+    "p1779466389": {
+      "id": "p1779466389",
+      "title": "Senna. Na zawsze - Leroy Dominique, Ortelli Daniel, Woloch Thomas",
+      "url": "https://www.empik.com/senna-na-zawsze-leroy-dominique-ortelli-daniel-woloch-thomas,p1779466389,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-27T23:45:46.508Z"
+    },
+    "p1814038917": {
+      "id": "p1814038917",
+      "title": "Schroniskowe łamigłówki - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/schroniskowe-lamiglowki-gortych-slawek,p1814038917,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-27T23:45:46.508Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-03T15:15:37.890Z",
-      "total": 500,
-      "new": 1
-    },
     {
       "at": "2026-08-03T18:04:32.478Z",
       "total": 500,
@@ -18417,7 +18447,12 @@
       "at": "2026-10-27T17:59:57.688Z",
       "total": 474,
       "new": 25
+    },
+    {
+      "at": "2026-10-27T23:45:46.508Z",
+      "total": 388,
+      "new": 5
     }
   ],
-  "lastRun": "2026-10-27T17:59:57.688Z"
+  "lastRun": "2026-10-27T23:45:46.508Z"
 }
