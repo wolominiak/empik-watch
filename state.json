@@ -17450,14 +17450,100 @@
       "url": "https://www.empik.com/schroniskowe-lamiglowki-gortych-slawek,p1814038917,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-27T23:45:46.508Z"
+    },
+    "p1814006291": {
+      "id": "p1814006291",
+      "title": "Momo. Książka ilustrowana - Ende Michael",
+      "url": "https://www.empik.com/momo-ksiazka-ilustrowana-ende-michael,p1814006291,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1816189774": {
+      "id": "p1816189774",
+      "title": "Złodziej czasu. Świat Dysku Tom 26 - Pratchett Terry",
+      "url": "https://www.empik.com/zlodziej-czasu-swiat-dysku-tom-26-pratchett-terry,p1816189774,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1820985810": {
+      "id": "p1820985810",
+      "title": "Final lap. ON THE GRID. Tom 2 - Świątkowska Joanna",
+      "url": "https://www.empik.com/final-lap-on-the-grid-tom-2-swiatkowska-joanna,p1820985810,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1785512652": {
+      "id": "p1785512652",
+      "title": "Sekret listu - Riley Lucinda",
+      "url": "https://www.empik.com/sekret-listu-riley-lucinda,p1785512652,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1792323135": {
+      "id": "p1792323135",
+      "title": "Konfrontacja - Mróz Remigiusz",
+      "url": "https://www.empik.com/konfrontacja-mroz-remigiusz,p1792323135,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1814147835": {
+      "id": "p1814147835",
+      "title": "Grzeszne święta. (barwione brzegi) - Adriana Kowalczyk",
+      "url": "https://www.empik.com/grzeszne-swieta-barwione-brzegi-adriana-kowalczyk,p1814147835,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1766427265": {
+      "id": "p1766427265",
+      "title": "Pasażer do Frankfurtu - Christie Agatha",
+      "url": "https://www.empik.com/pasazer-do-frankfurtu-christie-agatha,p1766427265,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1813415173": {
+      "id": "p1813415173",
+      "title": "Holly - King Stephen",
+      "url": "https://www.empik.com/holly-king-stephen,p1813415173,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1820203619": {
+      "id": "p1820203619",
+      "title": "Mała księga nadziei według Małego Smoka - Norbury James",
+      "url": "https://www.empik.com/mala-ksiega-nadziei-wedlug-malego-smoka-norbury-james,p1820203619,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1808486742": {
+      "id": "p1808486742",
+      "title": "Magia świąt w małych rzeczach - Jones Stella J",
+      "url": "https://www.empik.com/magia-swiat-w-malych-rzeczach-jones-stella-j,p1808486742,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1799357098": {
+      "id": "p1799357098",
+      "title": "Wielka strategia państwa polskiego. Jak wygrać przyszłość w epoce chaosu - Morawiecki Mateusz",
+      "url": "https://www.empik.com/wielka-strategia-panstwa-polskiego-jak-wygrac-przyszlosc-w-epoce-chaosu-morawiecki-mateusz,p1799357098,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1809216070": {
+      "id": "p1809216070",
+      "title": "Nie ma Albertyny - Proust Marcel",
+      "url": "https://www.empik.com/nie-ma-albertyny-proust-marcel,p1809216070,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1785338281": {
+      "id": "p1785338281",
+      "title": "Bądź dobrej myśli. Słowa nadziei na dalszą drogę - Grzywocz Krzysztof",
+      "url": "https://www.empik.com/badz-dobrej-mysli-slowa-na-dalsza-droge-grzywocz-krzysztof,p1785338281,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T18:20:14.610Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-03T18:04:32.478Z",
-      "total": 500,
-      "new": 2
-    },
     {
       "at": "2026-08-03T21:29:46.605Z",
       "total": 500,
@@ -18452,7 +18538,12 @@
       "at": "2026-10-27T23:45:46.508Z",
       "total": 388,
       "new": 5
+    },
+    {
+      "at": "2026-10-28T18:20:14.610Z",
+      "total": 442,
+      "new": 13
     }
   ],
-  "lastRun": "2026-10-27T23:45:46.508Z"
+  "lastRun": "2026-10-28T18:20:14.610Z"
 }
