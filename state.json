@@ -17541,14 +17541,100 @@
       "url": "https://www.empik.com/badz-dobrej-mysli-slowa-na-dalsza-droge-grzywocz-krzysztof,p1785338281,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-28T18:20:14.610Z"
+    },
+    "p1802317839": {
+      "id": "p1802317839",
+      "title": "Wielka przeprowadzka. Jamniki z Puszczy - Krzysztof H. Olszyński",
+      "url": "https://www.empik.com/wielka-przeprowadzka-jamniki-z-puszczy-krzysztof-h-olszynski,p1802317839,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1792311972": {
+      "id": "p1792311972",
+      "title": "Pakiet: Quicksilver / Brimstone - Callie Hart",
+      "url": "https://www.empik.com/pakiet-quicksilver-brimstone-callie-hart,p1792311972,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1790605257": {
+      "id": "p1790605257",
+      "title": "Idealny dzień, by wsadzić głowę do piekarnika - Lee Chia-Ying",
+      "url": "https://www.empik.com/idealny-dzien-by-wsadzic-glowe-do-piekarnika-lee-chia-ying,p1790605257,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1814706780": {
+      "id": "p1814706780",
+      "title": "Diddly Squat, tomy 4–6: GOAT - Clarkson Jeremy",
+      "url": "https://www.empik.com/diddly-squat-tomy-4-6-goat-clarkson-jeremy,p1814706780,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1807767871": {
+      "id": "p1807767871",
+      "title": "Sześć kluczy. Jak matematyka otwiera rozumienie świata - Terence Tao",
+      "url": "https://www.empik.com/szesc-kluczy-jak-matematyka-otwiera-rozumienie-swiata-terence-tao,p1807767871,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1785349685": {
+      "id": "p1785349685",
+      "title": "Jedyne takie miejsce - Bianek Klaudia",
+      "url": "https://www.empik.com/jedyne-takie-miejsce-bianek-klaudia,p1785349685,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1785350399": {
+      "id": "p1785350399",
+      "title": "Przy naszej piosence - Bianek Klaudia",
+      "url": "https://www.empik.com/przy-naszej-piosence-bianek-klaudia,p1785350399,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1785349807": {
+      "id": "p1785349807",
+      "title": "Ocalało tylko serce - Bianek Klaudia",
+      "url": "https://www.empik.com/ocalalo-tylko-serce-bianek-klaudia,p1785349807,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1785349782": {
+      "id": "p1785349782",
+      "title": "Niebo nad jej głową - Bianek Klaudia",
+      "url": "https://www.empik.com/niebo-nad-jej-glowa-bianek-klaudia,p1785349782,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1785360509": {
+      "id": "p1785360509",
+      "title": "Więcej serca niż rozumu - Bianek Klaudia",
+      "url": "https://www.empik.com/wiecej-serca-niz-rozumu-bianek-klaudia,p1785360509,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1809220116": {
+      "id": "p1809220116",
+      "title": "Sodoma i Gomora - Proust Marcel",
+      "url": "https://www.empik.com/sodoma-i-gomora-proust-marcel,p1809220116,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1778177187": {
+      "id": "p1778177187",
+      "title": "Siedem bram. Kroniki Jaaru. Tom 3 - Faber Adam",
+      "url": "https://www.empik.com/siedem-bram-kroniki-jaaru-tom-3-faber-adam,p1778177187,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
+    },
+    "p1810100650": {
+      "id": "p1810100650",
+      "title": "Dexter Procter i przypadek znikającej lekarki - Kay Adam",
+      "url": "https://www.empik.com/dexter-procter-i-przypadek-znikajacej-lekarki-kay-adam,p1810100650,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-28T23:59:44.070Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-03T21:29:46.605Z",
-      "total": 500,
-      "new": 0
-    },
     {
       "at": "2026-08-04T14:38:40.973Z",
       "total": 500,
@@ -18543,7 +18629,12 @@
       "at": "2026-10-28T18:20:14.610Z",
       "total": 442,
       "new": 13
+    },
+    {
+      "at": "2026-10-28T23:59:44.070Z",
+      "total": 450,
+      "new": 13
     }
   ],
-  "lastRun": "2026-10-28T18:20:14.610Z"
+  "lastRun": "2026-10-28T23:59:44.070Z"
 }
