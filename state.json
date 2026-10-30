@@ -17786,14 +17786,107 @@
       "url": "https://www.empik.com/nie-przepraszaj-ze-czujesz-wicijowski-rafal,p1792321401,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-29T18:27:39.574Z"
+    },
+    "p1810140010": {
+      "id": "p1810140010",
+      "title": "Jak ja nie cierpię świąt - Bester Katarzyna",
+      "url": "https://www.empik.com/jak-ja-nie-cierpie-swiat-bester-katarzyna,p1810140010,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1773050052": {
+      "id": "p1773050052",
+      "title": "Kicia Kocia i Nunuś. Czas na bal! - Głowińska Anita",
+      "url": "https://www.empik.com/kicia-kocia-z-naklejkami-glowinska-anita,p1773050052,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1814130206": {
+      "id": "p1814130206",
+      "title": "Memento Mori - Nicola Czerwińska",
+      "url": "https://www.empik.com/memento-mori-nicola-czerwinska,p1814130206,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1779744490": {
+      "id": "p1779744490",
+      "title": "Cena milczenia - Ćwirlej Ryszard",
+      "url": "https://www.empik.com/cena-milczenia-cwirlej-ryszard,p1779744490,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1784783411": {
+      "id": "p1784783411",
+      "title": "Pięć - Bannister Ilona",
+      "url": "https://www.empik.com/piec-bannister-ilona,p1784783411,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1781598575": {
+      "id": "p1781598575",
+      "title": "Dark Dream Castle - Odesza D.C.",
+      "url": "https://www.empik.com/dark-dream-castle-odesza-d-c,p1781598575,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1820959286": {
+      "id": "p1820959286",
+      "title": "Ceremoniał krwi - Konefał Andrzej",
+      "url": "https://www.empik.com/ceremonial-krwi-konefal-andrzej,p1820959286,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1783689774": {
+      "id": "p1783689774",
+      "title": "Wakenhyrst - Paver Michelle",
+      "url": "https://www.empik.com/wakenhyrst-paver-michelle,p1783689774,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1822199231": {
+      "id": "p1822199231",
+      "title": "Zła. Historia prawdziwa Izabeli z Czartoryskich Lubomirskiej - Wojtkowska Zofia",
+      "url": "https://www.empik.com/zla-historia-prawdziwa-izabeli-z-czartoryskich-lubomirskiej-wojtkowska-zofia,p1822199231,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1795304681": {
+      "id": "p1795304681",
+      "title": "Tak było - Niedenthal Chris",
+      "url": "https://www.empik.com/pokrotce-niedenthal-chris,p1795304681,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1792395178": {
+      "id": "p1792395178",
+      "title": "Wszystko jest możliwe - Słojkowski Wiktor, Bartosz Iza",
+      "url": "https://www.empik.com/to-mnie-nie-zlamalo-slojkowski-wiktor-bartosz-iza,p1792395178,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1666313673": {
+      "id": "p1666313673",
+      "title": "Kapitan Majtas. Gigantyczna kolekcja w kolorze - Pilkey Dav",
+      "url": "https://www.empik.com/pakiet-kapitan-majtas-pilkey-dav,p1666313673,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1785384040": {
+      "id": "p1785384040",
+      "title": "Operacja Drzwi w kształcie serca - Horst Jorn Lier",
+      "url": "https://www.empik.com/operacja-horst-jorn-lier,p1785384040,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1785384031": {
+      "id": "p1785384031",
+      "title": "Płyń jak kapibara - Michela Fabbri",
+      "url": "https://www.empik.com/plyn-jak-kapibara-michela-fabbri,p1785384031,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-30T17:59:36.662Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-04T21:35:33.987Z",
-      "total": 500,
-      "new": 0
-    },
     {
       "at": "2026-08-05T14:32:42.939Z",
       "total": 500,
@@ -18788,7 +18881,12 @@
       "at": "2026-10-29T23:56:23.215Z",
       "total": 453,
       "new": 0
+    },
+    {
+      "at": "2026-10-30T17:59:36.662Z",
+      "total": 462,
+      "new": 14
     }
   ],
-  "lastRun": "2026-10-29T23:56:23.215Z"
+  "lastRun": "2026-10-30T17:59:36.662Z"
 }
