@@ -17884,14 +17884,79 @@
       "url": "https://www.empik.com/plyn-jak-kapibara-michela-fabbri,p1785384031,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-30T17:59:36.662Z"
+    },
+    "p1814647715": {
+      "id": "p1814647715",
+      "title": "Niedościgniony. Niesamowity powrót Roberta Kubicy - Gutowski Cezary, Marciniak Aldona",
+      "url": "https://www.empik.com/niedoscigniony-niesamowity-powrot-roberta-kubicy-gutowski-cezary-marciniak-aldona,p1814647715,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1752093812": {
+      "id": "p1752093812",
+      "title": "Kuchnia chińska - Cheng Handa",
+      "url": "https://www.empik.com/kuchnia-chinska-cheng-handa,p1752093812,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1823151593": {
+      "id": "p1823151593",
+      "title": "Śmiertelny wyścig. Seria Alfa i Omega. Tom 4 - Briggs Patricia",
+      "url": "https://www.empik.com/smiertelny-wyscig-seria-alfa-i-omega-tom-4-briggs-patricia,p1823151593,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1823156303": {
+      "id": "p1823156303",
+      "title": "Fala czarnej stali. Czas gniewu. Tom 1 - Ryan Anthony",
+      "url": "https://www.empik.com/fala-czarnej-stali-czas-gniewu-tom-1-ryan-anthony,p1823156303,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1802329515": {
+      "id": "p1802329515",
+      "title": "Aurora - Skabara Monika",
+      "url": "https://www.empik.com/aurora-skabara-monika,p1802329515,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1814147862": {
+      "id": "p1814147862",
+      "title": "Złączeni krwią. Antologia (II wydanie) - Reilly Cora",
+      "url": "https://www.empik.com/zlaczeni-krwia-antologia-ii-wydanie-reilly-cora,p1814147862,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1822533587": {
+      "id": "p1822533587",
+      "title": "Nigdy nie przywyknę do jej istnienia. Brutalność milicji i społeczeństwo w PRL - Puttkamer Joachim von",
+      "url": "https://www.empik.com/nigdy-nie-przywykne-do-jej-istnienia-brutalnosc-milicji-i-spoleczenstwo-w-prl-puttkamer-joachim-von,p1822533587,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1781842892": {
+      "id": "p1781842892",
+      "title": "Air fryer na słodko w insulinooporności - Makarowska Magdalena",
+      "url": "https://www.empik.com/air-fryer-na-slodko-makarowska-magdalena,p1781842892,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1802329533": {
+      "id": "p1802329533",
+      "title": "Feng Shui w twoim domu. Jak stworzyć przestrzeń, która przyciąga harmonię, dobrobyt i szczęście - Webster Richard",
+      "url": "https://www.empik.com/feng-shui-w-twoim-domu-jak-stworzyc-przestrzen-ktora-przyciaga-harmonie-dobrobyt-i-szczescie-webster-richard,p1802329533,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
+    },
+    "p1781586242": {
+      "id": "p1781586242",
+      "title": "Zew Dzikiego Zachodu. Pięć opowiadań o Lucky Luke’u - Kur Maciej, Kiełbus Sławomir",
+      "url": "https://www.empik.com/zew-dzikiego-zachodu-piec-opowiadan-o-lucky-luke-u-kur-maciej-kielbus-slawomir,p1781586242,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-10-31T17:14:38.757Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-05T17:53:22.332Z",
-      "total": 500,
-      "new": 10
-    },
     {
       "at": "2026-08-05T21:32:08.517Z",
       "total": 500,
@@ -18886,7 +18951,12 @@
       "at": "2026-10-30T23:45:19.393Z",
       "total": 458,
       "new": 0
+    },
+    {
+      "at": "2026-10-31T17:14:38.757Z",
+      "total": 467,
+      "new": 10
     }
   ],
-  "lastRun": "2026-10-30T23:45:19.393Z"
+  "lastRun": "2026-10-31T17:14:38.757Z"
 }
