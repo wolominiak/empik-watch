@@ -17961,14 +17961,72 @@
       "url": "https://www.empik.com/czarowny-rok-joanna-laprus,p1820261686,ksiazka-p",
       "category": "",
       "firstSeen": "2026-10-31T23:23:22.713Z"
+    },
+    "p1814118462": {
+      "id": "p1814118462",
+      "title": "Niebo i ziemię - Kisiel Marta",
+      "url": "https://www.empik.com/niebo-i-ziemie-kisiel-marta,p1814118462,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1804330393": {
+      "id": "p1804330393",
+      "title": "Atomowe nawyki. Drobne zmiany, niezwykłe efekty - Clear James",
+      "url": "https://www.empik.com/atomowe-nawyki-drobne-zmiany-niezwykle-efekty-clear-james,p1804330393,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1805284198": {
+      "id": "p1805284198",
+      "title": "Panna Winter w bibliotece z nożem - Edwards Martin",
+      "url": "https://www.empik.com/panna-winter-w-bibliotece-z-nozem-edwards-martin,p1805284198,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1770258194": {
+      "id": "p1770258194",
+      "title": "Czarny punkt - Wójcik Wojciech",
+      "url": "https://www.empik.com/czarny-punkt-wojcik-wojciech,p1770258194,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1798416677": {
+      "id": "p1798416677",
+      "title": "Żony - Keogh Valerie",
+      "url": "https://www.empik.com/zony-keogh-valerie,p1798416677,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1805293716": {
+      "id": "p1805293716",
+      "title": "Pakiet: Czarownica / Kukułcze jajo / Płaczka - Lackberg Camilla",
+      "url": "https://www.empik.com/pakiet-czarownica-kukulcze-jajo-placzka-lackberg-camilla,p1805293716,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1807989534": {
+      "id": "p1807989534",
+      "title": "Okup - Silva Daniel",
+      "url": "https://www.empik.com/okup-silva-daniel,p1807989534,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1807811330": {
+      "id": "p1807811330",
+      "title": "Śmierć na śniegu - Ross Greenwood",
+      "url": "https://www.empik.com/smierc-na-sniegu-ross-greenwood,p1807811330,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1820345298": {
+      "id": "p1820345298",
+      "title": "Prezydent, najemnik, gangster, szpieg - Sentkowski Piotr",
+      "url": "https://www.empik.com/prezydent-najemnik-gangster-szpieg-sentkowski-piotr,p1820345298,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T17:55:36.227Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-06T14:34:39.156Z",
-      "total": 486,
-      "new": 12
-    },
     {
       "at": "2026-08-06T19:21:53.742Z",
       "total": 489,
@@ -18963,7 +19021,12 @@
       "at": "2026-10-31T23:23:22.713Z",
       "total": 468,
       "new": 1
+    },
+    {
+      "at": "2026-11-01T17:55:36.227Z",
+      "total": 477,
+      "new": 9
     }
   ],
-  "lastRun": "2026-10-31T23:23:22.713Z"
+  "lastRun": "2026-11-01T17:55:36.227Z"
 }
