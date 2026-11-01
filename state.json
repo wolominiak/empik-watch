@@ -18024,14 +18024,23 @@
       "url": "https://www.empik.com/prezydent-najemnik-gangster-szpieg-sentkowski-piotr,p1820345298,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-01T17:55:36.227Z"
+    },
+    "p1503158746": {
+      "id": "p1503158746",
+      "title": "Drzewo anioła (z frag. nowej powieści “Orlando” - Riley Lucinda",
+      "url": "https://www.empik.com/drzewo-aniola-riley-lucinda,p1503158746,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T23:34:41.097Z"
+    },
+    "p1792372946": {
+      "id": "p1792372946",
+      "title": "Deyna - Szczepłek Stefan",
+      "url": "https://www.empik.com/deyna-szczeplek-stefan,p1792372946,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-01T23:34:41.097Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-06T19:21:53.742Z",
-      "total": 489,
-      "new": 5
-    },
     {
       "at": "2026-08-07T00:55:20.455Z",
       "total": 490,
@@ -19026,7 +19035,12 @@
       "at": "2026-11-01T17:55:36.227Z",
       "total": 477,
       "new": 9
+    },
+    {
+      "at": "2026-11-01T23:34:41.097Z",
+      "total": 479,
+      "new": 2
     }
   ],
-  "lastRun": "2026-11-01T17:55:36.227Z"
+  "lastRun": "2026-11-01T23:34:41.097Z"
 }
