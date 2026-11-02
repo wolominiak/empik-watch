@@ -28069,15 +28069,16 @@
       "url": "https://www.taniaksiazka.pl/sezon-jak-przetrwac-w-nizszych-ligach-p-2554762.html",
       "category": "Sport",
       "firstSeen": "2026-11-01T17:56:45.309Z"
+    },
+    "tk2119878": {
+      "id": "tk2119878",
+      "title": "O lodowcach - tych starych i tych młodych",
+      "url": "https://www.taniaksiazka.pl/nauka-dla-ciekawych-o-lodowcach-witold-pawel-alexandrowicz-p-2119878.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-02T21:42:44.642Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-07T00:56:15.852Z",
-      "total": 429,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-08-07T13:39:47.204Z",
       "total": 424,
@@ -29271,7 +29272,13 @@
       "total": 454,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-11-02T21:42:44.642Z",
+      "total": 442,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-11-01T23:35:32.086Z"
+  "lastRun": "2026-11-02T21:42:44.642Z"
 }
