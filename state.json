@@ -18038,14 +18038,51 @@
       "url": "https://www.empik.com/deyna-szczeplek-stefan,p1792372946,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-01T23:34:41.097Z"
+    },
+    "p1778667316": {
+      "id": "p1778667316",
+      "title": "Tajemniczy ogród śmierci - Paulina Zalecka",
+      "url": "https://www.empik.com/tajemniczy-ogrod-smierci-paulina-zalecka,p1778667316,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
+    },
+    "p1813958119": {
+      "id": "p1813958119",
+      "title": "Kwiaciarnia Spełnionych Marzeń - Michalak Katarzyna",
+      "url": "https://www.empik.com/kwiaciarnia-spelnionych-marzen-michalak-katarzyna,p1813958119,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
+    },
+    "p1784816551": {
+      "id": "p1784816551",
+      "title": "Silversmith. Selvaren. Tom 1 - Claren L.J.",
+      "url": "https://www.empik.com/silversmith-selvaren-tom-1-claren-l-j,p1784816551,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
+    },
+    "p1781518782": {
+      "id": "p1781518782",
+      "title": "Białe krzyże - Gorzka Mieczysław",
+      "url": "https://www.empik.com/biale-krzyze-gorzka-mieczyslaw,p1781518782,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
+    },
+    "p1826616541": {
+      "id": "p1826616541",
+      "title": "Zła krew - Carreyrou John",
+      "url": "https://www.empik.com/zla-krew-carreyrou-john,p1826616541,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
+    },
+    "p1822117024": {
+      "id": "p1822117024",
+      "title": "Dziesięć mitów na temat Izraela - Pappe Ilan",
+      "url": "https://www.empik.com/dziesiec-mitow-na-temat-izraela-pappe-ilan,p1822117024,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-04T00:35:54.917Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-07T13:38:08.706Z",
-      "total": 498,
-      "new": 20
-    },
     {
       "at": "2026-08-07T17:06:45.439Z",
       "total": 484,
@@ -19040,7 +19077,12 @@
       "at": "2026-11-02T21:41:59.658Z",
       "total": 478,
       "new": 0
+    },
+    {
+      "at": "2026-11-04T00:35:54.917Z",
+      "total": 449,
+      "new": 6
     }
   ],
-  "lastRun": "2026-11-02T21:41:59.658Z"
+  "lastRun": "2026-11-04T00:35:54.917Z"
 }

@@ -28076,15 +28076,16 @@
       "url": "https://www.taniaksiazka.pl/nauka-dla-ciekawych-o-lodowcach-witold-pawel-alexandrowicz-p-2119878.html",
       "category": "Podręczniki akademickie",
       "firstSeen": "2026-11-02T21:42:44.642Z"
+    },
+    "tk737391": {
+      "id": "tk737391",
+      "title": "Logopedia artystyczna",
+      "url": "https://www.taniaksiazka.pl/logopedia-artystyczna-barbara-kaminska-p-737391.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-04T00:36:50.272Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-07T13:39:47.204Z",
-      "total": 424,
-      "new": 36,
-      "failed": 0
-    },
     {
       "at": "2026-08-07T17:07:41.524Z",
       "total": 423,
@@ -29278,7 +29279,13 @@
       "total": 442,
       "new": 1,
       "failed": 0
+    },
+    {
+      "at": "2026-11-04T00:36:50.272Z",
+      "total": 434,
+      "new": 1,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-11-02T21:42:44.642Z"
+  "lastRun": "2026-11-04T00:36:50.272Z"
 }
