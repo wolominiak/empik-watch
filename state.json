@@ -18416,14 +18416,86 @@
       "url": "https://www.empik.com/powrot-do-gwiazd-bernatowicz-robert-matusiak-anna,p1824051883,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-05T19:55:52.657Z"
+    },
+    "p1823034481": {
+      "id": "p1823034481",
+      "title": "Nigdy nie jest za późno. Duża Czcionka - Witkiewicz Magdalena",
+      "url": "https://www.empik.com/nigdy-nie-jest-za-pozno-duza-czcionka-witkiewicz-magdalena,p1823034481,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823012346": {
+      "id": "p1823012346",
+      "title": "Białe krzyże. Duża Czcionka - Gorzka Mieczysław",
+      "url": "https://www.empik.com/biale-krzyze-duza-czcionka-gorzka-mieczyslaw,p1823012346,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823036063": {
+      "id": "p1823036063",
+      "title": "Jacob. Mennonita, który pragnął miłości. Duża Czcionka - Kubik Sylwia",
+      "url": "https://www.empik.com/jacob-mennonita-ktory-pragnal-milosci-duza-czcionka-kubik-sylwia,p1823036063,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823005355": {
+      "id": "p1823005355",
+      "title": "Konfrontacja. Duża Czcionka - Mróz Remigiusz",
+      "url": "https://www.empik.com/konfrontacja-duza-czcionka-mroz-remigiusz,p1823005355,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823026808": {
+      "id": "p1823026808",
+      "title": "Znam wszystkie twoje tajemnice. Duża Czcionka - Mirek Krystyna",
+      "url": "https://www.empik.com/znam-wszystkie-twoje-tajemnice-duza-czcionka-mirek-krystyna,p1823026808,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823013965": {
+      "id": "p1823013965",
+      "title": "Nigdy w życiu. Właśnie że tak! 20 lat wcześniej. Duża Czcionka - Grochola Katarzyna",
+      "url": "https://www.empik.com/nigdy-w-zyciu-wlasnie-ze-tak-20-lat-wczesniej-duza-czcionka-grochola-katarzyna,p1823013965,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823032623": {
+      "id": "p1823032623",
+      "title": "Świąteczna misja. Duża Czcionka - Joanna Tekieli",
+      "url": "https://www.empik.com/swiateczna-misja-duza-czcionka-joanna-tekieli,p1823032623,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823037433": {
+      "id": "p1823037433",
+      "title": "Dom nad rozlewiskiem. Duża Czcionka - Kalicińska Małgorzata",
+      "url": "https://www.empik.com/dom-nad-rozlewiskiem-duza-czcionka-kalicinska-malgorzata,p1823037433,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1823022866": {
+      "id": "p1823022866",
+      "title": "Taśmy rodzinne. Duża Czcionka - Marcisz Maciej",
+      "url": "https://www.empik.com/tasmy-rodzinne-duza-czcionka-marcisz-maciej,p1823022866,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1817296017": {
+      "id": "p1817296017",
+      "title": "Jabłko i nóż - Intan Paramaditha",
+      "url": "https://www.empik.com/jablko-i-noz-intan-paramaditha,p1817296017,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
+    },
+    "p1820971394": {
+      "id": "p1820971394",
+      "title": "Dzieło śmierci - Kjersti Anfinnsen",
+      "url": "https://www.empik.com/dzielo-smierci-kjersti-anfinnsen,p1820971394,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-06T00:57:46.659Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-08T16:51:31.111Z",
-      "total": 490,
-      "new": 0
-    },
     {
       "at": "2026-08-08T20:47:32.478Z",
       "total": 490,
@@ -19418,7 +19490,12 @@
       "at": "2026-11-05T19:55:52.657Z",
       "total": 409,
       "new": 28
+    },
+    {
+      "at": "2026-11-06T00:57:46.659Z",
+      "total": 409,
+      "new": 11
     }
   ],
-  "lastRun": "2026-11-05T19:55:52.657Z"
+  "lastRun": "2026-11-06T00:57:46.659Z"
 }
