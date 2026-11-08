@@ -18612,14 +18612,16 @@
       "url": "https://www.empik.com/krwawa-lista-codie-crowley,p1784921206,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-06T19:23:28.657Z"
+    },
+    "p1792330481": {
+      "id": "p1792330481",
+      "title": "Bestia. Komisarz Eryk Deryło. Tom 7 - Czornyj Max",
+      "url": "https://www.empik.com/bestia-komisarz-eryk-derylo-tom-7-czornyj-max,p1792330481,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-08T17:55:23.144Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-10T13:43:26.856Z",
-      "total": 462,
-      "new": 21
-    },
     {
       "at": "2026-08-10T17:08:11.314Z",
       "total": 457,
@@ -19614,7 +19616,12 @@
       "at": "2026-11-07T23:37:47.903Z",
       "total": 321,
       "new": 0
+    },
+    {
+      "at": "2026-11-08T17:55:23.144Z",
+      "total": 313,
+      "new": 1
     }
   ],
-  "lastRun": "2026-11-07T23:37:47.903Z"
+  "lastRun": "2026-11-08T17:55:23.144Z"
 }
