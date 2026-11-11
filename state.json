@@ -18892,14 +18892,79 @@
       "url": "https://www.empik.com/ty-i-ja-jasiolek-katarzyna,p1790599600,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-10T19:42:43.236Z"
+    },
+    "p1779042170": {
+      "id": "p1779042170",
+      "title": "Psikusy - Wilmowska Iwona",
+      "url": "https://www.empik.com/psikusy-wilmowska-iwona,p1779042170,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1783213429": {
+      "id": "p1783213429",
+      "title": "Śmierć przychodzi w Boże Narodzenie - Mitchell Gladys",
+      "url": "https://www.empik.com/smierc-przychodzi-w-boze-narodzenie-mitchell-gladys,p1783213429,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1778640188": {
+      "id": "p1778640188",
+      "title": "Strefa poza prawem - Zatylny M.",
+      "url": "https://www.empik.com/strefa-poza-prawem-zatylny-m,p1778640188,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1827336730": {
+      "id": "p1827336730",
+      "title": "Lacerta. Psy Gończe III - Joanna Ufnalska",
+      "url": "https://www.empik.com/lacerta-psy-goncze-iii-joanna-ufnalska,p1827336730,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1828817676": {
+      "id": "p1828817676",
+      "title": "Mordoku70 zagadek kryminalnych do rozwiązania na przestrzeni dziejów - Evermore Penelope",
+      "url": "https://www.empik.com/mordoku70-zagadek-kryminalnych-do-rozwiazania-na-przestrzeni-dziejow-evermore-penelope,p1828817676,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1809058485": {
+      "id": "p1809058485",
+      "title": "Zerwij z narcyzem. Jak zakończyć toksyczną relację i odzyskać własne życie - Kastner Alina",
+      "url": "https://www.empik.com/zerwij-z-narcyzem-jak-zakonczyc-toksyczna-relacje-i-odzyskac-wlasne-zycie-kastner-alina,p1809058485,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1827337298": {
+      "id": "p1827337298",
+      "title": "Lider z charakterem. Sztuka motywowania do sukcesu - Dale Carnegie Training",
+      "url": "https://www.empik.com/lider-z-charakterem-sztuka-motywowania-do-sukcesu-dale-carnegie-training,p1827337298,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1778627257": {
+      "id": "p1778627257",
+      "title": "Podróże z psychoterapią i Mapą Pragnień - Frączek Małgorzata",
+      "url": "https://www.empik.com/podroze-z-psychoterapia-i-mapa-pragnien-fraczek-malgorzata,p1778627257,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1806036570": {
+      "id": "p1806036570",
+      "title": "Kuchnia polska i światowa - Adamska Elżbieta",
+      "url": "https://www.empik.com/kuchnia-polska-i-swiatowa-adamska-elzbieta,p1806036570,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1826922910": {
+      "id": "p1826922910",
+      "title": "Każdego dnia jeden krok. Jak konsekwentnie dążyć do sukcesu - Hossainpour Kiarash, Hopf Philip",
+      "url": "https://www.empik.com/kazdego-dnia-jeden-krok-jak-konsekwentnie-dazyc-do-sukcesu-hossainpour-kiarash-hopf-philip,p1826922910,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-11T19:34:10.383Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-11T21:04:11.088Z",
-      "total": 455,
-      "new": 0
-    },
     {
       "at": "2026-08-12T13:45:43.379Z",
       "total": 455,
@@ -19894,7 +19959,12 @@
       "at": "2026-11-11T00:39:16.958Z",
       "total": 258,
       "new": 0
+    },
+    {
+      "at": "2026-11-11T19:34:10.383Z",
+      "total": 287,
+      "new": 10
     }
   ],
-  "lastRun": "2026-11-11T00:39:16.958Z"
+  "lastRun": "2026-11-11T19:34:10.383Z"
 }
