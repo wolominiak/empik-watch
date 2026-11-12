@@ -18962,14 +18962,58 @@
       "url": "https://www.empik.com/kazdego-dnia-jeden-krok-jak-konsekwentnie-dazyc-do-sukcesu-hossainpour-kiarash-hopf-philip,p1826922910,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-11T19:34:10.383Z"
+    },
+    "p1814685973": {
+      "id": "p1814685973",
+      "title": "Pieśniarka ze Smutków - Otto Braidee",
+      "url": "https://www.empik.com/piesniarka-ze-smutkow-otto-braidee,p1814685973,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1814693158": {
+      "id": "p1814693158",
+      "title": "Perfect Rivals. (barwione brzegi) - Nina Słowik",
+      "url": "https://www.empik.com/perfect-rivals-barwione-brzegi-nina-slowik,p1814693158,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1814698393": {
+      "id": "p1814698393",
+      "title": "Mutual Desire - Natalia Wiktor",
+      "url": "https://www.empik.com/mutual-desire-natalia-wiktor,p1814698393,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1776832280": {
+      "id": "p1776832280",
+      "title": "Groby. Pamięć w miejscach Zagłady - Saryusz-Wolska Magdalena",
+      "url": "https://www.empik.com/groby-pamiec-w-miejscach-zaglady-saryusz-wolska-magdalena,p1776832280,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1775642422": {
+      "id": "p1775642422",
+      "title": "Requiem dla snu - Selby Hubert Jr.",
+      "url": "https://www.empik.com/requiem-dla-snu-selby-hubert-jr,p1775642422,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1803206390": {
+      "id": "p1803206390",
+      "title": "Pamiątki Soplicy - Rzewuski Henryk",
+      "url": "https://www.empik.com/pamiatki-soplicy-rzewuski-henryk,p1803206390,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
+    },
+    "p1775642918": {
+      "id": "p1775642918",
+      "title": "Dziewięćdziesiąt dni za żelazną kurtyną - Gabriel García Márquez",
+      "url": "https://www.empik.com/dziewiecdziesiat-dni-za-zelazna-kurtyna-gabriel-garcia-marquez,p1775642918,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-12T19:52:57.689Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-12T17:11:37.205Z",
-      "total": 458,
-      "new": 4
-    },
     {
       "at": "2026-08-12T21:02:51.491Z",
       "total": 459,
@@ -19964,7 +20008,12 @@
       "at": "2026-11-12T01:53:35.906Z",
       "total": 254,
       "new": 0
+    },
+    {
+      "at": "2026-11-12T19:52:57.689Z",
+      "total": 256,
+      "new": 7
     }
   ],
-  "lastRun": "2026-11-12T01:53:35.906Z"
+  "lastRun": "2026-11-12T19:52:57.689Z"
 }
