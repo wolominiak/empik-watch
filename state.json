@@ -19018,14 +19018,58 @@
       "url": "https://www.empik.com/wedrowcy-z-bagien-m-radzikowska-monika,p1826725007,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-13T01:03:45.011Z"
+    },
+    "p1828548721": {
+      "id": "p1828548721",
+      "title": "Runa. Mroczne początki psychiatrii - Buck Vera",
+      "url": "https://www.empik.com/runa-mroczne-poczatki-psychiatrii-buck-vera,p1828548721,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1821007261": {
+      "id": "p1821007261",
+      "title": "Pocałunek śmierci - Saviano Roberto",
+      "url": "https://www.empik.com/pocalunek-smierci-saviano-roberto,p1821007261,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1832251673": {
+      "id": "p1832251673",
+      "title": "Kiedyś Cię zobaczę - Lingas-Łoniewska Agnieszka",
+      "url": "https://www.empik.com/kiedys-cie-zobacze-lingas-loniewska-agnieszka,p1832251673,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1785515020": {
+      "id": "p1785515020",
+      "title": "Tu i teraz - Anna Kulawik",
+      "url": "https://www.empik.com/tu-i-teraz-anna-kulawik,p1785515020,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1814708584": {
+      "id": "p1814708584",
+      "title": "Zatraceni w sobie - Geissinger J.T.",
+      "url": "https://www.empik.com/zatraceni-w-sobie-geissinger-j-t,p1814708584,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1821030667": {
+      "id": "p1821030667",
+      "title": "Zasady myślenia. Myśl tworzy wszystko - Byrne Rhonda",
+      "url": "https://www.empik.com/zasady-myslenia-mysl-tworzy-wszystko-byrne-rhonda,p1821030667,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1826890170": {
+      "id": "p1826890170",
+      "title": "Ponadświadomość istnieje. Dowody na istnienie życia po życiu - Cebrian Juan Carlos, Segarra Manuel Sans",
+      "url": "https://www.empik.com/ponadswiadomosc-istnieje-dowody-na-istnienie-zycia-po-zyciu-cebrian-juan-carlos-segarra-manuel-sans,p1826890170,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-13T19:40:17.421Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-13T13:46:42.178Z",
-      "total": 467,
-      "new": 11
-    },
     {
       "at": "2026-08-13T17:11:20.095Z",
       "total": 462,
@@ -20020,7 +20064,12 @@
       "at": "2026-11-13T01:03:45.011Z",
       "total": 226,
       "new": 1
+    },
+    {
+      "at": "2026-11-13T19:40:17.421Z",
+      "total": 235,
+      "new": 7
     }
   ],
-  "lastRun": "2026-11-13T01:03:45.011Z"
+  "lastRun": "2026-11-13T19:40:17.421Z"
 }
