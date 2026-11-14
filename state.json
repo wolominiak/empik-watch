@@ -19067,14 +19067,23 @@
       "url": "https://www.empik.com/ponadswiadomosc-istnieje-dowody-na-istnienie-zycia-po-zyciu-cebrian-juan-carlos-segarra-manuel-sans,p1826890170,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-13T19:40:17.421Z"
+    },
+    "p1814739177": {
+      "id": "p1814739177",
+      "title": "ZagrajMY. Gra, która wspiera dobre relacje. Kapitan Nauka - Gut-Orłowska Magdalena",
+      "url": "https://www.empik.com/zagrajmy-gra-ktora-wspiera-dobre-relacje-kapitan-nauka-gut-orlowska-magdalena,p1814739177,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-14T00:52:59.550Z"
+    },
+    "p1826725326": {
+      "id": "p1826725326",
+      "title": "Chłopiec na Krańcach Świata. Szept Oceanu - Marczewski Mateusz, Wacławek Grzegorz",
+      "url": "https://www.empik.com/chlopiec-na-krancach-swiata-szept-oceanu-marczewski-mateusz-waclawek-grzegorz,p1826725326,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-14T00:52:59.550Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-13T17:11:20.095Z",
-      "total": 462,
-      "new": 6
-    },
     {
       "at": "2026-08-13T21:02:18.193Z",
       "total": 465,
@@ -20069,7 +20078,12 @@
       "at": "2026-11-13T19:40:17.421Z",
       "total": 235,
       "new": 7
+    },
+    {
+      "at": "2026-11-14T00:52:59.550Z",
+      "total": 241,
+      "new": 2
     }
   ],
-  "lastRun": "2026-11-13T19:40:17.421Z"
+  "lastRun": "2026-11-14T00:52:59.550Z"
 }
