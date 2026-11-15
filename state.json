@@ -19088,14 +19088,30 @@
       "url": "https://www.empik.com/milosna-magia-fay-keenan,p1826923089,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-15T18:50:24.032Z"
+    },
+    "p1798420254": {
+      "id": "p1798420254",
+      "title": "Święta nad Sekwaną - Raisin Rebecca",
+      "url": "https://www.empik.com/swieta-nad-sekwana-raisin-rebecca,p1798420254,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-15T23:57:44.727Z"
+    },
+    "p1781690262": {
+      "id": "p1781690262",
+      "title": "Holiday Ever After - Hannah Grace",
+      "url": "https://www.empik.com/holiday-ever-after-hannah-grace,p1781690262,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-15T23:57:44.727Z"
+    },
+    "p1826714533": {
+      "id": "p1826714533",
+      "title": "Tata Oli rozkręca imprezę - Brunstrom Thomas",
+      "url": "https://www.empik.com/tata-oli-rozkreca-impreze-brunstrom-thomas,p1826714533,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-15T23:57:44.727Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-14T20:44:43.896Z",
-      "total": 465,
-      "new": 0
-    },
     {
       "at": "2026-08-15T12:58:38.466Z",
       "total": 462,
@@ -20090,7 +20106,12 @@
       "at": "2026-11-15T18:50:24.032Z",
       "total": 245,
       "new": 1
+    },
+    {
+      "at": "2026-11-15T23:57:44.727Z",
+      "total": 233,
+      "new": 3
     }
   ],
-  "lastRun": "2026-11-15T18:50:24.032Z"
+  "lastRun": "2026-11-15T23:57:44.727Z"
 }
