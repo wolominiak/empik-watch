@@ -19081,14 +19081,16 @@
       "url": "https://www.empik.com/chlopiec-na-krancach-swiata-szept-oceanu-marczewski-mateusz-waclawek-grzegorz,p1826725326,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-14T00:52:59.550Z"
+    },
+    "p1826923089": {
+      "id": "p1826923089",
+      "title": "Miłosna magia - Fay Keenan",
+      "url": "https://www.empik.com/milosna-magia-fay-keenan,p1826923089,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-15T18:50:24.032Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-14T17:10:42.555Z",
-      "total": 465,
-      "new": 0
-    },
     {
       "at": "2026-08-14T20:44:43.896Z",
       "total": 465,
@@ -20083,7 +20085,12 @@
       "at": "2026-11-14T23:54:21.847Z",
       "total": 225,
       "new": 0
+    },
+    {
+      "at": "2026-11-15T18:50:24.032Z",
+      "total": 245,
+      "new": 1
     }
   ],
-  "lastRun": "2026-11-14T23:54:21.847Z"
+  "lastRun": "2026-11-15T18:50:24.032Z"
 }
