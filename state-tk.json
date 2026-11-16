@@ -30946,15 +30946,86 @@
       "url": "https://www.taniaksiazka.pl/biegiem-przez-swiat-wade-becky-outlet-p-1216140.html",
       "category": "Sport",
       "firstSeen": "2026-11-15T18:52:55.935Z"
+    },
+    "tk1227220": {
+      "id": "tk1227220",
+      "title": "Choroba Parkinsona",
+      "url": "https://www.taniaksiazka.pl/choroba-parkinsona-iris-reuter-p-1227220.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk1294826": {
+      "id": "tk1294826",
+      "title": "Sensoryka i motoryka w rozwoju dziecka i uczeniu się w aspekcie terapii integracji sensorycznej",
+      "url": "https://www.taniaksiazka.pl/sensoryka-i-motoryka-w-rozwoju-dziecka-i-uczeniu-sie-w-aspekcie-terapii-integracji-sensorycznej-jacek-szmalec-p-1294826.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk929081": {
+      "id": "tk929081",
+      "title": "Sprawozdawczość i analiza finansowa",
+      "url": "https://www.taniaksiazka.pl/sprawozdawczosc-i-analiza-finansowa-maria-gaertner-p-929081.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk337679": {
+      "id": "tk337679",
+      "title": "Kryminologia. Repetytorium",
+      "url": "https://www.taniaksiazka.pl/kryminologia-repetytorium-alicja-papierz-p-337679.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk1140056": {
+      "id": "tk1140056",
+      "title": "Tutoring. Teoria, praktyka, studia przypadków",
+      "url": "https://www.taniaksiazka.pl/tutoring-teoria-praktyka-studia-przypadkow-bartosz-fingas-p-1140056.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk1873529": {
+      "id": "tk1873529",
+      "title": "Kodeks postępowania karnego. Komentarz. Wydawnictwo Wolters Kluwer",
+      "url": "https://www.taniaksiazka.pl/kodeks-postepowania-karnego-komentarz-p-1873529.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk2393334": {
+      "id": "tk2393334",
+      "title": "Prawo pracy. Podręcznik akademicki",
+      "url": "https://www.taniaksiazka.pl/prawo-pracy-podrecznik-akademicki-p-2393334.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk912510": {
+      "id": "tk912510",
+      "title": "W pułapce niepokoju. Jak przechytrzyć własny mózg i przestać się zamartwiać",
+      "url": "https://www.taniaksiazka.pl/w-pulapce-niepokoju-jak-przechytrzyc-wlasny-mozg-i-przestac-sie-zamartwiac-david-carbonell-p-912510.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk419491": {
+      "id": "tk419491",
+      "title": "Fizykoterapia",
+      "url": "https://www.taniaksiazka.pl/fizykoterapia-tadeusz-mika-p-419491.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk1488050": {
+      "id": "tk1488050",
+      "title": "Podstawy jazdy na łyżwach, rolkach i wrotkach",
+      "url": "https://www.taniaksiazka.pl/podstawy-jazdy-na-lyzwach-rolkach-i-wrotkach-agnieszka-dobrowolska-p-1488050.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
+    },
+    "tk1610181": {
+      "id": "tk1610181",
+      "title": "Matti Nykänen. Życie to bal",
+      "url": "https://www.taniaksiazka.pl/matti-nykaenen-zycie-to-bal-jussi-niemi-p-1610181.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-16T22:00:34.465Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-15T12:59:23.274Z",
-      "total": 474,
-      "new": 35,
-      "failed": 0
-    },
     {
       "at": "2026-08-15T16:41:42.816Z",
       "total": 474,
@@ -32148,7 +32219,13 @@
       "total": 461,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-11-16T22:00:34.465Z",
+      "total": 443,
+      "new": 11,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-11-15T23:58:18.296Z"
+  "lastRun": "2026-11-16T22:00:34.465Z"
 }

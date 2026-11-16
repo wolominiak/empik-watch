@@ -19109,14 +19109,30 @@
       "url": "https://www.empik.com/tata-oli-rozkreca-impreze-brunstrom-thomas,p1826714533,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-15T23:57:44.727Z"
+    },
+    "p1778003776": {
+      "id": "p1778003776",
+      "title": "Dama Lama. W świecie dobrych manier - Czornyj Aleksandra",
+      "url": "https://www.empik.com/dama-lama-w-swiecie-dobrych-manier-czornyj-aleksandra,p1778003776,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-16T21:59:54.741Z"
+    },
+    "p1827434379": {
+      "id": "p1827434379",
+      "title": "Cicha noc. Nieznane kulisy zbrodni połanieckiej - Wojciech Malicki",
+      "url": "https://www.empik.com/cicha-noc-nieznane-kulisy-zbrodni-polanieckiej-wojciech-malicki,p1827434379,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-16T21:59:54.741Z"
+    },
+    "p1827337465": {
+      "id": "p1827337465",
+      "title": "Sztuka oszustwa. Wszystkie twarze Joanny S. - Szwajgier Agnieszka",
+      "url": "https://www.empik.com/sztuka-oszustwa-wszystkie-twarze-joanny-s-szwajgier-agnieszka,p1827337465,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-16T21:59:54.741Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-15T12:58:38.466Z",
-      "total": 462,
-      "new": 0
-    },
     {
       "at": "2026-08-15T16:41:00.130Z",
       "total": 462,
@@ -20111,7 +20127,12 @@
       "at": "2026-11-15T23:57:44.727Z",
       "total": 233,
       "new": 3
+    },
+    {
+      "at": "2026-11-16T21:59:54.741Z",
+      "total": 231,
+      "new": 3
     }
   ],
-  "lastRun": "2026-11-15T23:57:44.727Z"
+  "lastRun": "2026-11-16T21:59:54.741Z"
 }
