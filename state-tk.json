@@ -31191,15 +31191,65 @@
       "url": "https://www.taniaksiazka.pl/adrenalina-moje-nieznane-historie-zlatan-ibrahimovic-p-1643535.html",
       "category": "Sport",
       "firstSeen": "2026-11-17T20:54:55.331Z"
+    },
+    "tk522492": {
+      "id": "tk522492",
+      "title": "Zarządzanie hotelem. Wybrane zagadnienia",
+      "url": "https://www.taniaksiazka.pl/zarzadzanie-hotelem-wybrane-zagadnienia-piotr-dominik-red-nauk-p-522492.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk821485": {
+      "id": "tk821485",
+      "title": "Autyzm... Co to dla mnie znaczy? Podręcznik z ćwiczeniami dla dzieci i dorosłych ze spektrum autyzmu",
+      "url": "https://www.taniaksiazka.pl/autyzm-co-to-dla-mnie-znaczy-podrecznik-z-cwiczeniami-dla-dzieci-i-doroslych-ze-spektrum-autyzmu-catherine-faherty-p-821485.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk558828": {
+      "id": "tk558828",
+      "title": "Dwa oblicza traumy. Negatywne i pozytywne skutki zdarzeń traumatycznych u pracowników służb ratowniczych",
+      "url": "https://www.taniaksiazka.pl/dwa-oblicza-traumy-negatywne-i-pozytywne-skutki-zdarzen-traumatycznych-u-pracownikow-sluzb-ratowniczych-nina-oginska-bulik-p-558828.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk1866752": {
+      "id": "tk1866752",
+      "title": "Prawo administracyjne - część ogólna i zagadnienia ustrojowe przed egzaminem",
+      "url": "https://www.taniaksiazka.pl/prawo-administracyjne-czesc-ogolna-i-zagadnienia-ustrojowe-przed-egzaminem-monika-augustyniak-p-1866752.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk637225": {
+      "id": "tk637225",
+      "title": "Jeździec w świecie koni",
+      "url": "https://www.taniaksiazka.pl/jezdziec-w-swiecie-koni-sarah-widdicombe-p-637225.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk1636829": {
+      "id": "tk1636829",
+      "title": "Scottie Pippen. Bez krycia",
+      "url": "https://www.taniaksiazka.pl/scottie-pippen-bez-krycia-michael-arkush-p-1636829.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk838340": {
+      "id": "tk838340",
+      "title": "Wojowniczka",
+      "url": "https://www.taniaksiazka.pl/joanna-jedrzejczyk-wojowniczka-p-838340.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
+    },
+    "tk1610520": {
+      "id": "tk1610520",
+      "title": "Robert Kubica Wyścig życia",
+      "url": "https://www.taniaksiazka.pl/robert-kubica-wyscig-zycia-agnieszka-skorzewska-outlet-p-1610520.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-18T20:30:21.669Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-15T20:38:28.574Z",
-      "total": 474,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-08-16T13:00:37.140Z",
       "total": 475,
@@ -32393,7 +32443,13 @@
       "total": 420,
       "new": 24,
       "failed": 0
+    },
+    {
+      "at": "2026-11-18T20:30:21.669Z",
+      "total": 407,
+      "new": 8,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-11-17T20:54:55.331Z"
+  "lastRun": "2026-11-18T20:30:21.669Z"
 }

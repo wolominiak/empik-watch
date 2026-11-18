@@ -19242,14 +19242,72 @@
       "url": "https://www.empik.com/chwila-szymborska-wislawa,p1827424752,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-17T20:53:46.685Z"
+    },
+    "p1828572001": {
+      "id": "p1828572001",
+      "title": "Łamigłówki i zagadki dla seniorów. Poziom trudności: łatwe - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/lamiglowki-i-zagadki-dla-seniorow-poziom-trudnosci-latwe-opracowanie-zbiorowe,p1828572001,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1792508480": {
+      "id": "p1792508480",
+      "title": "Pakiet: Moc słowa / Moc wiary / Moc nadziei / Moc wolności/ Moc Miłosierdzia - Ryś Grzegorz",
+      "url": "https://www.empik.com/pakiet-moc-slowa-moc-wiary-moc-nadziei-moc-wolnosci-moc-milosierdzia-rys-grzegorz,p1792508480,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1820996393": {
+      "id": "p1820996393",
+      "title": "Epoka drapieżców - Giuliano Da Empoli",
+      "url": "https://www.empik.com/epoka-drapiezcow-giuliano-da-empoli,p1820996393,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1840223949": {
+      "id": "p1840223949",
+      "title": "Snow crush - Jurga Paulina",
+      "url": "https://www.empik.com/snow-crush-jurga-paulina,p1840223949,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1784861630": {
+      "id": "p1784861630",
+      "title": "Pierwotna Krwi i Kości. Z krwi i popiołu. Tom 6.2 - Armentrout Jennifer L.",
+      "url": "https://www.empik.com/pierwotna-krwi-i-kosci-z-krwi-i-popiolu-tom-6-2-armentrout-jennifer-l,p1784861630,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1773874823": {
+      "id": "p1773874823",
+      "title": "I hate you, but I will marry you - Magoska-Suchar Monika",
+      "url": "https://www.empik.com/i-hate-you-but-i-marry-you-magoska-suchar-monika,p1773874823,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1827338844": {
+      "id": "p1827338844",
+      "title": "Duchy Inków - Jolanta Maria Kaleta",
+      "url": "https://www.empik.com/duchy-inkow-jolanta-maria-kaleta,p1827338844,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1781689451": {
+      "id": "p1781689451",
+      "title": "Nuut i olbrzym - Mortka Marcin",
+      "url": "https://www.empik.com/nuut-i-olbrzym-mortka-marcin,p1781689451,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1781676138": {
+      "id": "p1781676138",
+      "title": "Wielka księga piłkarskich łamigłówek. Piłka klubowa - Żółtowska-Darska Yvette, Darski Milo",
+      "url": "https://www.empik.com/pilkarskie-quizy-2-zoltowska-darska-yvette-darski-milo,p1781676138,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-18T20:29:34.620Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-15T20:37:47.198Z",
-      "total": 462,
-      "new": 0
-    },
     {
       "at": "2026-08-16T12:59:50.946Z",
       "total": 462,
@@ -20244,7 +20302,12 @@
       "at": "2026-11-17T20:53:46.685Z",
       "total": 241,
       "new": 16
+    },
+    {
+      "at": "2026-11-18T20:29:34.620Z",
+      "total": 238,
+      "new": 9
     }
   ],
-  "lastRun": "2026-11-17T20:53:46.685Z"
+  "lastRun": "2026-11-18T20:29:34.620Z"
 }
