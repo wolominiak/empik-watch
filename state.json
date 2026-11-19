@@ -19305,14 +19305,44 @@
       "url": "https://www.empik.com/pilkarskie-quizy-2-zoltowska-darska-yvette-darski-milo,p1781676138,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-18T20:29:34.620Z"
+    },
+    "p1809033839": {
+      "id": "p1809033839",
+      "title": "Pakiet: Jego piękna żona / Dziennik pokojówki / Pamiętnik mojej siostry - White Loreth Anne",
+      "url": "https://www.empik.com/pakiet-jego-piekna-zona-dziennik-pokojowki-pamietnik-mojej-siostry-white-loreth-anne,p1809033839,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-19T20:35:09.593Z"
+    },
+    "p1842232853": {
+      "id": "p1842232853",
+      "title": "Nie zakochaj się we mnie - Toon Paige",
+      "url": "https://www.empik.com/nie-zakochaj-sie-we-mnie-toon-paige,p1842232853,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-19T20:35:09.593Z"
+    },
+    "p1747555202": {
+      "id": "p1747555202",
+      "title": "Arcana - Świst Paulina",
+      "url": "https://www.empik.com/arcana-swist-paulina,p1747555202,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-19T20:35:09.593Z"
+    },
+    "p1814712842": {
+      "id": "p1814712842",
+      "title": "Imperium Grzechu - Jurga Karolina",
+      "url": "https://www.empik.com/imperium-grzechu-jurga-karolina,p1814712842,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-19T20:35:09.593Z"
+    },
+    "p1792373361": {
+      "id": "p1792373361",
+      "title": "Babciu, opowiedz mi o swojej kuchni - Jeffrey Mason",
+      "url": "https://www.empik.com/babciu-opowiedz-mi-o-swojej-kuchni-jeffrey-mason,p1792373361,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-19T20:35:09.593Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-16T12:59:50.946Z",
-      "total": 462,
-      "new": 0
-    },
     {
       "at": "2026-08-16T16:41:46.108Z",
       "total": 461,
@@ -20307,7 +20337,12 @@
       "at": "2026-11-18T20:29:34.620Z",
       "total": 238,
       "new": 9
+    },
+    {
+      "at": "2026-11-19T20:35:09.593Z",
+      "total": 236,
+      "new": 5
     }
   ],
-  "lastRun": "2026-11-18T20:29:34.620Z"
+  "lastRun": "2026-11-19T20:35:09.593Z"
 }
