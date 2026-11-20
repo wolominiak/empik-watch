@@ -19340,14 +19340,72 @@
       "url": "https://www.empik.com/babciu-opowiedz-mi-o-swojej-kuchni-jeffrey-mason,p1792373361,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-19T20:35:09.593Z"
+    },
+    "p1826714551": {
+      "id": "p1826714551",
+      "title": "Piekielne święta (ilustrowane brzegi) - Karina Majsterek",
+      "url": "https://www.empik.com/piekielne-swieta-ilustrowane-brzegi-karina-majsterek,p1826714551,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1775547154": {
+      "id": "p1775547154",
+      "title": "Zacisze w Wierzbówce T. 3. W objęciach zimowego snu - Rak Aleksandra",
+      "url": "https://www.empik.com/zacisze-w-wierzbowce-t-3-w-objeciach-zimowego-snu-rak-aleksandra,p1775547154,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1805318839": {
+      "id": "p1805318839",
+      "title": "Błogosławieństwo Niebios. Tom 7 - Mo Xiang Tong Xiu",
+      "url": "https://www.empik.com/blogoslawienstwo-niebios-tom-7-mo-xiang-tong-xiu,p1805318839,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1821057354": {
+      "id": "p1821057354",
+      "title": "Maroko. Wszystkie barwy mozaiki. Oblicza świata - Kozak Kamil",
+      "url": "https://www.empik.com/maroko-wszystkie-barwy-mozaiki-oblicza-swiata-kozak-kamil,p1821057354,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1842402212": {
+      "id": "p1842402212",
+      "title": "Schody. Wspomnienia - Stallone Sylvester",
+      "url": "https://www.empik.com/schody-wspomnienia-stallone-sylvester,p1842402212,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1826941614": {
+      "id": "p1826941614",
+      "title": "Taming the Heart - Rose Elliott",
+      "url": "https://www.empik.com/taming-the-heart-rose-elliott,p1826941614,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1826941605": {
+      "id": "p1826941605",
+      "title": "Paint It All Red - S.T. Abby",
+      "url": "https://www.empik.com/paint-it-all-red-s-t-abby,p1826941605,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1841222628": {
+      "id": "p1841222628",
+      "title": "Zakochani w Świecie. O podróży która ciągle trwa. Oman, Sri Lanka, Indie - Grzymkowska-Podolak Joanna",
+      "url": "https://www.empik.com/zakochani-w-swiecie-o-podrozy-ktora-ciagle-trwa-oman-sri-lanka-indie-grzymkowska-podolak-joanna,p1841222628,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1838652917": {
+      "id": "p1838652917",
+      "title": "Opętani przez Jehowę - Matusiak Anna",
+      "url": "https://www.empik.com/opetani-przez-jehowe-matusiak-anna,p1838652917,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-20T20:16:45.125Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-16T16:41:46.108Z",
-      "total": 461,
-      "new": 0
-    },
     {
       "at": "2026-08-16T20:36:48.048Z",
       "total": 456,
@@ -20342,7 +20400,12 @@
       "at": "2026-11-19T20:35:09.593Z",
       "total": 236,
       "new": 5
+    },
+    {
+      "at": "2026-11-20T20:16:45.125Z",
+      "total": 237,
+      "new": 9
     }
   ],
-  "lastRun": "2026-11-19T20:35:09.593Z"
+  "lastRun": "2026-11-20T20:16:45.125Z"
 }
