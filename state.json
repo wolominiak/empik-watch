@@ -19410,14 +19410,37 @@
       "url": "https://www.empik.com/kosmiczny-galimatias-dubois-jacek,p1840472226,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-21T01:34:28.829Z"
+    },
+    "p1842183690": {
+      "id": "p1842183690",
+      "title": "To jej wina - Mara Andrea",
+      "url": "https://www.empik.com/to-jej-wina-mara-andrea,p1842183690,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-21T19:14:17.244Z"
+    },
+    "p1842276778": {
+      "id": "p1842276778",
+      "title": "Terapia (limitowana edycja) - Fitzek Sebastian",
+      "url": "https://www.empik.com/terapia-limitowana-edycja-fitzek-sebastian,p1842276778,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-21T19:14:17.244Z"
+    },
+    "p1842285758": {
+      "id": "p1842285758",
+      "title": "Terapia - Fitzek Sebastian",
+      "url": "https://www.empik.com/terapia-fitzek-sebastian,p1842285758,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-21T19:14:17.244Z"
+    },
+    "p1749365728": {
+      "id": "p1749365728",
+      "title": "Przyjaźń - Herngren Moa",
+      "url": "https://www.empik.com/przyjazn-herngren-moa,p1749365728,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-21T19:14:17.244Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-17T13:04:54.824Z",
-      "total": 457,
-      "new": 7
-    },
     {
       "at": "2026-08-17T16:45:03.925Z",
       "total": 459,
@@ -20412,7 +20435,12 @@
       "at": "2026-11-21T01:34:28.829Z",
       "total": 221,
       "new": 1
+    },
+    {
+      "at": "2026-11-21T19:14:17.244Z",
+      "total": 211,
+      "new": 4
     }
   ],
-  "lastRun": "2026-11-21T01:34:28.829Z"
+  "lastRun": "2026-11-21T19:14:17.244Z"
 }
