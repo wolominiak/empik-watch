@@ -19403,14 +19403,16 @@
       "url": "https://www.empik.com/opetani-przez-jehowe-matusiak-anna,p1838652917,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-20T20:16:45.125Z"
+    },
+    "p1840472226": {
+      "id": "p1840472226",
+      "title": "Kosmiczny galimatias - Dubois Jacek",
+      "url": "https://www.empik.com/kosmiczny-galimatias-dubois-jacek,p1840472226,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-21T01:34:28.829Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-16T20:36:48.048Z",
-      "total": 456,
-      "new": 0
-    },
     {
       "at": "2026-08-17T13:04:54.824Z",
       "total": 457,
@@ -20405,7 +20407,12 @@
       "at": "2026-11-20T20:16:45.125Z",
       "total": 237,
       "new": 9
+    },
+    {
+      "at": "2026-11-21T01:34:28.829Z",
+      "total": 221,
+      "new": 1
     }
   ],
-  "lastRun": "2026-11-20T20:16:45.125Z"
+  "lastRun": "2026-11-21T01:34:28.829Z"
 }
