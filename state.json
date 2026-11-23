@@ -19438,14 +19438,44 @@
       "url": "https://www.empik.com/przyjazn-herngren-moa,p1749365728,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-21T19:14:17.244Z"
+    },
+    "p1840443923": {
+      "id": "p1840443923",
+      "title": "Agencja detektywistyczna - Dubois Jacek",
+      "url": "https://www.empik.com/agencja-detektywistyczna-dubois-jacek,p1840443923,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-23T23:52:11.104Z"
+    },
+    "p1826972465": {
+      "id": "p1826972465",
+      "title": "Ponowa - Puzyńska Katarzyna",
+      "url": "https://www.empik.com/ponowa-puzynska-katarzyna,p1826972465,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-23T23:52:11.104Z"
+    },
+    "p1833879324": {
+      "id": "p1833879324",
+      "title": "Książka wspomnień Dziadka - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/ksiazka-wspomnien-dziadka-opracowanie-zbiorowe,p1833879324,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-23T23:52:11.104Z"
+    },
+    "p1833861440": {
+      "id": "p1833861440",
+      "title": "Książka wspomnień Babci - Opracowanie zbiorowe",
+      "url": "https://www.empik.com/ksiazka-wspomnien-babci-opracowanie-zbiorowe,p1833861440,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-23T23:52:11.104Z"
+    },
+    "p1838655774": {
+      "id": "p1838655774",
+      "title": "Oddajcie nam syna. Kulisy porwania Krzysztofa Olewnika - Socha Robert",
+      "url": "https://www.empik.com/oddajcie-nam-syna-kulisy-porwania-krzysztofa-olewnika-socha-robert,p1838655774,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-23T23:52:11.104Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-18T16:47:49.496Z",
-      "total": 494,
-      "new": 22
-    },
     {
       "at": "2026-08-18T20:40:03.788Z",
       "total": 494,
@@ -20440,7 +20470,12 @@
       "at": "2026-11-23T00:51:29.646Z",
       "total": 193,
       "new": 0
+    },
+    {
+      "at": "2026-11-23T23:52:11.104Z",
+      "total": 206,
+      "new": 5
     }
   ],
-  "lastRun": "2026-11-23T00:51:29.646Z"
+  "lastRun": "2026-11-23T23:52:11.104Z"
 }

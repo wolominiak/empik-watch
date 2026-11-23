@@ -32416,15 +32416,93 @@
       "url": "https://www.taniaksiazka.pl/w-poszukiwaniu-zaginionej-chwaly-historia-reprezentacji-anglii-1872-2022-paul-hayward-p-2017789.html",
       "category": "Sport",
       "firstSeen": "2026-11-22T19:38:09.819Z"
+    },
+    "tk1288267": {
+      "id": "tk1288267",
+      "title": "Metody analizy finansowej przedsiębiorstwa",
+      "url": "https://www.taniaksiazka.pl/metody-analizy-finansowej-przedsiebiorstwa-wiktor-gabrusewicz-p-1288267.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk2456373": {
+      "id": "tk2456373",
+      "title": "Algorytmy optymalizacji systemów wytwarzania...",
+      "url": "https://www.taniaksiazka.pl/algorytmy-optymalizacji-systemow-wytwarzania-p-2456373.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk333230": {
+      "id": "tk333230",
+      "title": "Fonetyka hiszpańska",
+      "url": "https://www.taniaksiazka.pl/fonetyka-hiszpanska-nowikow-wieczyslaw-p-333230.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk1425617": {
+      "id": "tk1425617",
+      "title": "Poradnik inżyniera elektryka T.1 cz.1 rozdz. 1-7",
+      "url": "https://www.taniaksiazka.pl/poradnik-inzyniera-elektryka-tom-1-rozdzialy-1-7-stanislaw-bolkowski-p-1425617.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk904282": {
+      "id": "tk904282",
+      "title": "Chemia organiczna. Tom 4",
+      "url": "https://www.taniaksiazka.pl/chemia-organiczna-tom-4-john-mcmurry-p-904282.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk614723": {
+      "id": "tk614723",
+      "title": "Excel 2016 PL. Ćwiczenia zaawansowane",
+      "url": "https://www.taniaksiazka.pl/excel-2016-pl-cwiczenia-zaawansowane-krzysztof-maslowski-p-614723.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk156606": {
+      "id": "tk156606",
+      "title": "Gnatofizjologia stomatologiczna. Normy okluzji i funkcje ukladu stomatognatycznego",
+      "url": "https://www.taniaksiazka.pl/gnatofizjologia-stomatologiczna-normy-okluzji-i-funkcje-ukladu-stomatognatycznego-stanislaw-majewski-p-156606.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk884438": {
+      "id": "tk884438",
+      "title": "Abstynencja czy ograniczanie picia? Znaczenie zasobów w przewidywaniu abstynencji osób uzależnionych od alkoholu we wczesnej fazie zdrowienia",
+      "url": "https://www.taniaksiazka.pl/abstynencja-czy-ograniczanie-picia-znaczenie-zasobow-w-przewidywaniu-abstynencji-osob-uzaleznionych-od-alkoholu-we-wczesnej-fazie-zdrowienia-robert-modrzynski-p-884438.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk310040": {
+      "id": "tk310040",
+      "title": "Fizjoterapia w neurologii i neurochirurgii",
+      "url": "https://www.taniaksiazka.pl/fizjoterapia-w-neurologii-i-neurochirurgii-andrzej-kwolek-p-310040.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk1590075": {
+      "id": "tk1590075",
+      "title": "Ontologie w systemach informatycznych",
+      "url": "https://www.taniaksiazka.pl/ontologie-w-systemach-informatycznych-krzysztof-goczyla-p-1590075.html",
+      "category": "Podręczniki akademickie",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk983107": {
+      "id": "tk983107",
+      "title": "Samo Sedno - Ultramaratony biegowe i kolarskie",
+      "url": "https://www.taniaksiazka.pl/ultramaratony-biegowe-i-kolarskie-grzegorz-rogoz-outlet-p-983107.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
+    },
+    "tk597179": {
+      "id": "tk597179",
+      "title": "Trening siłowy bez sprzętu. Tom 2",
+      "url": "https://www.taniaksiazka.pl/trening-silowy-bez-sprzetu-t-2-2015-olivier-lafay-p-597179.html",
+      "category": "Sport",
+      "firstSeen": "2026-11-23T23:52:46.887Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-18T16:49:27.641Z",
-      "total": 474,
-      "new": 0,
-      "failed": 0
-    },
     {
       "at": "2026-08-18T20:40:48.039Z",
       "total": 474,
@@ -33618,7 +33696,13 @@
       "total": 387,
       "new": 0,
       "failed": 0
+    },
+    {
+      "at": "2026-11-23T23:52:46.887Z",
+      "total": 372,
+      "new": 12,
+      "failed": 0
     }
   ],
-  "lastRun": "2026-11-23T00:51:53.323Z"
+  "lastRun": "2026-11-23T23:52:46.887Z"
 }
