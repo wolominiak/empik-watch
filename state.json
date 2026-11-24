@@ -19473,14 +19473,72 @@
       "url": "https://www.empik.com/oddajcie-nam-syna-kulisy-porwania-krzysztofa-olewnika-socha-robert,p1838655774,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-23T23:52:11.104Z"
+    },
+    "p1798411760": {
+      "id": "p1798411760",
+      "title": "Opuszczony hotel. Escape room - Eva Eich",
+      "url": "https://www.empik.com/opuszczony-hotel-escape-room-eva-eich,p1798411760,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1828668955": {
+      "id": "p1828668955",
+      "title": "Na warszawskich salonach Być jego lalką. Tom 3 - Zielaskiewicz Ewelina",
+      "url": "https://www.empik.com/na-warszawskich-salonach-byc-jego-lalka-tom-3-zielaskiewicz-ewelina,p1828668955,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1828668797": {
+      "id": "p1828668797",
+      "title": "Bezczelna panna Oliwia Być jego lalką. Tom 4 - Zielaskiewicz Ewelina",
+      "url": "https://www.empik.com/bezczelna-panna-oliwia-byc-jego-lalka-tom-4-zielaskiewicz-ewelina,p1828668797,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1842380035": {
+      "id": "p1842380035",
+      "title": "Sycylia. Krótka historia od czasów greckich do cosa nostry - Norwich John Julius",
+      "url": "https://www.empik.com/sycylia-krotka-historia-od-czasow-greckich-do-cosa-nostry-norwich-john-julius,p1842380035,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1840163300": {
+      "id": "p1840163300",
+      "title": "Co zrobiłby Harry? Jak być bohaterem w prawdziwym życiu. Lekcje z magicznego świata Harry'ego Pottera - Sharaf Juliana",
+      "url": "https://www.empik.com/co-zrobilby-harry-jak-byc-bohaterem-w-prawdziwym-zyciu-lekcje-z-magicznego-swiata-harry-ego-potter-sharaf-juliana,p1840163300,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1842321874": {
+      "id": "p1842321874",
+      "title": "Mój ślad. Wiersze zebrane 1966-2026 - Bartnikowski Bogdan",
+      "url": "https://www.empik.com/moj-slad-wiersze-zebrane-1966-2026-bartnikowski-bogdan,p1842321874,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1840204120": {
+      "id": "p1840204120",
+      "title": "Czy wiemy, co robimy? - Chyrowicz Barbara",
+      "url": "https://www.empik.com/czy-wiemy-co-robimy-chyrowicz-barbara,p1840204120,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1826887495": {
+      "id": "p1826887495",
+      "title": "Niezwykłe opowieści z Doliny Muminków - Amanda Li",
+      "url": "https://www.empik.com/niezwykle-opowiesci-z-doliny-muminkow-amanda-li,p1826887495,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
+    },
+    "p1851167603": {
+      "id": "p1851167603",
+      "title": "Teoria uwodzenia - Emily Adrian",
+      "url": "https://www.empik.com/teoria-uwodzenia-emily-adrian,p1851167603,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-24T22:25:18.780Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-18T20:40:03.788Z",
-      "total": 494,
-      "new": 0
-    },
     {
       "at": "2026-08-19T13:07:56.177Z",
       "total": 500,
@@ -20475,7 +20533,12 @@
       "at": "2026-11-23T23:52:11.104Z",
       "total": 206,
       "new": 5
+    },
+    {
+      "at": "2026-11-24T22:25:18.780Z",
+      "total": 174,
+      "new": 9
     }
   ],
-  "lastRun": "2026-11-23T23:52:11.104Z"
+  "lastRun": "2026-11-24T22:25:18.780Z"
 }
