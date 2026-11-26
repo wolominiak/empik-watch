@@ -19711,14 +19711,65 @@
       "url": "https://www.empik.com/rozgryzione-jak-nauczyc-dziecko-dobrze-jesc-marta-kostka-zuzanna-wedolowska,p1832545590,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-25T21:40:14.763Z"
+    },
+    "p1842213690": {
+      "id": "p1842213690",
+      "title": "Pakiet: Trylogia Wojen Makowych (edycja limitowana) - Kuang Rebecca F.",
+      "url": "https://www.empik.com/pakiet-trylogia-wojen-makowych-edycja-limitowana-kuang-rebecca-f,p1842213690,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1782117562": {
+      "id": "p1782117562",
+      "title": "Był dom… Wspomnienia - Szatkowska Anna",
+      "url": "https://www.empik.com/byl-dom-wspomnienia-szatkowska-anna,p1782117562,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1746141446": {
+      "id": "p1746141446",
+      "title": "Bracia Grimm. Baśnie niekoniecznie dla dzieci - Bracia Grimm",
+      "url": "https://www.empik.com/pociag-o-polnocy-haig-matt,p1746141446,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1778859218": {
+      "id": "p1778859218",
+      "title": "Bluszcz - Peszek Agnieszka",
+      "url": "https://www.empik.com/bluszcz-peszek-agnieszka,p1778859218,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1838319748": {
+      "id": "p1838319748",
+      "title": "Wildwood. Kroniki Lasu - Meloy Colin",
+      "url": "https://www.empik.com/wildwood-kroniki-lasu-meloy-colin,p1838319748,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1848311240": {
+      "id": "p1848311240",
+      "title": "Będąc z Tobą, jestem sobą - Ławniczak Miłosz",
+      "url": "https://www.empik.com/bedac-z-toba-jestem-soba-lawniczak-milosz,p1848311240,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1840134496": {
+      "id": "p1840134496",
+      "title": "Racer's girlfriend - Mikołajczyk Kamila",
+      "url": "https://www.empik.com/racer-s-girlfriend-mikolajczyk-kamila,p1840134496,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1854469672": {
+      "id": "p1854469672",
+      "title": "Snape. Prawdziwa twarz tajemniczego mistrza eliksirów - Kim Lorrie",
+      "url": "https://www.empik.com/snape-prawdziwa-twarz-tajemniczego-mistrza-eliksirow-kim-lorrie,p1854469672,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-26T21:29:45.519Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-19T16:46:08.243Z",
-      "total": 494,
-      "new": 3
-    },
     {
       "at": "2026-08-19T20:44:52.827Z",
       "total": 485,
@@ -20713,7 +20764,12 @@
       "at": "2026-11-25T21:40:14.763Z",
       "total": 183,
       "new": 25
+    },
+    {
+      "at": "2026-11-26T21:29:45.519Z",
+      "total": 183,
+      "new": 8
     }
   ],
-  "lastRun": "2026-11-25T21:40:14.763Z"
+  "lastRun": "2026-11-26T21:29:45.519Z"
 }
