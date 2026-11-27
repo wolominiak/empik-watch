@@ -19767,14 +19767,58 @@
       "url": "https://www.empik.com/snape-prawdziwa-twarz-tajemniczego-mistrza-eliksirow-kim-lorrie,p1854469672,ksiazka-p",
       "category": "",
       "firstSeen": "2026-11-26T21:29:45.519Z"
+    },
+    "p1785341179": {
+      "id": "p1785341179",
+      "title": "Narodził się Ten którego przyjście zapowiadali prorocy - Sieg Franciszek",
+      "url": "https://www.empik.com/narodzil-sie-ten-ktorego-przyjscie-zapowiadali-prorocy-sieg-franciszek,p1785341179,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1840456149": {
+      "id": "p1840456149",
+      "title": "Córka detektywa - Spindler Erica",
+      "url": "https://www.empik.com/corka-detektywa-spindler-erica,p1840456149,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1851211357": {
+      "id": "p1851211357",
+      "title": "Sanguina - Rozmus Piotr",
+      "url": "https://www.empik.com/sanguina-rozmus-piotr,p1851211357,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1852808707": {
+      "id": "p1852808707",
+      "title": "Wzór na koszmar - Natalia R. Kurtz",
+      "url": "https://www.empik.com/wzor-na-koszmar-natalia-r-kurtz,p1852808707,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1856671439": {
+      "id": "p1856671439",
+      "title": "Wesela. Arabskie śluby.Tom 2 - Margielewski Marcin",
+      "url": "https://www.empik.com/wesela-arabskie-sluby-tom-2-margielewski-marcin,p1856671439,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1852683904": {
+      "id": "p1852683904",
+      "title": "U-Booty. Podwodny koszmar wilczych stad - Moorhouse Roger",
+      "url": "https://www.empik.com/u-booty-podwodny-koszmar-wilczych-stad-moorhouse-roger,p1852683904,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
+    },
+    "p1853078233": {
+      "id": "p1853078233",
+      "title": "Autobiografia czerwonego. Powieść wierszem wyd. 3 - Carson Anne",
+      "url": "https://www.empik.com/autobiografia-czerwonego-powiesc-wierszem-wyd-3-carson-anne,p1853078233,ksiazka-p",
+      "category": "",
+      "firstSeen": "2026-11-27T21:15:33.575Z"
     }
   },
   "log": [
-    {
-      "at": "2026-08-19T20:44:52.827Z",
-      "total": 485,
-      "new": 1
-    },
     {
       "at": "2026-08-20T13:10:20.077Z",
       "total": 500,
@@ -20769,7 +20813,12 @@
       "at": "2026-11-26T21:29:45.519Z",
       "total": 183,
       "new": 8
+    },
+    {
+      "at": "2026-11-27T21:15:33.575Z",
+      "total": 185,
+      "new": 7
     }
   ],
-  "lastRun": "2026-11-26T21:29:45.519Z"
+  "lastRun": "2026-11-27T21:15:33.575Z"
 }
